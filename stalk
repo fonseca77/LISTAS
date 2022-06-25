@@ -1,0 +1,1287 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name=" TELEAMAZONAS (SIERRA)" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="ECUADOR", TELEAMAZONAS (SIERRA)
+http://stalkertvlatinopanel.com:8080/antonio/123456/87768
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name=" TC TELEVISION" tvg-logo="https://i.pinimg.com/originals/b2/8a/2f/b28a2fafab313b56f77c5876f85016f3.png" group-title="ECUADOR", TC TELEVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/87763
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name=" OROMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR", OROMAR TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/87767
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name=" ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA
+http://stalkertvlatinopanel.com:8080/antonio/123456/87765
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name=" ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA
+http://stalkertvlatinopanel.com:8080/antonio/123456/87766
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name=" RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", RTS
+http://stalkertvlatinopanel.com:8080/antonio/123456/87761
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name=" ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR", ECUADOR TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/87762
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name=" TVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Televicentro_HN_logo_2020.png" group-title="ECUADOR", TVC
+http://stalkertvlatinopanel.com:8080/antonio/123456/87764
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name=" TC TELEVISION" tvg-logo="https://i.pinimg.com/originals/b2/8a/2f/b28a2fafab313b56f77c5876f85016f3.png" group-title="ECUADOR", TC TELEVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/6783
+#EXTINF:-1 tvg-id="" tvg-name=" EL CANAL DEL FUTBOL" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="ECUADOR", EL CANAL DEL FUTBOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/104213
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name=" DIRECTV SPORTS 1" tvg-logo="https://static.epg.best/co/DirectvSports.co.png" group-title="ECUADOR", DIRECTV SPORTS 1
+http://stalkertvlatinopanel.com:8080/antonio/123456/112096
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name=" DIRECTV SPORTS 2" tvg-logo="https://static.epg.best/co/DirectvSports2.co.png" group-title="ECUADOR", DIRECTV SPORTS 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/112097
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name=" DIRECTV SPORTS +" tvg-logo="https://static.epg.best/co/DirectvSportsPlus.co.png" group-title="ECUADOR", DIRECTV SPORTS +
+http://stalkertvlatinopanel.com:8080/antonio/123456/112098
+#EXTINF:-1 tvg-id="" tvg-name=" TELERAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", TELERAMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/118907
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name=" ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR HD", ECUAVISA
+http://stalkertvlatinopanel.com:8080/antonio/123456/940
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name=" ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR HD", ECUADOR TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/6545
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name=" ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR HD", ECUADOR TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/6546
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name=" OROMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR HD", OROMAR TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/6547
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name=" TC TELEVISION" tvg-logo="https://i.pinimg.com/originals/b2/8a/2f/b28a2fafab313b56f77c5876f85016f3.png" group-title="ECUADOR HD", TC TELEVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/6548
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name=" TELEAMAZONAS (COSTA)" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="ECUADOR HD", TELEAMAZONAS (COSTA)
+http://stalkertvlatinopanel.com:8080/antonio/123456/6549
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name=" DIRECTV SPORTS 1" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/101.png" group-title="ECUADOR HD", DIRECTV SPORTS 1
+http://stalkertvlatinopanel.com:8080/antonio/123456/6776
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name=" ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR HD", ECUAVISA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6778
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name=" TELEAMAZONAS (SIERRA)" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="ECUADOR HD", TELEAMAZONAS (SIERRA)
+http://stalkertvlatinopanel.com:8080/antonio/123456/6779
+#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name=" GAMAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR HD", GAMAVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/6780
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name=" RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR HD", RTS
+http://stalkertvlatinopanel.com:8080/antonio/123456/6782
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name=" TELEAMAZONAS (COSTA)" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="ECUADOR HD", TELEAMAZONAS (COSTA)
+http://stalkertvlatinopanel.com:8080/antonio/123456/6784
+#EXTINF:-1 tvg-id="" tvg-name=" EL CANAL DEL FUTBOL" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="ECUADOR HD", EL CANAL DEL FUTBOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/72740
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="  TVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Televicentro_HN_logo_2020.png/1200px-Televicentro_HN_logo_2020.png" group-title="ECUADOR HD",  TVC
+http://stalkertvlatinopanel.com:8080/antonio/123456/87508
+#EXTINF:-1 tvg-id="" tvg-name=" EL CANAL DEL FUTBOL " tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="ECUADOR HD", EL CANAL DEL FUTBOL 
+http://stalkertvlatinopanel.com:8080/antonio/123456/96462
+#EXTINF:-1 tvg-id="" tvg-name=" EL CANAL DEL FUTBOL" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="ECUADOR HD", EL CANAL DEL FUTBOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/104212
+#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="GAMAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR FHD",GAMAVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/87580
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="TC TELEVISION" tvg-logo="https://i.pinimg.com/originals/b2/8a/2f/b28a2fafab313b56f77c5876f85016f3.png" group-title="ECUADOR FHD",TC TELEVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/87581
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="RTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR FHD",RTS FHD
+http://stalkertvlatinopanel.com:8080/antonio/123456/87582
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="TELEAMAZONA (COSTA)" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="ECUADOR FHD",TELEAMAZONA (COSTA)
+http://stalkertvlatinopanel.com:8080/antonio/123456/87584
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="TC TELEVISION" tvg-logo="https://i.pinimg.com/originals/b2/8a/2f/b28a2fafab313b56f77c5876f85016f3.png" group-title="ECUADOR FHD",TC TELEVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/95215
+#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="GAMAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR FHD",GAMAVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/95216
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR FHD",ECUAVISA
+http://stalkertvlatinopanel.com:8080/antonio/123456/95217
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="ECUADOR FHD",EL CANAL DEL FUTBOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/96461
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="ECUADOR FHD",EL CANAL DEL FUTBOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/104214
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DIRECTV SPORTS 1" tvg-logo="https://static.epg.best/co/DirectvSports.co.png" group-title="ECUADOR FHD",DIRECTV SPORTS 1
+http://stalkertvlatinopanel.com:8080/antonio/123456/112093
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://static.epg.best/co/DirectvSports2.co.png" group-title="ECUADOR FHD",DIRECTV SPORTS 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/112094
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS +" tvg-logo="https://static.epg.best/co/DirectvSportsPlus.co.png" group-title="ECUADOR FHD",DIRECTV SPORTS +
+http://stalkertvlatinopanel.com:8080/antonio/123456/112095
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="IESS (CANAL UNO CERRADO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR LOCAL",IESS (CANAL UNO CERRADO)
+http://stalkertvlatinopanel.com:8080/antonio/123456/6775
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="IESS (CANAL UNO CERRADO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR LOCAL",IESS (CANAL UNO CERRADO)
+http://stalkertvlatinopanel.com:8080/antonio/123456/87583
+#EXTINF:-1 tvg-id="" tvg-name="CANELA TV" tvg-logo="https://i.imgur.com/8D1LrKO.png" group-title="ECUADOR LOCAL",CANELA TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/6544
+#EXTINF:-1 tvg-id="" tvg-name="RTU " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" group-title="ECUADOR LOCAL",RTU 
+http://stalkertvlatinopanel.com:8080/antonio/123456/87509
+#EXTINF:-1 tvg-id="" tvg-name="HECHOS TV" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2018/06/Radio-Hechos-Ecuador.jpg" group-title="ECUADOR LOCAL",HECHOS TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/87575
+#EXTINF:-1 tvg-id="" tvg-name="MAX TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="ECUADOR LOCAL",MAX TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/87577
+#EXTINF:-1 tvg-id="" tvg-name="TV PURUWA" tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/SILDER-1.png" group-title="ECUADOR LOCAL",TV PURUWA
+http://stalkertvlatinopanel.com:8080/antonio/123456/87578
+#EXTINF:-1 tvg-id="" tvg-name="RETRO PLUS" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/655f7192ce580c733dda2fd1fc4f202b.png" group-title="ECUADOR LOCAL",RETRO PLUS
+http://stalkertvlatinopanel.com:8080/antonio/123456/87579
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA ESTEREO" tvg-logo="https://www.m3u.cl/logo/95_America_Estereo.jpg" group-title="ECUADOR LOCAL",AMERICA ESTEREO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118927
+#EXTINF:-1 tvg-id="" tvg-name="ECOTEL TV" tvg-logo="https://www.m3u.cl/logo/99_Ecotel_TV.jpg" group-title="ECUADOR LOCAL",ECOTEL TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/118928
+#EXTINF:-1 tvg-id="" tvg-name="EDUCA TV" tvg-logo="https://www.m3u.cl/logo/100_Educa_TV.png" group-title="ECUADOR LOCAL",EDUCA TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/118929
+#EXTINF:-1 tvg-id="" tvg-name="RECTV" tvg-logo="https://www.m3u.cl/logo/106_RecTV.jpg" group-title="ECUADOR LOCAL",RECTV
+http://stalkertvlatinopanel.com:8080/antonio/123456/118930
+#EXTINF:-1 tvg-id="" tvg-name="ASOMAVISION" tvg-logo="https://www.m3u.cl/logo/176_Asomavision.png" group-title="ECUADOR LOCAL",ASOMAVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/118931
+#EXTINF:-1 tvg-id="ClaroCinema.co" tvg-name="CLARO CINEMA" tvg-logo="https://static.epg.best/co/ClaroCinema.co.png" group-title="PREMIUM",CLARO CINEMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/104191
+#EXTINF:-1 tvg-id="CanalDHE.co" tvg-name="DHE" tvg-logo="https://static.epg.best/co/CanalDHE.co.png" group-title="PREMIUM",DHE
+http://stalkertvlatinopanel.com:8080/antonio/123456/104192
+#EXTINF:-1 tvg-id="FilmAndArts.mx" tvg-name="FILM & ARTS" tvg-logo="https://static.epg.best/mx/FilmAndArts.mx.png" group-title="PREMIUM",FILM & ARTS
+http://stalkertvlatinopanel.com:8080/antonio/123456/104193
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="PREMIUM",SHOWTIME
+http://stalkertvlatinopanel.com:8080/antonio/123456/95220
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="PREMIUM",SHOWTIME
+http://stalkertvlatinopanel.com:8080/antonio/123456/95221
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="PREMIUM",SHOWTIME
+http://stalkertvlatinopanel.com:8080/antonio/123456/95222
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="https://static.epg.best/us/ShowtimeExtreme.us.png" group-title="PREMIUM",SHOWTIME EXTREME
+http://stalkertvlatinopanel.com:8080/antonio/123456/95223
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="PREMIUM",SHOWTIME
+http://stalkertvlatinopanel.com:8080/antonio/123456/95224
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="PREMIUM",STARZ
+http://stalkertvlatinopanel.com:8080/antonio/123456/95225
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="STARZ ENCORE" tvg-logo="https://static.epg.best/us/StarzEncore.us.png" group-title="PREMIUM",STARZ ENCORE
+http://stalkertvlatinopanel.com:8080/antonio/123456/95226
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="STARZ EDGE" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="PREMIUM",STARZ EDGE
+http://stalkertvlatinopanel.com:8080/antonio/123456/95227
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="STARZ COMEDY" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="PREMIUM",STARZ COMEDY
+http://stalkertvlatinopanel.com:8080/antonio/123456/95228
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="STARZ ENCORE SUSPENSE" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="PREMIUM",STARZ ENCORE SUSPENSE
+http://stalkertvlatinopanel.com:8080/antonio/123456/95229
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name=" A&E" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="PREMIUM", A&E
+http://stalkertvlatinopanel.com:8080/antonio/123456/6220
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name=" AMC" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="PREMIUM", AMC
+http://stalkertvlatinopanel.com:8080/antonio/123456/6221
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name=" AXN" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="PREMIUM", AXN
+http://stalkertvlatinopanel.com:8080/antonio/123456/6222
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name=" CINECANAL" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="PREMIUM", CINECANAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/6223
+#EXTINF:-1 tvg-id="Cinemax.pa" tvg-name=" CINEMAX" tvg-logo="https://static.epg.best/mx/Cinemax.mx.png" group-title="PREMIUM", CINEMAX
+http://stalkertvlatinopanel.com:8080/antonio/123456/6224
+#EXTINF:-1 tvg-id="Fox.ar" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PREMIUM",STAR CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/6225
+#EXTINF:-1 tvg-id="Fox.ar" tvg-name=" STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PREMIUM", STAR CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/6226
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name=" HBO " tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="PREMIUM", HBO 
+http://stalkertvlatinopanel.com:8080/antonio/123456/6234
+#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name=" HBO PLUS" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="PREMIUM", HBO PLUS
+http://stalkertvlatinopanel.com:8080/antonio/123456/6235
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.pa" tvg-name=" HBO 2" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="PREMIUM", HBO 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/6236
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name=" HBO FAMILY" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="PREMIUM", HBO FAMILY
+http://stalkertvlatinopanel.com:8080/antonio/123456/6238
+#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name=" HBO PLUS" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="PREMIUM", HBO PLUS
+http://stalkertvlatinopanel.com:8080/antonio/123456/6239
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name=" HBO SIGNATURE" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="PREMIUM", HBO SIGNATURE
+http://stalkertvlatinopanel.com:8080/antonio/123456/6240
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name=" HBO" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="PREMIUM", HBO
+http://stalkertvlatinopanel.com:8080/antonio/123456/6241
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name=" PARAMOUNT" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="PREMIUM", PARAMOUNT
+http://stalkertvlatinopanel.com:8080/antonio/123456/6242
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name=" SONY" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="PREMIUM", SONY
+http://stalkertvlatinopanel.com:8080/antonio/123456/6243
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.pa" tvg-name=" SONY" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="PREMIUM", SONY
+http://stalkertvlatinopanel.com:8080/antonio/123456/6244
+#EXTINF:-1 tvg-id="SpaceLatinAmerica" tvg-name=" SPACE" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="PREMIUM", SPACE
+http://stalkertvlatinopanel.com:8080/antonio/123456/6245
+#EXTINF:-1 tvg-id="SpaceLatinAmerica" tvg-name=" SPACE" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="PREMIUM", SPACE
+http://stalkertvlatinopanel.com:8080/antonio/123456/6246
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name=" TNT" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="PREMIUM", TNT
+http://stalkertvlatinopanel.com:8080/antonio/123456/6247
+#EXTINF:-1 tvg-id="TNTSeries.co" tvg-name="TNT SERIES" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="PREMIUM",TNT SERIES
+http://stalkertvlatinopanel.com:8080/antonio/123456/6248
+#EXTINF:-1 tvg-id="Warner.ar" tvg-name=" WARNER" tvg-logo="https://static.epg.best/ar/Warner.ar.png" group-title="PREMIUM", WARNER
+http://stalkertvlatinopanel.com:8080/antonio/123456/6249
+#EXTINF:-1 tvg-id="TCM.ar" tvg-name="TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="PREMIUM",TCM
+http://stalkertvlatinopanel.com:8080/antonio/123456/109180
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="SYFY" tvg-logo="https://static.epg.best/mx/Syfy.mx.png" group-title="PREMIUM",SYFY
+http://stalkertvlatinopanel.com:8080/antonio/123456/109179
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULAS CLASICO" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="PREMIUM",DE PELICULAS CLASICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/109178
+#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-name="CINEMA DINAMITA" tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="PREMIUM",CINEMA DINAMITA
+http://stalkertvlatinopanel.com:8080/antonio/123456/109177
+#EXTINF:-1 tvg-id="UniversalChannel.ar" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="PREMIUM",UNIVERSAL CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/109176
+#EXTINF:-1 tvg-id="HBOXtremePanamerica.pa" tvg-name="HBO XTREAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="PREMIUM",HBO XTREAM
+http://stalkertvlatinopanel.com:8080/antonio/123456/109171
+#EXTINF:-1 tvg-id="HBOPopPanamerica.pa" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="PREMIUM",HBO POP
+http://stalkertvlatinopanel.com:8080/antonio/123456/109170
+#EXTINF:-1 tvg-id="HBOMundiPanAmerican.pa" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="PREMIUM",HBO MUNDI
+http://stalkertvlatinopanel.com:8080/antonio/123456/109169
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="GOLDEN PLUS" tvg-logo="https://static.epg.best/mx/GoldenPlus.mx.png" group-title="PREMIUM",GOLDEN PLUS
+http://stalkertvlatinopanel.com:8080/antonio/123456/109168
+#EXTINF:-1 tvg-id="GoldenEdgeLatinAmerica.pa" tvg-name="GOLDEN EDGE" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="PREMIUM",GOLDEN EDGE
+http://stalkertvlatinopanel.com:8080/antonio/123456/109167
+#EXTINF:-1 tvg-id="GoldenLatinAmerica.pa" tvg-name="GOLDEN" tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="PREMIUM",GOLDEN
+http://stalkertvlatinopanel.com:8080/antonio/123456/109166
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX" tvg-logo="https://static.epg.best/mx/FX.mx.png" group-title="PREMIUM",FX
+http://stalkertvlatinopanel.com:8080/antonio/123456/109164
+#EXTINF:-1 tvg-id="Warner.ar" tvg-name="WARNER" tvg-logo="https://static.epg.best/ar/Warner.ar.png" group-title="PREMIUM",WARNER
+http://stalkertvlatinopanel.com:8080/antonio/123456/123802
+#EXTINF:-1 tvg-id="TNTSeries.co" tvg-name="TNT SERIES" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="PREMIUM",TNT SERIES
+http://stalkertvlatinopanel.com:8080/antonio/123456/123804
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.pa" tvg-name="SONY" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="PREMIUM",SONY
+http://stalkertvlatinopanel.com:8080/antonio/123456/123806
+#EXTINF:-1 tvg-id="Paramount.pa" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="PREMIUM",PARAMOUNT CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/123808
+#EXTINF:-1 tvg-id="HBOPopPanamerica.pa" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="PREMIUM",HBO POP
+http://stalkertvlatinopanel.com:8080/antonio/123456/123811
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX" tvg-logo="https://static.epg.best/ar/FX.ar.png" group-title="PREMIUM",FX
+http://stalkertvlatinopanel.com:8080/antonio/123456/123813
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX" tvg-logo="https://static.epg.best/ar/FX.ar.png" group-title="PREMIUM",FX
+http://stalkertvlatinopanel.com:8080/antonio/123456/123814
+#EXTINF:-1 tvg-id="FilmAndArts.mx" tvg-name="FILM & ARTS" tvg-logo="https://static.epg.best/mx/FilmAndArts.mx.png" group-title="PREMIUM",FILM & ARTS
+http://stalkertvlatinopanel.com:8080/antonio/123456/123815
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="CINECANAL" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="PREMIUM",CINECANAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/123817
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="CINE HD MEXICO | A3 SERIES" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="PREMIUM",CINE HD MEXICO | A3 SERIES
+http://stalkertvlatinopanel.com:8080/antonio/123456/123818
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC" tvg-logo="https://static.epg.best/ar/AMC.ar.png" group-title="PREMIUM",AMC
+http://stalkertvlatinopanel.com:8080/antonio/123456/123821
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC" tvg-logo="https://static.epg.best/ar/AMC.ar.png" group-title="PREMIUM",AMC
+http://stalkertvlatinopanel.com:8080/antonio/123456/123822
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name="A&E" tvg-logo="https://static.epg.best/ar/AandE.ar.png" group-title="PREMIUM",A&E
+http://stalkertvlatinopanel.com:8080/antonio/123456/123823
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name="A&E" tvg-logo="https://static.epg.best/ar/AandE.ar.png" group-title="PREMIUM",A&E
+http://stalkertvlatinopanel.com:8080/antonio/123456/123824
+#EXTINF:-1 tvg-id="" tvg-name="VIX RETRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" group-title="PREMIUM",VIX RETRO
+http://stalkertvlatinopanel.com:8080/antonio/123456/124125
+#EXTINF:-1 tvg-id="" tvg-name="VIX CINE CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" group-title="PREMIUM",VIX CINE CLUB
+http://stalkertvlatinopanel.com:8080/antonio/123456/124130
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name=" A&E" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="PREMIUM SD", A&E
+http://stalkertvlatinopanel.com:8080/antonio/123456/23
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name=" AMC" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="PREMIUM SD", AMC
+http://stalkertvlatinopanel.com:8080/antonio/123456/24
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name=" AXN" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="PREMIUM SD", AXN
+http://stalkertvlatinopanel.com:8080/antonio/123456/26
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name=" CINECANAL" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="PREMIUM SD", CINECANAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/27
+#EXTINF:-1 tvg-id="Cinemax.pa" tvg-name=" CINEMAX" tvg-logo="https://static.epg.best/mx/Cinemax.mx.png" group-title="PREMIUM SD", CINEMAX
+http://stalkertvlatinopanel.com:8080/antonio/123456/28
+#EXTINF:-1 tvg-id="Fox.ar" tvg-name=" STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PREMIUM SD", STAR CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/45
+#EXTINF:-1 tvg-id="FX.ar" tvg-name=" FX" tvg-logo="https://static.epg.best/ar/FX.ar.png" group-title="PREMIUM SD", FX
+http://stalkertvlatinopanel.com:8080/antonio/123456/54
+#EXTINF:-1 tvg-id="GoldenLatinAmerica.pa" tvg-name=" GOLDEN" tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="PREMIUM SD", GOLDEN
+http://stalkertvlatinopanel.com:8080/antonio/123456/58
+#EXTINF:-1 tvg-id="GoldenEdgeLatinAmerica.pa" tvg-name=" GOLDEN EDGE" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="PREMIUM SD", GOLDEN EDGE
+http://stalkertvlatinopanel.com:8080/antonio/123456/59
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name=" GOLDEN PLUS" tvg-logo="https://static.epg.best/mx/GoldenPlus.mx.png" group-title="PREMIUM SD", GOLDEN PLUS
+http://stalkertvlatinopanel.com:8080/antonio/123456/60
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name=" HBO" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="PREMIUM SD", HBO
+http://stalkertvlatinopanel.com:8080/antonio/123456/61
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.pa" tvg-name=" HBO 2" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="PREMIUM SD", HBO 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/62
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name=" HBO FAMILY" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="PREMIUM SD", HBO FAMILY
+http://stalkertvlatinopanel.com:8080/antonio/123456/63
+#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name=" HBO PLUS" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="PREMIUM SD", HBO PLUS
+http://stalkertvlatinopanel.com:8080/antonio/123456/64
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name=" HBO SIGNATURE" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="PREMIUM SD", HBO SIGNATURE
+http://stalkertvlatinopanel.com:8080/antonio/123456/65
+#EXTINF:-1 tvg-id="HBOPopPanamerica.pa" tvg-name=" HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="PREMIUM SD", HBO POP
+http://stalkertvlatinopanel.com:8080/antonio/123456/72
+#EXTINF:-1 tvg-id="Paramount.pa" tvg-name=" PARAMOUNT CHANNEL" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="PREMIUM SD", PARAMOUNT CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/76
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.pa" tvg-name=" SONY" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="PREMIUM SD", SONY
+http://stalkertvlatinopanel.com:8080/antonio/123456/78
+#EXTINF:-1 tvg-id="SpaceLatinAmerica" tvg-name=" SPACE" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="PREMIUM SD", SPACE
+http://stalkertvlatinopanel.com:8080/antonio/123456/79
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name=" STUDIO UNIVERSAL" tvg-logo="https://static.epg.best/pa/StudioUniversalLatinAmerica.pa.png" group-title="PREMIUM SD", STUDIO UNIVERSAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/80
+#EXTINF:-1 tvg-id="SyfyLatinAmerica.pa" tvg-name=" SYFY" tvg-logo="https://static.epg.best/mx/Syfy.mx.png" group-title="PREMIUM SD", SYFY
+http://stalkertvlatinopanel.com:8080/antonio/123456/82
+#EXTINF:-1 tvg-id="TBS.ar" tvg-name=" TBS" tvg-logo="https://static.epg.best/ar/TBS.ar.png" group-title="PREMIUM SD", TBS
+http://stalkertvlatinopanel.com:8080/antonio/123456/83
+#EXTINF:-1 tvg-id="TCM.ar" tvg-name=" TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="PREMIUM SD", TCM
+http://stalkertvlatinopanel.com:8080/antonio/123456/84
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name=" TNT" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="PREMIUM SD", TNT
+http://stalkertvlatinopanel.com:8080/antonio/123456/88
+#EXTINF:-1 tvg-id="TNTSeries.pa" tvg-name=" TNT SERIES" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="PREMIUM SD", TNT SERIES
+http://stalkertvlatinopanel.com:8080/antonio/123456/89
+#EXTINF:-1 tvg-id="UniversalChannel.ar" tvg-name=" UNIVERSAL CHANNEL" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="PREMIUM SD", UNIVERSAL CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/92
+#EXTINF:-1 tvg-id="Warner.ar" tvg-name=" WARNER" tvg-logo="https://static.epg.best/ar/Warner.ar.png" group-title="PREMIUM SD", WARNER
+http://stalkertvlatinopanel.com:8080/antonio/123456/93
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name=" DE PELICULA PLUS" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="PREMIUM SD", DE PELICULA PLUS
+http://stalkertvlatinopanel.com:8080/antonio/123456/94
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name=" MOVISTAR SERIE" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="PREMIUM SD", MOVISTAR SERIE
+http://stalkertvlatinopanel.com:8080/antonio/123456/910
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name=" MOVISTAR ESTRENO" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="PREMIUM SD", MOVISTAR ESTRENO
+http://stalkertvlatinopanel.com:8080/antonio/123456/911
+#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-name=" CINEMA DINAMITA" tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" group-title="PREMIUM SD", CINEMA DINAMITA
+http://stalkertvlatinopanel.com:8080/antonio/123456/95230
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name=" CINELATINO" tvg-logo="https://static.epg.best/mx/CineLatino.mx.png" group-title="PREMIUM SD", CINELATINO
+http://stalkertvlatinopanel.com:8080/antonio/123456/95231
+#EXTINF:-1 tvg-id="GoldenPremier.co" tvg-name=" GOLDEN PREMIERE" tvg-logo="https://static.epg.best/co/GoldenPremier.co.png" group-title="PREMIUM SD", GOLDEN PREMIERE
+http://stalkertvlatinopanel.com:8080/antonio/123456/109154
+#EXTINF:-1 tvg-id="HBOMundiPanAmerican.pa" tvg-name=" HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="PREMIUM SD", HBO MUNDI
+http://stalkertvlatinopanel.com:8080/antonio/123456/109155
+#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name=" HBO PLUS" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="PREMIUM SD", HBO PLUS
+http://stalkertvlatinopanel.com:8080/antonio/123456/109156
+#EXTINF:-1 tvg-id="ClaroCinema.co" tvg-name=" CLARO CINEMA" tvg-logo="https://static.epg.best/co/ClaroCinema.co.png" group-title="PREMIUM SD", CLARO CINEMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/109158
+#EXTINF:-1 tvg-id="CanalDHE.co" tvg-name=" DHE" tvg-logo="https://static.epg.best/co/CanalDHE.co.png" group-title="PREMIUM SD", DHE
+http://stalkertvlatinopanel.com:8080/antonio/123456/109160
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name=" DE PELICULAS CLASICO" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="PREMIUM SD", DE PELICULAS CLASICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/109159
+#EXTINF:-1 tvg-id="FilmAndArts.mx" tvg-name=" FILM & ARTS" tvg-logo="https://static.epg.best/mx/FilmAndArts.mx.png" group-title="PREMIUM SD", FILM & ARTS
+http://stalkertvlatinopanel.com:8080/antonio/123456/109161
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name=" MULTIPREMIER" tvg-logo="https://static.epg.best/mx/Multipremier.mx.png" group-title="PREMIUM SD", MULTIPREMIER
+http://stalkertvlatinopanel.com:8080/antonio/123456/109163
+#EXTINF:-1 tvg-id="UniversalChannel.ar" tvg-name=" UNIVERSAL" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="PREMIUM SD", UNIVERSAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/123803
+#EXTINF:-1 tvg-id="SpaceLatinAmerica" tvg-name=" SPACE" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="PREMIUM SD", SPACE
+http://stalkertvlatinopanel.com:8080/antonio/123456/123805
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name=" SONY" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="PREMIUM SD", SONY
+http://stalkertvlatinopanel.com:8080/antonio/123456/123807
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name=" HBO FAMILY" tvg-logo="https://static.epg.best/br/HBOFamily.br.png" group-title="PREMIUM SD", HBO FAMILY
+http://stalkertvlatinopanel.com:8080/antonio/123456/123809
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name=" HBO" tvg-logo="https://static.epg.best/br/HBO.br.png" group-title="PREMIUM SD", HBO
+http://stalkertvlatinopanel.com:8080/antonio/123456/123810
+#EXTINF:-1 tvg-id="FX.ar" tvg-name=" FX" tvg-logo="https://static.epg.best/ar/FX.ar.png" group-title="PREMIUM SD", FX
+http://stalkertvlatinopanel.com:8080/antonio/123456/123812
+#EXTINF:-1 tvg-id="Cinemax.pa" tvg-name=" CINEMAX" tvg-logo="https://static.epg.best/mx/Cinemax.mx.png" group-title="PREMIUM SD", CINEMAX
+http://stalkertvlatinopanel.com:8080/antonio/123456/123816
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name=" AXN" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="PREMIUM SD", AXN
+http://stalkertvlatinopanel.com:8080/antonio/123456/123819
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name=" AMC" tvg-logo="https://static.epg.best/ar/AMC.ar.png" group-title="PREMIUM SD", AMC
+http://stalkertvlatinopanel.com:8080/antonio/123456/123820
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name=" A&E" tvg-logo="https://static.epg.best/pt/AandE.pt.png" group-title="PREMIUM FHD", A&E
+http://stalkertvlatinopanel.com:8080/antonio/123456/83578
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name=" AMC" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="PREMIUM FHD", AMC
+http://stalkertvlatinopanel.com:8080/antonio/123456/83583
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name=" AXN" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="PREMIUM FHD", AXN
+http://stalkertvlatinopanel.com:8080/antonio/123456/83587
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name=" CINECANAL" tvg-logo="https://static.epg.best/ar/Cinecanal.ar.png" group-title="PREMIUM FHD", CINECANAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/83594
+#EXTINF:-1 tvg-id="Cinemax.pa" tvg-name=" CINEMAX" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="PREMIUM FHD", CINEMAX
+http://stalkertvlatinopanel.com:8080/antonio/123456/83600
+#EXTINF:-1 tvg-id="FX.ar" tvg-name=" FX" tvg-logo="https://static.epg.best/mx/FX.mx.png" group-title="PREMIUM FHD", FX
+http://stalkertvlatinopanel.com:8080/antonio/123456/83618
+#EXTINF:-1 tvg-id="Fox.ar" tvg-name=" STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PREMIUM FHD", STAR CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/83622
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name=" HBO" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="PREMIUM FHD", HBO
+http://stalkertvlatinopanel.com:8080/antonio/123456/83672
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.pa" tvg-name=" HBO 2" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="PREMIUM FHD", HBO 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/83676
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name=" HBO FAMILY" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="PREMIUM FHD", HBO FAMILY
+http://stalkertvlatinopanel.com:8080/antonio/123456/83680
+#EXTINF:-1 tvg-id="HBOMundiPanAmerican.pa" tvg-name=" HBO MUNDI" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="PREMIUM FHD", HBO MUNDI
+http://stalkertvlatinopanel.com:8080/antonio/123456/83683
+#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name=" HBO PLUS" tvg-logo="https://static.epg.best/pa/HBOPlusPanamericano.pa.png" group-title="PREMIUM FHD", HBO PLUS
+http://stalkertvlatinopanel.com:8080/antonio/123456/83686
+#EXTINF:-1 tvg-id="13C.cl" tvg-name=" HBO POP" tvg-logo="https://static.epg.best/br/maxUP.br.png" group-title="PREMIUM FHD", HBO POP
+http://stalkertvlatinopanel.com:8080/antonio/123456/83690
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name=" HBO SIGNATURE" tvg-logo="https://static.epg.best/br/HBOSignature.br.png" group-title="PREMIUM FHD", HBO SIGNATURE
+http://stalkertvlatinopanel.com:8080/antonio/123456/83692
+#EXTINF:-1 tvg-id="HBOXtremePanamerica.pa" tvg-name=" HBO XTREME" tvg-logo="https://static.epg.best/br/MaxPrimeBrasil.br.png" group-title="PREMIUM FHD", HBO XTREME
+http://stalkertvlatinopanel.com:8080/antonio/123456/83694
+#EXTINF:-1 tvg-id="SpaceLatinAmerica" tvg-name=" SPACE" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="PREMIUM FHD", SPACE
+http://stalkertvlatinopanel.com:8080/antonio/123456/83709
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.pa" tvg-name=" SONY" tvg-logo="https://static.epg.best/br/Sony.br.png" group-title="PREMIUM FHD", SONY
+http://stalkertvlatinopanel.com:8080/antonio/123456/83723
+#EXTINF:-1 tvg-id="SyfyLatinAmerica.pa" tvg-name=" SYFY" tvg-logo="https://static.epg.best/de/Syfy.de.png" group-title="PREMIUM FHD", SYFY
+http://stalkertvlatinopanel.com:8080/antonio/123456/83732
+#EXTINF:-1 tvg-id="TCM.ar" tvg-name=" TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="PREMIUM FHD", TCM
+http://stalkertvlatinopanel.com:8080/antonio/123456/83735
+#EXTINF:-1 tvg-id="TNTSeries.co" tvg-name=" TNT SERIES" tvg-logo="https://static.epg.best/pa/TNTSeries.pa.png" group-title="PREMIUM FHD", TNT SERIES
+http://stalkertvlatinopanel.com:8080/antonio/123456/83741
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name=" TNT" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="PREMIUM FHD", TNT
+http://stalkertvlatinopanel.com:8080/antonio/123456/83742
+#EXTINF:-1 tvg-id="UniversalChannel.ar" tvg-name=" UNIVERSAL CHANNEL" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="PREMIUM FHD", UNIVERSAL CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/83747
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name=" STUDIO UNIVERSAL" tvg-logo="https://static.epg.best/ar/StudioUniversal.ar.png" group-title="PREMIUM FHD", STUDIO UNIVERSAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/83748
+#EXTINF:-1 tvg-id="Warner.ar" tvg-name=" WARNER" tvg-logo="https://static.epg.best/ar/Warner.ar.png" group-title="PREMIUM FHD", WARNER
+http://stalkertvlatinopanel.com:8080/antonio/123456/83752
+#EXTINF:-1 tvg-id="M. ACCION FHD" tvg-name=" MOVISTAR ACCION" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="PREMIUM FHD", MOVISTAR ACCION
+http://stalkertvlatinopanel.com:8080/antonio/123456/109186
+#EXTINF:-1 tvg-id="GoldenEdgeLatinAmerica.pa" tvg-name=" GOLDEN EDGE" tvg-logo="https://static.epg.best/pa/GoldenEdgeLatinAmerica.pa.png" group-title="PREMIUM FHD", GOLDEN EDGE
+http://stalkertvlatinopanel.com:8080/antonio/123456/109182
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name=" GOLDEN PLUS" tvg-logo="https://static.epg.best/mx/GoldenPlus.mx.png" group-title="PREMIUM FHD", GOLDEN PLUS
+http://stalkertvlatinopanel.com:8080/antonio/123456/109183
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name=" PARAMOUNT" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="PREMIUM FHD", PARAMOUNT
+http://stalkertvlatinopanel.com:8080/antonio/123456/109184
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name=" BLOOMBERG" tvg-logo="https://static.epg.best/mx/BloombergTV.mx.png" group-title="CULTURALES ", BLOOMBERG
+http://stalkertvlatinopanel.com:8080/antonio/123456/104199
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name=" ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="CULTURALES ", ANIMAL PLANET
+http://stalkertvlatinopanel.com:8080/antonio/123456/25
+#EXTINF:-1 tvg-id="CableNewsNetwork.mx" tvg-name=" CNN ESPAÑOL" tvg-logo="https://static.epg.best/mx/CableNewsNetwork.mx.png" group-title="CULTURALES ", CNN ESPAÑOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/29
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name=" CNN INTERNATIONAL" tvg-logo="https://static.epg.best/us/CNNEspanol.us.png" group-title="CULTURALES ", CNN INTERNATIONAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/30
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name=" COMEDY CENTRAL" tvg-logo="https://static.epg.best/ar/ComedyCentral.ar.png" group-title="CULTURALES ", COMEDY CENTRAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/31
+#EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name=" DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES ", DISCOVERY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/32
+#EXTINF:-1 tvg-id="DiscoveryCivilizationLatinAmerica.pa" tvg-name=" HGTV" tvg-logo="https://static.epg.best/br/DiscoveryCivilization.br.png" group-title="CULTURALES ", HGTV
+http://stalkertvlatinopanel.com:8080/antonio/123456/33
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.ar" tvg-name=" DISCOVERY HOME AND HEALTH" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="CULTURALES ", DISCOVERY HOME AND HEALTH
+http://stalkertvlatinopanel.com:8080/antonio/123456/34
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-name=" DISCOVERY ID" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CULTURALES ", DISCOVERY ID
+http://stalkertvlatinopanel.com:8080/antonio/123456/35
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name=" DISCOVERY SCIENCE" tvg-logo="https://static.epg.best/pa/DiscoveryScienceLatinAmerica.pa.png" group-title="CULTURALES ", DISCOVERY SCIENCE
+http://stalkertvlatinopanel.com:8080/antonio/123456/36
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name=" DISCOVERY THEATER" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="CULTURALES ", DISCOVERY THEATER
+http://stalkertvlatinopanel.com:8080/antonio/123456/37
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name=" DISCOVERY TURBO" tvg-logo="https://static.epg.best/gb/DiscoveryTurbo.uk.png" group-title="CULTURALES ", DISCOVERY TURBO
+http://stalkertvlatinopanel.com:8080/antonio/123456/38
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name=" DISCOVERY WORLD" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="CULTURALES ", DISCOVERY WORLD
+http://stalkertvlatinopanel.com:8080/antonio/123456/39
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name=" DISTRITO COMEDIA MEXICO" tvg-logo="https://static.epg.best/mx/DistritoComedia.mx.png" group-title="CULTURALES ", DISTRITO COMEDIA MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/40
+#EXTINF:-1 tvg-id="EEntertainment.ar" tvg-name=" E! ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="CULTURALES ", E! ENTERTAINMENT
+http://stalkertvlatinopanel.com:8080/antonio/123456/41
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name=" EL GOURMET" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="CULTURALES ", EL GOURMET
+http://stalkertvlatinopanel.com:8080/antonio/123456/42
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name=" EUROPA EUROPA" tvg-logo="https://static.epg.best/mx/EuropaEuropa.mx.png" group-title="CULTURALES ", EUROPA EUROPA
+http://stalkertvlatinopanel.com:8080/antonio/123456/43
+#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name=" NUE9VE" tvg-logo="https://www.televisa.com/el-nueve/assets/3d9cc3626b431078/img/placeholder_default_share.jpg" group-title="CULTURALES ", NUE9VE
+http://stalkertvlatinopanel.com:8080/antonio/123456/56
+#EXTINF:-1 tvg-id="GlitzConoSur.co" tvg-name=" GLITZ" tvg-logo="https://static.epg.best/pa/GlitzLatinAmerica.pa.png" group-title="CULTURALES ", GLITZ
+http://stalkertvlatinopanel.com:8080/antonio/123456/57
+#EXTINF:-1 tvg-id="HistoryChannel.ar" tvg-name=" HISTORY CHANNEL" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="CULTURALES ", HISTORY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/66
+#EXTINF:-1 tvg-id="History2.mx" tvg-name=" H2" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="CULTURALES ", H2
+http://stalkertvlatinopanel.com:8080/antonio/123456/67
+#EXTINF:-1 tvg-id="HolaTv.co" tvg-name=" HOLA TV" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="CULTURALES ", HOLA TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/68
+#EXTINF:-1 tvg-id="LifeTimeLatinAmerica.pa" tvg-name=" LIFETIME" tvg-logo="https://static.epg.best/mx/Lifetime.mx.png" group-title="CULTURALES ", LIFETIME
+http://stalkertvlatinopanel.com:8080/antonio/123456/70
+#EXTINF:-1 tvg-id="MasChic.co" tvg-name=" MAS CHIC" tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png" group-title="CULTURALES ", MAS CHIC
+http://stalkertvlatinopanel.com:8080/antonio/123456/71
+#EXTINF:-1 tvg-id="NationalGeographic.co" tvg-name=" NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="CULTURALES ", NATGEO
+http://stalkertvlatinopanel.com:8080/antonio/123456/74
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name=" LOVE NATURE" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="CULTURALES ", LOVE NATURE
+http://stalkertvlatinopanel.com:8080/antonio/123456/75
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name=" PASIONES" tvg-logo="https://static.epg.best/us/Pasiones.us.png" group-title="CULTURALES ", PASIONES
+http://stalkertvlatinopanel.com:8080/antonio/123456/77
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name=" SUNDANCE  TV" tvg-logo="https://static.epg.best/mx/SundanceTV.mx.png" group-title="CULTURALES ", SUNDANCE  TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/81
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name=" TELEMUNDO INTERNATIONAL" tvg-logo="https://static.epg.best/pa/TelemundoLatinAmerica.pa.png" group-title="CULTURALES ", TELEMUNDO INTERNATIONAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/85
+#EXTINF:-1 tvg-id="TLC.ar" tvg-name=" TLC" tvg-logo="https://static.epg.best/ar/TLC.ar.png" group-title="CULTURALES ", TLC
+http://stalkertvlatinopanel.com:8080/antonio/123456/86
+#EXTINF:-1 tvg-id="TeleNovelas.mx" tvg-name=" TLNOVELAS" tvg-logo="https://static.epg.best/mx/TeleNovelas.mx.png" group-title="CULTURALES ", TLNOVELAS
+http://stalkertvlatinopanel.com:8080/antonio/123456/87
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name=" TRU TV" tvg-logo="https://static.epg.best/mx/truTV.mx.png" group-title="CULTURALES ", TRU TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/90
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name=" CANAL U UNICABLE" tvg-logo="https://static.epg.best/mx/Unicable.mx.png" group-title="CULTURALES ", CANAL U UNICABLE
+http://stalkertvlatinopanel.com:8080/antonio/123456/91
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name=" LAS ESTRELLAS" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="CULTURALES ", LAS ESTRELLAS
+http://stalkertvlatinopanel.com:8080/antonio/123456/924
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-name=" UNIVISION" tvg-logo="https://static.epg.best/us/UnivisionEast.us.png" group-title="CULTURALES ", UNIVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/941
+#EXTINF:-1 tvg-id="GlitzLatinAmerica.pa" tvg-name=" GLITZ MEXICO" tvg-logo="https://static.epg.best/mx/Glitz.mx.png" group-title="CULTURALES ", GLITZ MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118898
+#EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name=" DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/ar/DiscoveryChannel.ar.png" group-title="CULTURALES ", DISCOVERY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/123801
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name=" PASIONES" tvg-logo="https://static.epg.best/us/Pasiones.us.png" group-title="CULTURALES ", PASIONES
+http://stalkertvlatinopanel.com:8080/antonio/123456/123831
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name=" DISCOVERY THEATER" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="CULTURALES FHD", DISCOVERY THEATER
+http://stalkertvlatinopanel.com:8080/antonio/123456/86791
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name=" DISCOVERY WORLD" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="CULTURALES FHD", DISCOVERY WORLD
+http://stalkertvlatinopanel.com:8080/antonio/123456/86793
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.ar" tvg-name=" DISCOVERY HOME AND HEALTH" tvg-logo="https://i.pinimg.com/originals/6b/27/ae/6b27ae3d4938bf5775b656c19ff4fca6.png" group-title="CULTURALES FHD", DISCOVERY HOME AND HEALTH
+http://stalkertvlatinopanel.com:8080/antonio/123456/86795
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-name=" DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="CULTURALES FHD", DISCOVERY ID
+http://stalkertvlatinopanel.com:8080/antonio/123456/86797
+#EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name=" DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES FHD", DISCOVERY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/86798
+#EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name=" DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES FHD", DISCOVERY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/86800
+#EXTINF:-1 tvg-id="DeutscheWelleEs.de" tvg-name=" DW AMERICA" tvg-logo="https://static.epg.best/de/DeutscheWelleEs.de.png" group-title="CULTURALES FHD", DW AMERICA
+http://stalkertvlatinopanel.com:8080/antonio/123456/86801
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="LOVE NATURE" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="CULTURALES FHD",LOVE NATURE
+http://stalkertvlatinopanel.com:8080/antonio/123456/86803
+#EXTINF:-1 tvg-id="NationalGeographic.co" tvg-name=" NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="CULTURALES FHD", NATGEO
+http://stalkertvlatinopanel.com:8080/antonio/123456/86805
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name=" ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="CULTURALES FHD", ANIMAL PLANET
+http://stalkertvlatinopanel.com:8080/antonio/123456/86807
+#EXTINF:-1 tvg-id="HistoryChannel.ar" tvg-name=" HISTORY CHANNEL" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="CULTURALES FHD", HISTORY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/86808
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name=" GOURMET" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="CULTURALES FHD", GOURMET
+http://stalkertvlatinopanel.com:8080/antonio/123456/86810
+#EXTINF:-1 tvg-id="DiscoveryCivilizationLatinAmerica.pa" tvg-name=" HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="CULTURALES FHD", HGTV
+http://stalkertvlatinopanel.com:8080/antonio/123456/86811
+#EXTINF:-1 tvg-id="History2.mx" tvg-name=" H2" tvg-logo="https://static.epg.best/br/History2.br.png" group-title="CULTURALES FHD", H2
+http://stalkertvlatinopanel.com:8080/antonio/123456/116225
+#EXTINF:-1 tvg-id="Azteca.us" tvg-name=" AZTECA AMERICA" tvg-logo="https://static.epg.best/us/Azteca.us.png" group-title="CULTURALES FHD", AZTECA AMERICA
+http://stalkertvlatinopanel.com:8080/antonio/123456/118299
+#EXTINF:-1 tvg-id="" tvg-name=" LEVEL UP" tvg-logo="https://cl.buscafs.com/www.levelup.com/public/uploads/images/602528/602528.png" group-title="CULTURALES FHD", LEVEL UP
+http://stalkertvlatinopanel.com:8080/antonio/123456/124126
+#EXTINF:-1 tvg-id="NASAPublicEducationChannel.us" tvg-name=" NASA TV" tvg-logo="https://static.epg.best/rs/Nasa.rs.png" group-title="CULTURALES FHD", NASA TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/116562
+#EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" group-title="ENTRETENIMIENTO",DISCOVERY FAMILIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/104194
+#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" group-title="ENTRETENIMIENTO",SMITHSONIAN CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/104195
+#EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="FOOD NETWORK LATAM" tvg-logo="https://static.epg.best/pa/FoodNetwork.pa.png" group-title="ENTRETENIMIENTO",FOOD NETWORK LATAM
+http://stalkertvlatinopanel.com:8080/antonio/123456/104215
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D DRAMA" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="ENTRETENIMIENTO",KANAL D DRAMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/123240
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="ENTRETENIMIENTO",ANIMAL PLANET
+http://stalkertvlatinopanel.com:8080/antonio/123456/6270
+#EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="ENTRETENIMIENTO",DISCOVERY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/6271
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.ar" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="ENTRETENIMIENTO",DISCOVERY HOME AND HEALTH
+http://stalkertvlatinopanel.com:8080/antonio/123456/6272
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-name="DISCOVERY ID" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="ENTRETENIMIENTO",DISCOVERY ID
+http://stalkertvlatinopanel.com:8080/antonio/123456/6273
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://static.epg.best/pa/DiscoveryScienceLatinAmerica.pa.png" group-title="ENTRETENIMIENTO",DISCOVERY SCIENCE
+http://stalkertvlatinopanel.com:8080/antonio/123456/6274
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="ENTRETENIMIENTO",DISCOVERY THEATER
+http://stalkertvlatinopanel.com:8080/antonio/123456/6275
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DISCOVERY TURBO" tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png" group-title="ENTRETENIMIENTO",DISCOVERY TURBO
+http://stalkertvlatinopanel.com:8080/antonio/123456/6276
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="ENTRETENIMIENTO",DISCOVERY WORLD
+http://stalkertvlatinopanel.com:8080/antonio/123456/6277
+#EXTINF:-1 tvg-id="HistoryChannel.ar" tvg-name="HISTORY CHANNEL" tvg-logo="https://static.epg.best/pa/HistoryLatinAmerica.pa.png" group-title="ENTRETENIMIENTO",HISTORY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/6278
+#EXTINF:-1 tvg-id="NationalGeographic.co" tvg-name="NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="ENTRETENIMIENTO",NATGEO
+http://stalkertvlatinopanel.com:8080/antonio/123456/6279
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="LOVE NATURE" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="ENTRETENIMIENTO",LOVE NATURE
+http://stalkertvlatinopanel.com:8080/antonio/123456/6280
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-name="DISCOVERY ID" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="ENTRETENIMIENTO",DISCOVERY ID
+http://stalkertvlatinopanel.com:8080/antonio/123456/6281
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DISCOVERY TURBO" tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png" group-title="ENTRETENIMIENTO",DISCOVERY TURBO
+http://stalkertvlatinopanel.com:8080/antonio/123456/6282
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="ENTRETENIMIENTO",H2
+http://stalkertvlatinopanel.com:8080/antonio/123456/6283
+#EXTINF:-1 tvg-id="HistoryChannel.ar" tvg-name="HISTORY CHANNEL" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="ENTRETENIMIENTO",HISTORY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/6284
+#EXTINF:-1 tvg-id="NationalGeographic.co" tvg-name="NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="ENTRETENIMIENTO",NATGEO
+http://stalkertvlatinopanel.com:8080/antonio/123456/6285
+#EXTINF:-1 tvg-id="UnivisionTelenovelas.us" tvg-name="TLNOVELAS UNIVISION" tvg-logo="https://static.epg.best/us/UnivisionTelenovelas.us.png" group-title="ENTRETENIMIENTO",TLNOVELAS UNIVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/103236
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="https://static.epg.best/pa/TelemundoLatinAmerica.pa.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/123797
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="COMEDY CENTRAL" tvg-logo="https://static.epg.best/ar/ComedyCentral.ar.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/123798
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="ENTRETENIMIENTO",EL GOURMET
+http://stalkertvlatinopanel.com:8080/antonio/123456/123799
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://static.epg.best/pa/DiscoveryScienceLatinAmerica.pa.png" group-title="ENTRETENIMIENTO",DISCOVERY SCIENCE
+http://stalkertvlatinopanel.com:8080/antonio/123456/123800
+#EXTINF:-1 tvg-id="" tvg-name="LEVEL UP" tvg-logo="https://cl.buscafs.com/www.levelup.com/public/uploads/images/602528/602528.png" group-title="ENTRETENIMIENTO",LEVEL UP
+http://stalkertvlatinopanel.com:8080/antonio/123456/124127
+#EXTINF:-1 tvg-id="FoxPremiumAction.pa" tvg-name=" UNIVERSAL REALITY" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="UNIVERSAL +", UNIVERSAL REALITY
+http://stalkertvlatinopanel.com:8080/antonio/123456/47
+#EXTINF:-1 tvg-id="FoxPremiumCinema.pa" tvg-name=" UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="UNIVERSAL +", UNIVERSAL CINEMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/48
+#EXTINF:-1 tvg-id="FoxPremiumClassic.pa" tvg-name=" UNIVERSAL CRIME" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="UNIVERSAL +", UNIVERSAL CRIME
+http://stalkertvlatinopanel.com:8080/antonio/123456/49
+#EXTINF:-1 tvg-id="FoxPremiumComedy.pa" tvg-name=" UNIVERSAL COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="UNIVERSAL +", UNIVERSAL COMEDY
+http://stalkertvlatinopanel.com:8080/antonio/123456/50
+#EXTINF:-1 tvg-id="FoxSeries.pa" tvg-name=" UNIVERSAL PREMIERE" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="UNIVERSAL +", UNIVERSAL PREMIERE
+http://stalkertvlatinopanel.com:8080/antonio/123456/53
+#EXTINF:-1 tvg-id="FoxPremiumAction.pa" tvg-name=" UNIVERSAL REALITY" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="UNIVERSAL +", UNIVERSAL REALITY
+http://stalkertvlatinopanel.com:8080/antonio/123456/83625
+#EXTINF:-1 tvg-id="FoxPremiumCinema.pa" tvg-name=" UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="UNIVERSAL +", UNIVERSAL CINEMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/83632
+#EXTINF:-1 tvg-id="FoxPremiumComedy.pa" tvg-name=" UNIVERSAL COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="UNIVERSAL +", UNIVERSAL COMEDY
+http://stalkertvlatinopanel.com:8080/antonio/123456/83639
+#EXTINF:-1 tvg-id="FoxSeries.pa" tvg-name=" UNIVERSAL PREMIERE" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="UNIVERSAL +", UNIVERSAL PREMIERE
+http://stalkertvlatinopanel.com:8080/antonio/123456/83658
+#EXTINF:-1 tvg-id="FoxPremiumClassic.pa" tvg-name=" UNIVERSAL CRIME" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="UNIVERSAL +", UNIVERSAL CRIME
+http://stalkertvlatinopanel.com:8080/antonio/123456/109185
+#EXTINF:-1 tvg-id="" tvg-name=" UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="UNIVERSAL +", UNIVERSAL CINEMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/118065
+#EXTINF:-1 tvg-id="FoxPremiumAction.pa" tvg-name=" UNIVERSAL REALITY" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="UNIVERSAL +", UNIVERSAL REALITY
+http://stalkertvlatinopanel.com:8080/antonio/123456/6219
+#EXTINF:-1 tvg-id="FoxPremiumComedy.pa" tvg-name=" UNIVERSAL COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="UNIVERSAL +", UNIVERSAL COMEDY
+http://stalkertvlatinopanel.com:8080/antonio/123456/6227
+#EXTINF:-1 tvg-id="FoxSeries.pa" tvg-name=" UNIVERSAL PREMIERE" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="UNIVERSAL +", UNIVERSAL PREMIERE
+http://stalkertvlatinopanel.com:8080/antonio/123456/6233
+#EXTINF:-1 tvg-id="FoxSeries.mx" tvg-name=" UNIVERSAL PREMIERE" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="UNIVERSAL +", UNIVERSAL PREMIERE
+http://stalkertvlatinopanel.com:8080/antonio/123456/109175
+#EXTINF:-1 tvg-id="FoxPremiumClassic.pa" tvg-name=" UNIVERSAL CRIME" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="UNIVERSAL +", UNIVERSAL CRIME
+http://stalkertvlatinopanel.com:8080/antonio/123456/109174
+#EXTINF:-1 tvg-id="FoxPremiumCinema.pa" tvg-name=" UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="UNIVERSAL +", UNIVERSAL CINEMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/109173
+#EXTINF:-1 tvg-id="FoxPremiumAction.pa" tvg-name=" UNIVERSAL REALITY" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="UNIVERSAL +", UNIVERSAL REALITY
+http://stalkertvlatinopanel.com:8080/antonio/123456/109172
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT MEXICO" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="CINE HD (MEXICO)",TNT MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118845
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES MEXICO" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="CINE HD (MEXICO)",TNT SERIES MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118846
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ATRESERIES MEXICO" tvg-logo="https://static.epg.best/es/Atreseries.es.png" group-title="CINE HD (MEXICO)",ATRESERIES MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118847
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL MEXICO" tvg-logo="https://static.epg.best/mx/UniversalChannel.mx.png" group-title="CINE HD (MEXICO)",UNIVERSAL MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118848
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN MEXICO" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="CINE HD (MEXICO)",AXN MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118849
+#EXTINF:-1 tvg-id="Star.mx" tvg-name="STAR CHANNEL MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="CINE HD (MEXICO)",STAR CHANNEL MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118851
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX MEXICO" tvg-logo="https://static.epg.best/mx/FX.mx.png" group-title="CINE HD (MEXICO)",FX MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118853
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name="HBO MEXICO" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="CINE HD (MEXICO)",HBO MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118854
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 MEXICO" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="CINE HD (MEXICO)",HBO 2 MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118855
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER MEXICO" tvg-logo="https://static.epg.best/mx/WarnerChannel.mx.png" group-title="CINE HD (MEXICO)",WARNER MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118856
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM MEXICO" tvg-logo="https://static.epg.best/mx/TCM.mx.png" group-title="CINE HD (MEXICO)",TCM MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118857
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="PARAMOUNT CHANNEL MEXICO" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="CINE HD (MEXICO)",PARAMOUNT CHANNEL MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118858
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY MEXICO" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="CINE HD (MEXICO)",SONY MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118859
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="SYFY MEXICO" tvg-logo="https://static.epg.best/mx/Syfy.mx.png" group-title="CINE HD (MEXICO)",SYFY MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118860
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS MEXICO" tvg-logo="https://static.epg.best/mx/TBS.mx.png" group-title="CINE HD (MEXICO)",TBS MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118861
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE MEXICO" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="CINE HD (MEXICO)",SPACE MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118862
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name=" TNT MEXICO" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="CINE FHD (MEXICO)", TNT MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118827
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name=" TNT SERIES MEXICO" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="CINE FHD (MEXICO)", TNT SERIES MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118828
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name=" ATRESERIES MEXICO" tvg-logo="https://static.epg.best/es/Atreseries.es.png" group-title="CINE FHD (MEXICO)", ATRESERIES MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118829
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name=" UNIVERSAL CHANNEL MEXICO" tvg-logo="https://static.epg.best/mx/UniversalChannel.mx.png" group-title="CINE FHD (MEXICO)", UNIVERSAL CHANNEL MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118830
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name=" AXN MEXICO" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="CINE FHD (MEXICO)", AXN MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118831
+#EXTINF:-1 tvg-id="Star.mx" tvg-name=" STAR CHANNEL MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="CINE FHD (MEXICO)", STAR CHANNEL MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118833
+#EXTINF:-1 tvg-id="FX.mx" tvg-name=" FX MEXICO" tvg-logo="https://static.epg.best/mx/FX.mx.png" group-title="CINE FHD (MEXICO)", FX MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118835
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name=" HBO MEXICO" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="CINE FHD (MEXICO)", HBO MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118836
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name=" HBO 2 MEXICO" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="CINE FHD (MEXICO)", HBO 2 MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118837
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name=" WARNER MEXICO" tvg-logo="https://static.epg.best/mx/WarnerChannel.mx.png" group-title="CINE FHD (MEXICO)", WARNER MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118838
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name=" TCM MEXICO" tvg-logo="https://static.epg.best/mx/TCM.mx.png" group-title="CINE FHD (MEXICO)", TCM MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118839
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name=" PARAMOUNT CHANNEL MEXICO" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="CINE FHD (MEXICO)", PARAMOUNT CHANNEL MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118840
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name=" SONY MEXICO" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="CINE FHD (MEXICO)", SONY MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118841
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name=" SYFY MEXICO" tvg-logo="https://static.epg.best/mx/Syfy.mx.png" group-title="CINE FHD (MEXICO)", SYFY MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118842
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name=" TBS MEXICO" tvg-logo="https://static.epg.best/mx/TBS.mx.png" group-title="CINE FHD (MEXICO)", TBS MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118843
+#EXTINF:-1 tvg-id="Space.mx" tvg-name=" SPACE MEXICO" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="CINE FHD (MEXICO)", SPACE MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118844
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="TRU TV MEXICO" tvg-logo="https://static.epg.best/mx/truTV.mx.png" group-title="CULTURALES HD (MEXICO)",TRU TV MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118880
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL MEXICO" tvg-logo="https://static.epg.best/mx/ComedyCentral.mx.png" group-title="CULTURALES HD (MEXICO)",COMEDY CENTRAL MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118881
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET MEXICO" tvg-logo="https://static.epg.best/mx/AnimalPlanet.mx.png" group-title="CULTURALES HD (MEXICO)",ANIMAL PLANET MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118882
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 MEXICO" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="CULTURALES HD (MEXICO)",ANTENA 3 MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118883
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC MEXICO" tvg-logo="https://static.epg.best/mx/TLC.mx.png" group-title="CULTURALES HD (MEXICO)",TLC MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118884
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER MEXICO" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="CULTURALES HD (MEXICO)",DISCOVERY THEATER MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118885
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL MEXICO" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES HD (MEXICO)",DISCOVERY CHANNEL MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118886
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E! ENTERTAINMENT MEXICO" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="CULTURALES HD (MEXICO)",E! ENTERTAINMENT MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118887
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET MEXICO" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="CULTURALES HD (MEXICO)",EL GOURMET MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118888
+#EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="FOOD NETWORK MEXICO" tvg-logo="https://static.epg.best/au/FoodNetwork.au.png" group-title="CULTURALES HD (MEXICO)",FOOD NETWORK MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118889
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="LIFETIME MEXICO" tvg-logo="https://static.epg.best/mx/Lifetime.mx.png" group-title="CULTURALES HD (MEXICO)",LIFETIME MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118890
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="MAS CHIC MEXICO" tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png" group-title="CULTURALES HD (MEXICO)",MAS CHIC MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118891
+#EXTINF:-1 tvg-id="HolaTv.co" tvg-name="HOLA TV MEXICO" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="CULTURALES HD (MEXICO)",HOLA TV MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118892
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="HISTORY MEXICO" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="CULTURALES HD (MEXICO)",HISTORY MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118893
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 MEXICO" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="CULTURALES HD (MEXICO)",H2 MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118894
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="DISCOVERY ID MEXICO" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CULTURALES HD (MEXICO)",DISCOVERY ID MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118895
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NATGEO MEXICO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="CULTURALES HD (MEXICO)",NATGEO MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118896
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC MEXICO" tvg-logo="https://static.epg.best/mx/TLC.mx.png" group-title="CULTURALES HD (MEXICO)",TLC MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118897
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name=" TLC MEXICO" tvg-logo="https://static.epg.best/mx/TLC.mx.png" group-title="CULTURALES FHD (MEXICO)", TLC MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118863
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name=" TRU TV MEXICO" tvg-logo="https://static.epg.best/mx/truTV.mx.png" group-title="CULTURALES FHD (MEXICO)", TRU TV MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118864
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name=" COMEDY CENTRAL MEXICO" tvg-logo="https://static.epg.best/mx/ComedyCentral.mx.png" group-title="CULTURALES FHD (MEXICO)", COMEDY CENTRAL MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118865
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name=" ANIMAL PLANET MEXICO" tvg-logo="https://static.epg.best/mx/AnimalPlanet.mx.png" group-title="CULTURALES FHD (MEXICO)", ANIMAL PLANET MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118866
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name=" ANTENA 3 MEXICO" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="CULTURALES FHD (MEXICO)", ANTENA 3 MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118867
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name=" DISCOVERY THEATER MEXICO" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="CULTURALES FHD (MEXICO)", DISCOVERY THEATER MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118868
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name=" DISCOVERY CHANNEL MEXICO" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES FHD (MEXICO)", DISCOVERY CHANNEL MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118869
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name=" E! ENTERTAINMENT MEXICO" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="CULTURALES FHD (MEXICO)", E! ENTERTAINMENT MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118870
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name=" EL GOURMET MEXICO" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="CULTURALES FHD (MEXICO)", EL GOURMET MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118871
+#EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name=" FOOD NETWORK MEXICO" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="CULTURALES FHD (MEXICO)", FOOD NETWORK MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118872
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name=" LIFETIME MEXICO" tvg-logo="https://static.epg.best/mx/Lifetime.mx.png" group-title="CULTURALES FHD (MEXICO)", LIFETIME MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118873
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name=" MAS CHIC MEXICO" tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png" group-title="CULTURALES FHD (MEXICO)", MAS CHIC MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118874
+#EXTINF:-1 tvg-id="HolaTv.co" tvg-name=" HOLA TV MEXICO" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="CULTURALES FHD (MEXICO)", HOLA TV MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118875
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name=" HISTORY MEXICO" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="CULTURALES FHD (MEXICO)", HISTORY MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118876
+#EXTINF:-1 tvg-id="History2.mx" tvg-name=" H2 MEXICO" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="CULTURALES FHD (MEXICO)", H2 MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118877
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name=" DISCOVERY ID MEXICO" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CULTURALES FHD (MEXICO)", DISCOVERY ID MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118878
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name=" NATGEO MEXICO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="CULTURALES FHD (MEXICO)", NATGEO MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118879
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name=" BABY FIRST" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="INFANTILES ", BABY FIRST
+http://stalkertvlatinopanel.com:8080/antonio/123456/104196
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name=" NICKELODEON" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" group-title="INFANTILES ", NICKELODEON
+http://stalkertvlatinopanel.com:8080/antonio/123456/104197
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name=" NICKELODEON" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="INFANTILES ", NICKELODEON
+http://stalkertvlatinopanel.com:8080/antonio/123456/123794
+#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name=" DISNEY CHANNEL" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png" group-title="INFANTILES ", DISNEY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/123795
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name=" CARTOONITO" tvg-logo="https://static.epg.best/it/Cartoonito.it.png" group-title="INFANTILES ", CARTOONITO
+http://stalkertvlatinopanel.com:8080/antonio/123456/123796
+#EXTINF:-1 tvg-id="BabyTV.pa" tvg-name=" BABY TV" tvg-logo="https://static.epg.best/es/BabyTV.es.png" group-title="INFANTILES ", BABY TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/6286
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name=" CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1200px-Cartoonito_logo.svg.png" group-title="INFANTILES ", CARTOONITO
+http://stalkertvlatinopanel.com:8080/antonio/123456/6287
+#EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name=" CARTOON NETWORK" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="INFANTILES ", CARTOON NETWORK
+http://stalkertvlatinopanel.com:8080/antonio/123456/6288
+#EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-name=" DISCOVERY KIDS" tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="INFANTILES ", DISCOVERY KIDS
+http://stalkertvlatinopanel.com:8080/antonio/123456/6289
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name=" DISNEY CHANNEL" tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="INFANTILES ", DISNEY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/6290
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name=" DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="INFANTILES ", DISNEY JUNIOR
+http://stalkertvlatinopanel.com:8080/antonio/123456/6291
+#EXTINF:-1 tvg-id="13C.cl" tvg-name=" TOONCAST" tvg-logo="https://static.epg.best/pa/TooncastLatinAmerica.pa.png" group-title="INFANTILES ", TOONCAST
+http://stalkertvlatinopanel.com:8080/antonio/123456/6292
+#EXTINF:-1 tvg-id="NickelodeonLatinAmereica.pa" tvg-name=" NICKELODEON" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="INFANTILES ", NICKELODEON
+http://stalkertvlatinopanel.com:8080/antonio/123456/6294
+#EXTINF:-1 tvg-id="Nick2.mx" tvg-name=" TEEN NICK" tvg-logo="https://static.epg.best/us/TeenNick.us.png" group-title="INFANTILES ", TEEN NICK
+http://stalkertvlatinopanel.com:8080/antonio/123456/6295
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name=" NICK JR" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="INFANTILES ", NICK JR
+http://stalkertvlatinopanel.com:8080/antonio/123456/6296
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name=" VH1 CLASSIC" tvg-logo="https://static.epg.best/mx/VH1.mx.png" group-title="MUSICALES", VH1 CLASSIC
+http://stalkertvlatinopanel.com:8080/antonio/123456/104198
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name=" BANDAMAX" tvg-logo="https://static.epg.best/mx/Bandamax.mx.png" group-title="MUSICALES", BANDAMAX
+http://stalkertvlatinopanel.com:8080/antonio/123456/920
+#EXTINF:-1 tvg-id="MTVLatinAmerica.pa" tvg-name=" MTV" tvg-logo="https://static.epg.best/mx/MTV.mx.png" group-title="MUSICALES", MTV
+http://stalkertvlatinopanel.com:8080/antonio/123456/929
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name=" BANDAMAX" tvg-logo="https://static.epg.best/mx/Bandamax.mx.png" group-title="MUSICALES", BANDAMAX
+http://stalkertvlatinopanel.com:8080/antonio/123456/6840
+#EXTINF:-1 tvg-id="" tvg-name=" MUSICA URBANA VARIABLE" tvg-logo="https://static.epg.best/mx/MVStv.mx.png" group-title="MUSICALES", MUSICA URBANA VARIABLE
+http://stalkertvlatinopanel.com:8080/antonio/123456/6841
+#EXTINF:-1 tvg-id="MTVLatinAmerica.pa" tvg-name=" MTV" tvg-logo="https://static.epg.best/mx/MTV.mx.png" group-title="MUSICALES", MTV
+http://stalkertvlatinopanel.com:8080/antonio/123456/6842
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name=" TELEHIT" tvg-logo="https://static.epg.best/mx/TelehitHD.mx.png" group-title="MUSICALES", TELEHIT
+http://stalkertvlatinopanel.com:8080/antonio/123456/6843
+#EXTINF:-1 tvg-id="" tvg-name=" MLM" tvg-logo="https://static.epg.best/mx/PresumiendoMexico.mx.png" group-title="MUSICALES", MLM
+http://stalkertvlatinopanel.com:8080/antonio/123456/6844
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name=" VH1" tvg-logo="https://static.epg.best/mx/VH1.mx.png" group-title="MUSICALES", VH1
+http://stalkertvlatinopanel.com:8080/antonio/123456/6845
+#EXTINF:-1 tvg-id="HTVMusica.pa" tvg-name=" HTV" tvg-logo="https://static.epg.best/pa/HTVMusica.pa.png" group-title="MUSICALES", HTV
+http://stalkertvlatinopanel.com:8080/antonio/123456/87769
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name=" MTV MEXICO" tvg-logo="https://static.epg.best/mx/MTV.mx.png" group-title="MUSICALES", MTV MEXICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118904
+#EXTINF:-1 tvg-id="" tvg-name=" Urban TV * | ES" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png" group-title="MUSICALES LOCALES", Urban TV  | ES
+http://stalkertvlatinopanel.com:8080/antonio/123456/119416
+#EXTINF:-1 tvg-id="" tvg-name=" Euro Indie Music | GB" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png" group-title="MUSICALES LOCALES", Euro Indie Music | GB
+http://stalkertvlatinopanel.com:8080/antonio/123456/119417
+#EXTINF:-1 tvg-id="" tvg-name=" Retro Music Television | CZ" tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png" group-title="MUSICALES LOCALES", Retro Music Television | CZ
+http://stalkertvlatinopanel.com:8080/antonio/123456/119418
+#EXTINF:-1 tvg-id="" tvg-name=" Canal 38 | CR" tvg-logo="https://www.m3u.cl/logo/37_Canal_38.png" group-title="MUSICALES LOCALES", Canal 38 | CR
+http://stalkertvlatinopanel.com:8080/antonio/123456/119419
+#EXTINF:-1 tvg-id="" tvg-name=" Ibiza Global TV | ES" tvg-logo="https://www.m3u.cl/logo/30_Ibiza_Global_TV.png" group-title="MUSICALES LOCALES", Ibiza Global TV | ES
+http://stalkertvlatinopanel.com:8080/antonio/123456/119421
+#EXTINF:-1 tvg-id="" tvg-name=" TV Exitos | DO" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png" group-title="MUSICALES LOCALES", TV Exitos | DO
+http://stalkertvlatinopanel.com:8080/antonio/123456/119423
+#EXTINF:-1 tvg-id="" tvg-name=" Video Tour Channel | CR" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png" group-title="MUSICALES LOCALES", Video Tour Channel | CR
+http://stalkertvlatinopanel.com:8080/antonio/123456/119424
+#EXTINF:-1 tvg-id="" tvg-name=" TOP Latino TV | PE" tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png" group-title="MUSICALES LOCALES", TOP Latino TV | PE
+http://stalkertvlatinopanel.com:8080/antonio/123456/119425
+#EXTINF:-1 tvg-id="" tvg-name=" Sexy Kpop TV | BR" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg" group-title="MUSICALES LOCALES", Sexy Kpop TV | BR
+http://stalkertvlatinopanel.com:8080/antonio/123456/119429
+#EXTINF:-1 tvg-id="" tvg-name=" Hits 360 | DO" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png" group-title="MUSICALES LOCALES", Hits 360 | DO
+http://stalkertvlatinopanel.com:8080/antonio/123456/119430
+#EXTINF:-1 tvg-id="" tvg-name=" Latin Zone TV | US" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png" group-title="MUSICALES LOCALES", Latin Zone TV | US
+http://stalkertvlatinopanel.com:8080/antonio/123456/119431
+#EXTINF:-1 tvg-id="" tvg-name=" Tele Clasicos | CR" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png" group-title="MUSICALES LOCALES", Tele Clasicos | CR
+http://stalkertvlatinopanel.com:8080/antonio/123456/119432
+#EXTINF:-1 tvg-id="" tvg-name=" Canal VM Latino | CR" tvg-logo="https://www.m3u.cl/logo/1062_Canal_VM_Latino.png" group-title="MUSICALES LOCALES", Canal VM Latino | CR
+http://stalkertvlatinopanel.com:8080/antonio/123456/119440
+#EXTINF:-1 tvg-id="" tvg-name=" TV Uniao | BR" tvg-logo="https://www.m3u.cl/logo/561_TV_Uniao.png" group-title="MUSICALES LOCALES", TV Uniao | BR
+http://stalkertvlatinopanel.com:8080/antonio/123456/119441
+#EXTINF:-1 tvg-id="" tvg-name="SONY | MOVIES USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="SONY (PACK PREMIUM)",SONY | MOVIES USA
+http://stalkertvlatinopanel.com:8080/antonio/123456/124136
+#EXTINF:-1 tvg-id="" tvg-name="SONY | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="SONY (PACK PREMIUM)",SONY | MOVIES
+http://stalkertvlatinopanel.com:8080/antonio/123456/124135
+#EXTINF:-1 tvg-id="" tvg-name="SONY | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SONY (PACK PREMIUM)",SONY | NOVELAS
+http://stalkertvlatinopanel.com:8080/antonio/123456/124134
+#EXTINF:-1 tvg-id="" tvg-name="SONY  | COMEDIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SONY (PACK PREMIUM)",SONY  | COMEDIAS
+http://stalkertvlatinopanel.com:8080/antonio/123456/124133
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="DEPORTE HD | ESPN DEPORTES" tvg-logo="https://static.epg.best/us/ESPNDeportes.us.png" group-title="DEPORTES HD",DEPORTE HD | ESPN DEPORTES
+http://stalkertvlatinopanel.com:8080/antonio/123456/104189
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="DEPORTES HD | TENNIS CHANNEL" tvg-logo="https://static.epg.best/us/TennisChannel.us.png" group-title="DEPORTES HD",DEPORTES HD | TENNIS CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/109214
+#EXTINF:-1 tvg-id="FoxSports1ConoSur.co" tvg-name="DEPORTES HD | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="DEPORTES HD",DEPORTES HD | ESPN 4
+http://stalkertvlatinopanel.com:8080/antonio/123456/116223
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="DEPORTE HD | ESPN 3 ARGENTINA" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="DEPORTES HD",DEPORTE HD | ESPN 3 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6250
+#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="DEPORTE HD | BEIN SPORTS Ñ" tvg-logo="https://static.epg.best/us/beINSportsEnEspanol.us.png" group-title="DEPORTES HD",DEPORTE HD | BEIN SPORTS Ñ
+http://stalkertvlatinopanel.com:8080/antonio/123456/6251
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DEPORTE HD | DIRECTV SPORTS 1" tvg-logo="https://static.epg.best/ar/610DTSA.ar.png" group-title="DEPORTES HD",DEPORTE HD | DIRECTV SPORTS 1
+http://stalkertvlatinopanel.com:8080/antonio/123456/6252
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DEPORTE HD | DIRECTV SPORTS 2" tvg-logo="https://static.epg.best/ar/612DTS2.ar.png" group-title="DEPORTES HD",DEPORTE HD | DIRECTV SPORTS 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/6253
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="DEPORTE HD | ESPN 1 ARGENTINA" tvg-logo="https://static.epg.best/ar/ESPN.ar.png" group-title="DEPORTES HD",DEPORTE HD | ESPN 1 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6254
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="DEPORTE HD | ESPN 2 ARGENTINA" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="DEPORTES HD",DEPORTE HD | ESPN 2 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6255
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="DEPORTE HD | ESPN 3 ARGENTINA" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="DEPORTES HD",DEPORTE HD | ESPN 3 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6256
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="DEPORTE HD | FOX SPORTS 2 ARGENTINA" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" group-title="DEPORTES HD",DEPORTE HD | FOX SPORTS 2 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6257
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="DEPORTE HD | FOX SPORTS 1 ARGENTINA" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" group-title="DEPORTES HD",DEPORTE HD | FOX SPORTS 1 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6258
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="DEPORTE HD | FOX SPORTS 1 ARGENTINA" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" group-title="DEPORTES HD",DEPORTE HD | FOX SPORTS 1 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6259
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="DEPORTE HD | FOX SPORTS 2 ARGENTINA" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" group-title="DEPORTES HD",DEPORTE HD | FOX SPORTS 2 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6260
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="DEPORTE HD | FOX SPORTS 2 ARGENTINA" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" group-title="DEPORTES HD",DEPORTE HD | FOX SPORTS 2 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6261
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="DEPORTE HD | FOX SPORTS 3 ARGENTINA" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="DEPORTES HD",DEPORTE HD | FOX SPORTS 3 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6262
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="DEPORTE HD | FOX SPORTS 1 ARGENTINA" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" group-title="DEPORTES HD",DEPORTE HD | FOX SPORTS 1 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6263
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="DEPORTE HD | NBA NETWORK" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="DEPORTES HD",DEPORTE HD | NBA NETWORK
+http://stalkertvlatinopanel.com:8080/antonio/123456/6265
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="DEPORTE HD | TNT SPORTS ARGENTINA" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="DEPORTES HD",DEPORTE HD | TNT SPORTS ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6266
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="DEPORTE HD | TYC SPORTS ARGENTINA" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="DEPORTES HD",DEPORTE HD | TYC SPORTS ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6267
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="DEPORTE HD | WWE USA" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="DEPORTES HD",DEPORTE HD | WWE USA
+http://stalkertvlatinopanel.com:8080/antonio/123456/6268
+#EXTINF:-1 tvg-id="TNTSports1.cl" tvg-name="DEPORTE HD | TNT SPORTS CHILE" tvg-logo="https://tntsports.com.ar/__export/1610632432438/sites/tntsports/arte/apps/twitter_summary_card_20210114.jpg" group-title="DEPORTES HD",DEPORTE HD | TNT SPORTS CHILE
+http://stalkertvlatinopanel.com:8080/antonio/123456/6269
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="DEPORTES HD | TNT SPORTS ARGENTINA" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="DEPORTES HD",DEPORTES HD | TNT SPORTS ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/103228
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="DEPORTES HD | TNT SPORTS ARGENTINA" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="DEPORTES HD",DEPORTES HD | TNT SPORTS ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/103229
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="DEPORTES HD | ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="DEPORTES HD",DEPORTES HD | ESPN PREMIUM
+http://stalkertvlatinopanel.com:8080/antonio/123456/103230
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="DEPORTES HD | ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="DEPORTES HD",DEPORTES HD | ESPN PREMIUM
+http://stalkertvlatinopanel.com:8080/antonio/123456/103231
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="DEPORTES HD | GOL PERU" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="DEPORTES HD",DEPORTES HD | GOL PERU
+http://stalkertvlatinopanel.com:8080/antonio/123456/103232
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="DEPORTES HD | GOL PERU" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="DEPORTES HD",DEPORTES HD | GOL PERU
+http://stalkertvlatinopanel.com:8080/antonio/123456/103233
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="DEPORTES HD | GOL PERU" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="DEPORTES HD",DEPORTES HD | GOL PERU
+http://stalkertvlatinopanel.com:8080/antonio/123456/103235
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="DEPORTES HD | TYC SPORTS" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="DEPORTES HD",DEPORTES HD | TYC SPORTS
+http://stalkertvlatinopanel.com:8080/antonio/123456/109227
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESTADIO TNT SPORTS" tvg-logo="https://theme.zdassets.com/theme_assets/240700/dae0ef52ea2086955d824cade19804fb83f9efe2.png" group-title="DEPORTES HD",DEPORTES HD | ESTADIO TNT SPORTS
+http://stalkertvlatinopanel.com:8080/antonio/123456/109225
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DEPORTES HD | DIRECTV SPORTS 1 URUGUAY" tvg-logo="https://static.epg.best/ar/610DTSA.ar.png" group-title="DEPORTES HD",DEPORTES HD | DIRECTV SPORTS 1 URUGUAY
+http://stalkertvlatinopanel.com:8080/antonio/123456/109220
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DEPORTES HD | DIRECTV SPORTS 1 CHILE" tvg-logo="https://static.epg.best/ar/610DTSA.ar.png" group-title="DEPORTES HD",DEPORTES HD | DIRECTV SPORTS 1 CHILE
+http://stalkertvlatinopanel.com:8080/antonio/123456/109219
+#EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="DEPORTES HD | CLARO SPORTS" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="DEPORTES HD",DEPORTES HD | CLARO SPORTS
+http://stalkertvlatinopanel.com:8080/antonio/123456/109218
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="DEPORTE HD | ESPN CHILE" tvg-logo="https://static.epg.best/ar/ESPN.ar.png" group-title="DEPORTES HD",DEPORTE HD | ESPN CHILE
+http://stalkertvlatinopanel.com:8080/antonio/123456/118264
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="DEPORTE HD | ESPN PERU" tvg-logo="https://static.epg.best/ar/ESPN.ar.png" group-title="DEPORTES HD",DEPORTE HD | ESPN PERU
+http://stalkertvlatinopanel.com:8080/antonio/123456/118266
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTE HD | ESPN COLOMBIA" tvg-logo="https://static.epg.best/ar/ESPN.ar.png" group-title="DEPORTES HD",DEPORTE HD | ESPN COLOMBIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/118268
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DEPORTE HD | DIRECTV SPORTS 1 PERU" tvg-logo="https://static.epg.best/ar/610DTSA.ar.png" group-title="DEPORTES HD",DEPORTE HD | DIRECTV SPORTS 1 PERU
+http://stalkertvlatinopanel.com:8080/antonio/123456/118270
+#EXTINF:-1 tvg-id="M.LCAMPEONES" tvg-name="DEPORTES HD | MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="DEPORTES HD",DEPORTES HD | MOVISTAR LIGA DE CAMPEONES HD
+http://stalkertvlatinopanel.com:8080/antonio/123456/913
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="DEPORTES HD | FOX SPORTS 3 ARGENTINA" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS 3 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/123826
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="DEPORTES HD | FOX SPORTS 2 ARGENTINA" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS 2 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/123827
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="DEPORTES HD | ESPN 3 ARGENTINA" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="DEPORTES HD",DEPORTES HD | ESPN 3 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/123829
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="DEPORTES HD | ESPN 1 ARGENTINA" tvg-logo="https://static.epg.best/ar/ESPN.ar.png" group-title="DEPORTES HD",DEPORTES HD | ESPN 1 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/123830
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="DEPORTES HD | TNT SPORTS ARGENTINA" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="DEPORTES HD",DEPORTES HD | TNT SPORTS ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/123832
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="DEPORTES HD | TYC SPORTS" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="DEPORTES HD",DEPORTES HD | TYC SPORTS
+http://stalkertvlatinopanel.com:8080/antonio/123456/123833
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="DEPORTES HD | FOX SPORTS 1 ARGENTINA" tvg-logo="https://static.epg.best/us/FoxSports1.us.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS 1 ARGENTINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/123828
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL SD" tvg-logo="https://static.epg.best/us/GolTVEnglish.us.png" group-title="GOL TV ECUADOR (PACK PREMIUM)",GOL TV ECUADOR | SEÑAL SD
+http://stalkertvlatinopanel.com:8080/antonio/123456/88570
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL HD" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="GOL TV ECUADOR (PACK PREMIUM)",GOL TV ECUADOR | SEÑAL HD
+http://stalkertvlatinopanel.com:8080/antonio/123456/6777
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL HD" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="GOL TV ECUADOR (PACK PREMIUM)",GOL TV ECUADOR | SEÑAL HD
+http://stalkertvlatinopanel.com:8080/antonio/123456/6781
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL FHD" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="GOL TV ECUADOR (PACK PREMIUM)",GOL TV ECUADOR | SEÑAL FHD
+http://stalkertvlatinopanel.com:8080/antonio/123456/95214
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL 1 FHD" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="GOL TV ECUADOR (PACK PREMIUM)",GOL TV ECUADOR | SEÑAL 1 FHD
+http://stalkertvlatinopanel.com:8080/antonio/123456/123241
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL 1 HD" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="GOL TV ECUADOR (PACK PREMIUM)",GOL TV ECUADOR | SEÑAL 1 HD
+http://stalkertvlatinopanel.com:8080/antonio/123456/123242
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL 2 FHD" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="GOL TV ECUADOR (PACK PREMIUM)",GOL TV ECUADOR | SEÑAL 2 FHD
+http://stalkertvlatinopanel.com:8080/antonio/123456/123243
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL 2 HD" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="GOL TV ECUADOR (PACK PREMIUM)",GOL TV ECUADOR | SEÑAL 2 HD
+http://stalkertvlatinopanel.com:8080/antonio/123456/123244
+#EXTINF:-1 tvg-id="EPG123.91279.XMLTV.CO" tvg-name="GOL TV ECUADOR | SEÑAL SD" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="GOL TV ECUADOR (PACK PREMIUM)",GOL TV ECUADOR | SEÑAL SD
+http://stalkertvlatinopanel.com:8080/antonio/123456/937
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="GOL TV ECUADOR | SEÑAL HD" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="GOL TV ECUADOR (PACK PREMIUM)",GOL TV ECUADOR | SEÑAL HD
+http://stalkertvlatinopanel.com:8080/antonio/123456/6264
+#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name=" CARACOL INTERNACIONAL" tvg-logo="https://static.epg.best/co/CaracolInternacional.co.png" group-title="COLOMBIA HD", CARACOL INTERNACIONAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/87567
+#EXTINF:-1 tvg-id="CanalUno.co" tvg-name=" CANAL UNO" tvg-logo="https://static.epg.best/co/CanalUno.co.png" group-title="COLOMBIA HD", CANAL UNO
+http://stalkertvlatinopanel.com:8080/antonio/123456/87569
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name=" PASIONES" tvg-logo="https://static.epg.best/us/Pasiones.us.png" group-title="COLOMBIA HD", PASIONES
+http://stalkertvlatinopanel.com:8080/antonio/123456/87570
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name=" TELEPACIFICO" tvg-logo="https://static.epg.best/co/Telepacifico.co.png" group-title="COLOMBIA HD", TELEPACIFICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/87571
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name=" CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA HD", CARACOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/87573
+#EXTINF:-1 tvg-id="RCN.co" tvg-name=" RCN" tvg-logo="https://static.epg.best/co/RCN.co.png" group-title="COLOMBIA HD", RCN
+http://stalkertvlatinopanel.com:8080/antonio/123456/95218
+#EXTINF:-1 tvg-id="CanalUno.co" tvg-name=" CANAL UNO" tvg-logo="https://static.epg.best/co/CanalUno.co.png" group-title="COLOMBIA HD", CANAL UNO
+http://stalkertvlatinopanel.com:8080/antonio/123456/6805
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name=" CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA HD", CARACOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/6806
+#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name=" CARACOL INTERNACIONAL" tvg-logo="https://static.epg.best/co/CaracolInternacional.co.png" group-title="COLOMBIA HD", CARACOL INTERNACIONAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/6807
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name=" CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA HD", CARACOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/6825
+#EXTINF:-1 tvg-id="RCN.co" tvg-name=" RCN" tvg-logo="https://static.epg.best/co/RCN.co.png" group-title="COLOMBIA HD", RCN
+http://stalkertvlatinopanel.com:8080/antonio/123456/6826
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name=" RCN TELENOVELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" group-title="COLOMBIA HD", RCN TELENOVELA
+http://stalkertvlatinopanel.com:8080/antonio/123456/87502
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name=" TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/125px-Telepac%C3%ADfico.png" group-title="COLOMBIA HD", TELEPACIFICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/87503
+#EXTINF:-1 tvg-id="Telemedellin.co" tvg-name=" TELEMEDELLIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/150px-Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA HD", TELEMEDELLIN
+http://stalkertvlatinopanel.com:8080/antonio/123456/87506
+#EXTINF:-1 tvg-id="Senal.co" tvg-name=" SEÑAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA HD", SEÑAL COLOMBIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/87507
+#EXTINF:-1 tvg-id="NuestraTeleNoticias24.co" tvg-name=" NTN24" tvg-logo="https://static.epg.best/co/NuestraTeleNoticias24.co.png" group-title="COLOMBIA HD", NTN24
+http://stalkertvlatinopanel.com:8080/antonio/123456/91205
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name=" TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA HD", TELECARIBE
+http://stalkertvlatinopanel.com:8080/antonio/123456/87505
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name=" CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA HD", CARACOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/123416
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name=" CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA HD", CARACOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/123417
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name=" CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA HD", CARACOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/123418
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="CANAL CAPITAL" tvg-logo="https://static.epg.best/co/CanalCapital.co.png" group-title="COLOMBIA LOCAL",CANAL CAPITAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/87565
+#EXTINF:-1 tvg-id="" tvg-name="CANAL TRECE" tvg-logo="https://static.epg.best/co/CanalTrece.co.png" group-title="COLOMBIA LOCAL",CANAL TRECE
+http://stalkertvlatinopanel.com:8080/antonio/123456/87566
+#EXTINF:-1 tvg-id="" tvg-name="SUDAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="COLOMBIA LOCAL",SUDAN
+http://stalkertvlatinopanel.com:8080/antonio/123456/87572
+#EXTINF:-1 tvg-id="" tvg-name="AMORDISCOS TV" tvg-logo="https://i1.wp.com/amordiscostv.com/wp-content/uploads/2021/02/thumbnail_Logo-Amordiscos-600x600-alpha.png?resize=150%2C150&ssl=1" group-title="COLOMBIA LOCAL",AMORDISCOS TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/96535
+#EXTINF:-1 tvg-id="" tvg-name="CALI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_CaliTV.png" group-title="COLOMBIA LOCAL",CALI TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/96536
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CNC" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-canal-cnc-estrella-9367.jpg" group-title="COLOMBIA LOCAL",CANAL CNC
+http://stalkertvlatinopanel.com:8080/antonio/123456/96537
+#EXTINF:-1 tvg-id="" tvg-name="CNC MEDELLIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/ANTV_Colombia_Logo.PNG" group-title="COLOMBIA LOCAL",CNC MEDELLIN
+http://stalkertvlatinopanel.com:8080/antonio/123456/96538
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="CANAL CAPITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA LOCAL",CANAL CAPITAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/96539
+#EXTINF:-1 tvg-id="" tvg-name="COSMOVISION" tvg-logo="https://static.epg.best/co/Cosmovision.co.png" group-title="COLOMBIA LOCAL",COSMOVISION
+http://stalkertvlatinopanel.com:8080/antonio/123456/96540
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="TV AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1200px-TV_Agro_logo.svg.png" group-title="COLOMBIA LOCAL",TV AGRO
+http://stalkertvlatinopanel.com:8080/antonio/123456/96542
+#EXTINF:-1 tvg-id="" tvg-name="TV GRACIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rfqFa700A2w1OYzpEg1YYB6f3jsHe4BLZb9xAiuIX23-agNnPetlhlE_xqRA1-KHE5Q&usqp=CAU" group-title="COLOMBIA LOCAL",TV GRACIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/96543
+#EXTINF:-1 tvg-id="" tvg-name="BUENISIMA RADIO TV" tvg-logo="https://www.m3u.cl/logo/898_Buenisima_Radio_TV.png" group-title="COLOMBIA LOCAL",BUENISIMA RADIO TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/118946
+#EXTINF:-1 tvg-id="" tvg-name="TV PEÑOL" tvg-logo="https://www.m3u.cl/logo/860_TV_Penol.png" group-title="COLOMBIA LOCAL",TV PEÑOL
+http://stalkertvlatinopanel.com:8080/antonio/123456/118945
+#EXTINF:-1 tvg-id="" tvg-name="RECUERDOS RETRO RADIO TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="COLOMBIA LOCAL",RECUERDOS RETRO RADIO TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/118943
+#EXTINF:-1 tvg-id="" tvg-name="TELE PASTO" tvg-logo="https://www.m3u.cl/logo/804_Tele_Pasto.jpg" group-title="COLOMBIA LOCAL",TELE PASTO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118944
+#EXTINF:-1 tvg-id="" tvg-name="TV GRACIA" tvg-logo="https://www.m3u.cl/logo/181_TV_Gracia.png" group-title="COLOMBIA LOCAL",TV GRACIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/118942
+#EXTINF:-1 tvg-id="" tvg-name="TELEFAMILIA" tvg-logo="https://www.m3u.cl/logo/187_Tele_Familia.png" group-title="COLOMBIA LOCAL",TELEFAMILIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/118941
+#EXTINF:-1 tvg-id="" tvg-name="MELODY CHANNEL" tvg-logo="https://www.m3u.cl/logo/141_Melody_Channel_TV.jpg" group-title="COLOMBIA LOCAL",MELODY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/118938
+#EXTINF:-1 tvg-id="" tvg-name="CTV" tvg-logo="https://www.m3u.cl/logo/126_CTV.jpg" group-title="COLOMBIA LOCAL",CTV
+http://stalkertvlatinopanel.com:8080/antonio/123456/118937
+#EXTINF:-1 tvg-id="" tvg-name="TDI" tvg-logo="https://www.m3u.cl/logo/130_TDI.jpg" group-title="COLOMBIA LOCAL",TDI
+http://stalkertvlatinopanel.com:8080/antonio/123456/118939
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DOCE SINCELEJO" tvg-logo="" group-title="COLOMBIA LOCAL",CANAL DOCE SINCELEJO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118933
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CNC PASTO" tvg-logo="https://www.m3u.cl/logo/117_Canal_CNC_Pasto.png" group-title="COLOMBIA LOCAL",CANAL CNC PASTO
+http://stalkertvlatinopanel.com:8080/antonio/123456/118932
+#EXTINF:-1 tvg-id="" tvg-name="CANAL INSTITUCIONAL" tvg-logo="https://www.m3u.cl/logo/120_Canal_Institucional.png" group-title="COLOMBIA LOCAL",CANAL INSTITUCIONAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/118934
+#EXTINF:-1 tvg-id="" tvg-name="CANAL TRECE" tvg-logo="https://www.m3u.cl/logo/119_Canal_Trece.png" group-title="COLOMBIA LOCAL",CANAL TRECE
+http://stalkertvlatinopanel.com:8080/antonio/123456/118935
+#EXTINF:-1 tvg-id="" tvg-name="CANAL VISION DORADA" tvg-logo="https://www.m3u.cl/logo/122_Canal_Vision_Dorada.jpg" group-title="COLOMBIA LOCAL",CANAL VISION DORADA
+http://stalkertvlatinopanel.com:8080/antonio/123456/118936
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name=" CALLE 13" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ES| CINE + SERIES FHD", CALLE 13
+http://stalkertvlatinopanel.com:8080/antonio/123456/66263
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name=" COSMOS" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="ES| CINE + SERIES FHD", COSMOS
+http://stalkertvlatinopanel.com:8080/antonio/123456/66267
+#EXTINF:-1 tvg-id="Somos" tvg-name=" SOMOS" tvg-logo="https://static.epg.best/es/Somos.es.png" group-title="ES| CINE + SERIES FHD", SOMOS
+http://stalkertvlatinopanel.com:8080/antonio/123456/66275
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name=" COMEDY CENTRAL" tvg-logo="https://static.epg.best/es/ComedyCentral.es.png" group-title="ES| CINE + SERIES FHD", COMEDY CENTRAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/66276
+#EXTINF:-1 tvg-id="0.es" tvg-name=" #0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="ES| CINE + SERIES FHD", #0
+http://stalkertvlatinopanel.com:8080/antonio/123456/66302
+#EXTINF:-1 tvg-id="AMC HD" tvg-name=" AMC" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ES| CINE + SERIES FHD", AMC
+http://stalkertvlatinopanel.com:8080/antonio/123456/66321
+#EXTINF:-1 tvg-id="TCM HD" tvg-name=" TCM" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="ES| CINE + SERIES FHD", TCM
+http://stalkertvlatinopanel.com:8080/antonio/123456/66322
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name=" AXN WHITE" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="ES| CINE + SERIES FHD", AXN WHITE
+http://stalkertvlatinopanel.com:8080/antonio/123456/66324
+#EXTINF:-1 tvg-id="AXN HD" tvg-name=" AXN" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="ES| CINE + SERIES FHD", AXN
+http://stalkertvlatinopanel.com:8080/antonio/123456/66325
+#EXTINF:-1 tvg-id="FOX FHD" tvg-name=" FOX" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="ES| CINE + SERIES FHD", FOX
+http://stalkertvlatinopanel.com:8080/antonio/123456/66326
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name=" HOLLYWOOD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="ES| CINE + SERIES FHD", HOLLYWOOD
+http://stalkertvlatinopanel.com:8080/antonio/123456/66328
+#EXTINF:-1 tvg-id="TNT HD" tvg-name=" TNT" tvg-logo="https://static.epg.best/es/TNT.es.png" group-title="ES| CINE + SERIES FHD", TNT
+http://stalkertvlatinopanel.com:8080/antonio/123456/66329
+#EXTINF:-1 tvg-id="XTRM" tvg-name=" XTRM" tvg-logo="https://static.epg.best/es/Xtrm.es.png" group-title="ES| CINE + SERIES FHD", XTRM
+http://stalkertvlatinopanel.com:8080/antonio/123456/66330
+#EXTINF:-1 tvg-id="SYFY FHD" tvg-name=" SYFY" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="ES| CINE + SERIES FHD", SYFY
+http://stalkertvlatinopanel.com:8080/antonio/123456/66331
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name=" MOVISTAR ACCION" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="ES| CINE + SERIES FHD", MOVISTAR ACCION
+http://stalkertvlatinopanel.com:8080/antonio/123456/66334
+#EXTINF:-1 tvg-id="mdrama.es" tvg-name=" MOVISTAR DRAMA" tvg-logo="https://static.epg.best/es/MovistarDrama.es.png" group-title="ES| CINE + SERIES FHD", MOVISTAR DRAMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66337
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name=" MOVISTAR SERIES 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="ES| CINE + SERIES FHD", MOVISTAR SERIES 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/66339
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name=" MOVISTAR SERIES" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="ES| CINE + SERIES FHD", MOVISTAR SERIES
+http://stalkertvlatinopanel.com:8080/antonio/123456/66340
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name=" MOVISTAR COMEDIA" tvg-logo="https://static.epg.best/es/MovistarComedia.es.png" group-title="ES| CINE + SERIES FHD", MOVISTAR COMEDIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66341
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name=" MOVISTAR ESTRENOS" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="ES| CINE + SERIES FHD", MOVISTAR ESTRENOS
+http://stalkertvlatinopanel.com:8080/antonio/123456/66342
+#EXTINF:-1 tvg-id="dark.es" tvg-name=" DARK" tvg-logo="https://static.epg.best/es/Dark.es.png" group-title="ES| CINE + SERIES FHD", DARK
+http://stalkertvlatinopanel.com:8080/antonio/123456/87724
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name=" MOVISTAR ESTRENOS 2" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="ES| CINE + SERIES FHD", MOVISTAR ESTRENOS 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/112576
+#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name=" MOVISTAR CLASICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Cl%C3%A1sicos.svg/2560px-Movistar_Cl%C3%A1sicos.svg.png" group-title="ES| CINE + SERIES FHD", MOVISTAR CLASICO
+http://stalkertvlatinopanel.com:8080/antonio/123456/116561
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name=" PARAMOUNT NETWORK" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png" group-title="ES| CINE + SERIES SD", PARAMOUNT NETWORK
+http://stalkertvlatinopanel.com:8080/antonio/123456/66320
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name=" MTV" tvg-logo="https://static.epg.best/es/MTV.es.png" group-title="ES| CINE + SERIES SD", MTV
+http://stalkertvlatinopanel.com:8080/antonio/123456/66332
+#EXTINF:-1 tvg-id="" tvg-name=" BOM CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1280px-Logo-bom.svg.png" group-title="ES| CINE + SERIES SD", BOM CINE
+http://stalkertvlatinopanel.com:8080/antonio/123456/66333
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name=" MOVISTAR CINE ESPAÑA" tvg-logo="https://static.epg.best/es/MovistarCineEspanol.es.png" group-title="ES| CINE + SERIES SD", MOVISTAR CINE ESPAÑA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66335
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name=" MOVISTAR CINE ESPAÑA" tvg-logo="https://static.epg.best/es/MovistarCineEspanol.es.png" group-title="ES| CINE + SERIES SD", MOVISTAR CINE ESPAÑA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66336
+#EXTINF:-1 tvg-id="#0.es" tvg-name=" #0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="ES| CINE + SERIES SD", #0
+http://stalkertvlatinopanel.com:8080/antonio/123456/87712
+#EXTINF:-1 tvg-id="amc.es" tvg-name=" AMC" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ES| CINE + SERIES SD", AMC
+http://stalkertvlatinopanel.com:8080/antonio/123456/87715
+#EXTINF:-1 tvg-id="axn.es" tvg-name=" AXN" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="ES| CINE + SERIES SD", AXN
+http://stalkertvlatinopanel.com:8080/antonio/123456/87717
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name=" AXN WHITE" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="ES| CINE + SERIES SD", AXN WHITE
+http://stalkertvlatinopanel.com:8080/antonio/123456/87718
+#EXTINF:-1 tvg-id="calle13.es" tvg-name=" CALLE 13" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ES| CINE + SERIES SD", CALLE 13
+http://stalkertvlatinopanel.com:8080/antonio/123456/87719
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name=" COMEDY CENTRAL" tvg-logo="https://static.epg.best/es/ComedyCentral.es.png" group-title="ES| CINE + SERIES SD", COMEDY CENTRAL
+http://stalkertvlatinopanel.com:8080/antonio/123456/87721
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name=" COSMO" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="ES| CINE + SERIES SD", COSMO
+http://stalkertvlatinopanel.com:8080/antonio/123456/87722
+#EXTINF:-1 tvg-id="fox.es" tvg-name=" FOX" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="ES| CINE + SERIES SD", FOX
+http://stalkertvlatinopanel.com:8080/antonio/123456/87729
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name=" HOLLYWOOD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="ES| CINE + SERIES SD", HOLLYWOOD
+http://stalkertvlatinopanel.com:8080/antonio/123456/87733
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name=" MOVISTAR ACCION" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="ES| CINE + SERIES SD", MOVISTAR ACCION
+http://stalkertvlatinopanel.com:8080/antonio/123456/87737
+#EXTINF:-1 tvg-id="M.COMEDIA" tvg-name=" MOVISTAR COMEDIA" tvg-logo="https://static.epg.best/es/MovistarComedia.es.png" group-title="ES| CINE + SERIES SD", MOVISTAR COMEDIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/87738
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name=" MOVISTAR DRAMA" tvg-logo="https://static.epg.best/es/MovistarDrama.es.png" group-title="ES| CINE + SERIES SD", MOVISTAR DRAMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/87739
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name=" MOVISTAR SERIES" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="ES| CINE + SERIES SD", MOVISTAR SERIES
+http://stalkertvlatinopanel.com:8080/antonio/123456/87740
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name=" MOVISTAR SERIES 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="ES| CINE + SERIES SD", MOVISTAR SERIES 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/87741
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name=" CRIMEN+INVESTIGACION" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png" group-title="ES| CINE + SERIES SD", CRIMEN+INVESTIGACION
+http://stalkertvlatinopanel.com:8080/antonio/123456/87749
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name=" SUNDANCE TV" tvg-logo="https://static.epg.best/es/SundanceTV.es.png" group-title="ES| CINE + SERIES SD", SUNDANCE TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/87751
+#EXTINF:-1 tvg-id="syfy.es" tvg-name=" SYFY" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="ES| CINE + SERIES SD", SYFY
+http://stalkertvlatinopanel.com:8080/antonio/123456/87752
+#EXTINF:-1 tvg-id="TCM HD" tvg-name=" TCM" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="ES| CINE + SERIES SD", TCM
+http://stalkertvlatinopanel.com:8080/antonio/123456/87753
+#EXTINF:-1 tvg-id="tnt.es" tvg-name=" TNT" tvg-logo="https://static.epg.best/es/TNT.es.png" group-title="ES| CINE + SERIES SD", TNT
+http://stalkertvlatinopanel.com:8080/antonio/123456/87755
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name=" MOVISTAR LA RESISTENCIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png" group-title="ES| CINE + SERIES SD", MOVISTAR LA RESISTENCIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/118305
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name=" DE CASA" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png" group-title="ES| DOCUMENTALES SD", DE CASA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66264
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name=" CANAL COCINA" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="ES| DOCUMENTALES SD", CANAL COCINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66266
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name=" DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ES| DOCUMENTALES SD", DISCOVERY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/66295
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name=" NATGEO WILD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="ES| DOCUMENTALES SD", NATGEO WILD
+http://stalkertvlatinopanel.com:8080/antonio/123456/66298
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name=" CRIMEN & INVESTIGACION" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png" group-title="ES| DOCUMENTALES SD", CRIMEN & INVESTIGACION
+http://stalkertvlatinopanel.com:8080/antonio/123456/66299
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name=" CANAL COCINA" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="ES| DOCUMENTALES SD", CANAL COCINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66347
+#EXTINF:-1 tvg-id="NAT GEO" tvg-name=" NATIONAL GEOGRAFIC" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="ES| DOCUMENTALES SD", NATIONAL GEOGRAFIC
+http://stalkertvlatinopanel.com:8080/antonio/123456/87711
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name=" ODISEA" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="ES| DOCUMENTALES SD", ODISEA
+http://stalkertvlatinopanel.com:8080/antonio/123456/87720
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name=" HISTORIA" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="ES| DOCUMENTALES SD", HISTORIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/87732
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name=" IBERALIA TV" tvg-logo="https://static.epg.best/es/IberaliaTV.es.png" group-title="ES| DOCUMENTALES SD", IBERALIA TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/87734
+#EXTINF:-1 tvg-id="TOROS" tvg-name=" TOROS" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="ES| DOCUMENTALES SD", TOROS
+http://stalkertvlatinopanel.com:8080/antonio/123456/87756
+#EXTINF:-1 tvg-id="odisea.es" tvg-name=" ODISEA" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="ES| DOCUMENTALES FHD", ODISEA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66278
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name=" CAZA & PESCA" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="ES| DOCUMENTALES FHD", CAZA & PESCA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66292
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name=" HISTORIA" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="ES| DOCUMENTALES FHD", HISTORIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66294
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name=" NAT GEO WILD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="ES| DOCUMENTALES FHD", NAT GEO WILD
+http://stalkertvlatinopanel.com:8080/antonio/123456/66296
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name=" NATIONAL GEOGRAFIC" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="ES| DOCUMENTALES FHD", NATIONAL GEOGRAFIC
+http://stalkertvlatinopanel.com:8080/antonio/123456/66297
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name=" TOROS" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="ES| DOCUMENTALES FHD", TOROS
+http://stalkertvlatinopanel.com:8080/antonio/123456/66300
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name=" DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ES| DOCUMENTALES FHD", DISCOVERY CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/87698
+#EXTINF:-1 tvg-id="odisea.es" tvg-name=" ODISEA" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="ES| DOCUMENTALES FHD", ODISEA
+http://stalkertvlatinopanel.com:8080/antonio/123456/116565
+#EXTINF:-1 tvg-id="LA 1 FHD" tvg-name=" LA 1" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ES| TDT FHD", LA 1
+http://stalkertvlatinopanel.com:8080/antonio/123456/66255
+#EXTINF:-1 tvg-id="CUATRO FHD" tvg-name=" LA CUATRO" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="ES| TDT FHD", LA CUATRO
+http://stalkertvlatinopanel.com:8080/antonio/123456/66257
+#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name=" TELECINCO" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ES| TDT FHD", TELECINCO
+http://stalkertvlatinopanel.com:8080/antonio/123456/66258
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name=" ANTENA 3" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ES| TDT FHD", ANTENA 3
+http://stalkertvlatinopanel.com:8080/antonio/123456/66260
+#EXTINF:-1 tvg-id="ANTENA 3 FHD" tvg-name=" ANTENA 3" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ES| TDT FHD", ANTENA 3
+http://stalkertvlatinopanel.com:8080/antonio/123456/66261
+#EXTINF:-1 tvg-id="NEOX FHD" tvg-name=" NEOX TV" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="ES| TDT FHD", NEOX TV
+http://stalkertvlatinopanel.com:8080/antonio/123456/66271
+#EXTINF:-1 tvg-id="mega.es" tvg-name=" MEGA" tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="ES| TDT FHD", MEGA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66274
+#EXTINF:-1 tvg-id="NOVA FHD" tvg-name=" NOVA" tvg-logo="https://static.epg.best/es/Nova.es.png" group-title="ES| TDT FHD", NOVA
+http://stalkertvlatinopanel.com:8080/antonio/123456/66277
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name=" ATRES SERIES" tvg-logo="https://static.epg.best/es/Atreseries.es.png" group-title="ES| TDT FHD", ATRES SERIES
+http://stalkertvlatinopanel.com:8080/antonio/123456/66323
+#EXTINF:-1 tvg-id="Ten" tvg-name=" TEN CHANNEL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" group-title="ES| TDT FHD", TEN CHANNEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/66348
+#EXTINF:-1 tvg-id="lasxta.es" tvg-name=" LA SEXTA" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ES| TDT FHD", LA SEXTA
+http://stalkertvlatinopanel.com:8080/antonio/123456/87701
+#EXTINF:-1 tvg-id="la2.es" tvg-name=" LA 2" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="ES| TDT FHD", LA 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/89580
+#EXTINF:-1 tvg-id="ENERGY" tvg-name=" ENERGY" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="ES| TDT FHD", ENERGY
+http://stalkertvlatinopanel.com:8080/antonio/123456/89581
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name=" FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ES| TDT FHD", FDF
+http://stalkertvlatinopanel.com:8080/antonio/123456/91093
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name=" DIVINITY" tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="ES| TDT FHD", DIVINITY
+http://stalkertvlatinopanel.com:8080/antonio/123456/91094
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name=" LA 2" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="ES| TDT SD", LA 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/66256
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name=" LA SEXTA " tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ES| TDT SD", LA SEXTA 
+http://stalkertvlatinopanel.com:8080/antonio/123456/66259
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name=" DIVINITY" tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="ES| TDT SD", DIVINITY
+http://stalkertvlatinopanel.com:8080/antonio/123456/66268
+#EXTINF:-1 tvg-id="FDF" tvg-name=" FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ES| TDT SD", FDF
+http://stalkertvlatinopanel.com:8080/antonio/123456/66269
+#EXTINF:-1 tvg-id="ENERGY" tvg-name=" ENERGY" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="ES| TDT SD", ENERGY
+http://stalkertvlatinopanel.com:8080/antonio/123456/66279
+#EXTINF:-1 tvg-id="BE MAD" tvg-name=" BE MAD" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="ES| TDT SD", BE MAD
+http://stalkertvlatinopanel.com:8080/antonio/123456/66280
+#EXTINF:-1 tvg-id="discoverymax.es" tvg-name=" DMAX" tvg-logo="https://static.epg.best/es/Dmax.es.png" group-title="ES| TDT SD", DMAX
+http://stalkertvlatinopanel.com:8080/antonio/123456/66291
+#EXTINF:-1 tvg-id="antena3.es" tvg-name=" ANTENA 3" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ES| TDT SD", ANTENA 3
+http://stalkertvlatinopanel.com:8080/antonio/123456/87716
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name=" CUATRO" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="ES| TDT SD", CUATRO
+http://stalkertvlatinopanel.com:8080/antonio/123456/87723
+#EXTINF:-1 tvg-id="DKISS" tvg-name=" DKISS" tvg-logo="https://static.epg.best/es/DKISS.es.png" group-title="ES| TDT SD", DKISS
+http://stalkertvlatinopanel.com:8080/antonio/123456/87727
+#EXTINF:-1 tvg-id="la1.es" tvg-name=" LA 1" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ES| TDT SD", LA 1
+http://stalkertvlatinopanel.com:8080/antonio/123456/87735
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name=" TELECINCO" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ES| TDT SD", TELECINCO
+http://stalkertvlatinopanel.com:8080/antonio/123456/87754
+#EXTINF:-1 tvg-id="" tvg-name=" MOVISTAR ALQUILER 1" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", MOVISTAR ALQUILER 1
+http://stalkertvlatinopanel.com:8080/antonio/123456/109187
+#EXTINF:-1 tvg-id="" tvg-name=" MOVISTAR ALQUILER 2" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", MOVISTAR ALQUILER 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/109188
+#EXTINF:-1 tvg-id="" tvg-name=" MOVISTAR ALQUILER 3" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", MOVISTAR ALQUILER 3
+http://stalkertvlatinopanel.com:8080/antonio/123456/109189
+#EXTINF:-1 tvg-id="" tvg-name=" MOVISTAR ALQUILER 4" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", MOVISTAR ALQUILER 4
+http://stalkertvlatinopanel.com:8080/antonio/123456/109190
+#EXTINF:-1 tvg-id="" tvg-name=" MOVISTAR ALQUILER 5" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", MOVISTAR ALQUILER 5
+http://stalkertvlatinopanel.com:8080/antonio/123456/109191
+#EXTINF:-1 tvg-id="" tvg-name=" MOVISTAR ALQUILER 6" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", MOVISTAR ALQUILER 6
+http://stalkertvlatinopanel.com:8080/antonio/123456/109192
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 1" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", TAQUILLA 1
+http://stalkertvlatinopanel.com:8080/antonio/123456/109205
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 2 INFANTILES O ANIMACION" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", TAQUILLA 2 INFANTILES O ANIMACION
+http://stalkertvlatinopanel.com:8080/antonio/123456/109206
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 3 CIENCIA FICCION" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", TAQUILLA 3 CIENCIA FICCION
+http://stalkertvlatinopanel.com:8080/antonio/123456/109207
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 4 CRIMEN" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", TAQUILLA 4 CRIMEN
+http://stalkertvlatinopanel.com:8080/antonio/123456/109208
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 5 TERROR" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", TAQUILLA 5 TERROR
+http://stalkertvlatinopanel.com:8080/antonio/123456/109209
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 6 DRAMA" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", TAQUILLA 6 DRAMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/109210
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 7 COMEDIA" tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" group-title="ES| M. ALQUILER & TAQUILLA FHD", TAQUILLA 7 COMEDIA
+http://stalkertvlatinopanel.com:8080/antonio/123456/109211
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | THE WALKING DEAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Walking_Dead_Season_3_Official_Poster.jpg/220px-Walking_Dead_Season_3_Official_Poster.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | THE WALKING DEAD
+http://stalkertvlatinopanel.com:8080/antonio/123456/87517
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | ORDEN SECRETA" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/263818/263818_173x242.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | ORDEN SECRETA
+http://stalkertvlatinopanel.com:8080/antonio/123456/100839
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | OUTCAST" tvg-logo="https://moviehaku.com/thumbs/films/400x590/Outcast-2016.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | OUTCAST
+http://stalkertvlatinopanel.com:8080/antonio/123456/100840
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | PARASYTE THE MAXIM" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/2a/Parasyte_-the_maxim-.jpg/revision/latest/top-crop/width/360/height/450?cb=20160928145920&path-prefix=es" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | PARASYTE THE MAXIM
+http://stalkertvlatinopanel.com:8080/antonio/123456/100841
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | PENNY DREADFULL" tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/24/11/43/4884372.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | PENNY DREADFULL
+http://stalkertvlatinopanel.com:8080/antonio/123456/100842
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | SLASHER" tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/23/15/43/145751.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | SLASHER
+http://stalkertvlatinopanel.com:8080/antonio/123456/100843
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | STRANGER THINGS" tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/04/16/39/4888520.jpg?coixp=51&coiyp=36" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | STRANGER THINGS
+http://stalkertvlatinopanel.com:8080/antonio/123456/100844
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | THE VAMPIRE DIARIES" tvg-logo="https://1.bp.blogspot.com/--LX0OO3Sl6Y/X6cuH7uLEMI/AAAAAAAABsU/R0M2vcCmdIEa3EUU4yWounsuAyKLXpUFgCLcBGAsYHQ/s16000/05x17.%2BEl%2BAmuleto%2Bde%2Bla%2BSuerte.avi_thumbs_%255B2020.11.07_06.07.13%255D.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | THE VAMPIRE DIARIES
+http://stalkertvlatinopanel.com:8080/antonio/123456/100845
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | !ZOMBIES TEMPORADA 1 2" tvg-logo="https://pics.filmaffinity.com/iZombie_Serie_de_TV-400542199-mmed.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | !ZOMBIES TEMPORADA 1 2
+http://stalkertvlatinopanel.com:8080/antonio/123456/100846
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | HAUNTED" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/04/al-borde-de-la-realidad-latinoamerica-poster.jpeg?fit=426%2C597&ssl=1" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | HAUNTED
+http://stalkertvlatinopanel.com:8080/antonio/123456/100847
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | FROM DUSK TILL DAWN THE SERIES" tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/13/09/31/063864.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | FROM DUSK TILL DAWN THE SERIES
+http://stalkertvlatinopanel.com:8080/antonio/123456/100848
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | FEAR THE WALKING DEAD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZkYTRjMWQtZThiOS00MjJlLWFkNDktNzNhODNhOWNlNjdjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | FEAR THE WALKING DEAD
+http://stalkertvlatinopanel.com:8080/antonio/123456/100849
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | ESCALOFRIOS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmViMGI3NDYtYzIzNi00OTVlLWI1YjMtNDJiNmVmMzE3NjUxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR93,0,630,1200_AL_.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | ESCALOFRIOS
+http://stalkertvlatinopanel.com:8080/antonio/123456/100850
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | EL MUNDO OCULTO DE SABRINA" tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/22/02/56/2323749.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | EL MUNDO OCULTO DE SABRINA
+http://stalkertvlatinopanel.com:8080/antonio/123456/100851
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | EL EXORCISTA" tvg-logo="https://www.ecartelera.com/carteles-series/100/191/002_p.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | EL EXORCISTA
+http://stalkertvlatinopanel.com:8080/antonio/123456/100852
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | CATLE ROCK" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/12/cartel-castle-rock-2.jpeg?itok=sVEIdVYt" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | CATLE ROCK
+http://stalkertvlatinopanel.com:8080/antonio/123456/100853
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | ASH VS EVIL DEAD" tvg-logo="https://menudocaramelito.files.wordpress.com/2017/01/ash-vs-evil-dead-season-2-poster1-1.jpg?w=900" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | ASH VS EVIL DEAD
+http://stalkertvlatinopanel.com:8080/antonio/123456/100854
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR (Dual Audio) | AMERICAN HORROR STORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Ecran_Titre_d%27American_Horror_Story.png" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | AMERICAN HORROR STORY
+http://stalkertvlatinopanel.com:8080/antonio/123456/100855
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES ACCION (Dual Audio) | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/250px-Marvel_Logo.svg.png" group-title="24/7 SERIES ACCION (Dual Audio)",24/7 SERIES ACCION (Dual Audio) | MARVEL
+http://stalkertvlatinopanel.com:8080/antonio/123456/87513
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES ACCION (Dual Audio) | BREAKING BAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png" group-title="24/7 SERIES ACCION (Dual Audio)",24/7 SERIES ACCION (Dual Audio) | BREAKING BAD
+http://stalkertvlatinopanel.com:8080/antonio/123456/87520
+#EXTINF:-1 tvg-id="" tvg-name="PPV 01: ESPN KNOCK OUT SAM VS PRZEMYSLAW 14:00 PM NY & UFC: ARMAN TSARUKYAN VS MATEUSZ GAMROT 19:00PM NY" tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="PPV UFC BOXING (SOLO EVENTOS)",PPV 01: ESPN KNOCK OUT SAM VS PRZEMYSLAW 14:00 PM NY & UFC: ARMAN TSARUKYAN VS MATEUSZ GAMROT 19:00PM NY
+http://stalkertvlatinopanel.com:8080/antonio/123456/96451
+#EXTINF:-1 tvg-id="" tvg-name="PPV 02: ESPN KNOCK OUT SAM VS PRZEMYSLAW 14:00 PM NY & UFC: ARMAN TSARUKYAN VS MATEUSZ GAMROT 19:00PM NY" tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="PPV UFC BOXING (SOLO EVENTOS)",PPV 02: ESPN KNOCK OUT SAM VS PRZEMYSLAW 14:00 PM NY & UFC: ARMAN TSARUKYAN VS MATEUSZ GAMROT 19:00PM NY
+http://stalkertvlatinopanel.com:8080/antonio/123456/96452
+#EXTINF:-1 tvg-id="" tvg-name="PPV 03: ESPN KNOCK OUT ELWIN SOTO VS HEKKIE BUDLER 20:00 PM NY" tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="PPV UFC BOXING (SOLO EVENTOS)",PPV 03: ESPN KNOCK OUT ELWIN SOTO VS HEKKIE BUDLER 20:00 PM NY
+http://stalkertvlatinopanel.com:8080/antonio/123456/96453
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS STAR+ FHD" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="EVENTOS STAR+ (SOLO EVENTOS)",EVENTOS STAR+ FHD
+http://stalkertvlatinopanel.com:8080/antonio/123456/116553
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS STAR+ HD" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="EVENTOS STAR+ (SOLO EVENTOS)",EVENTOS STAR+ HD
+http://stalkertvlatinopanel.com:8080/antonio/123456/116554
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS STAR+ SD" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="EVENTOS STAR+ (SOLO EVENTOS)",EVENTOS STAR+ SD
+http://stalkertvlatinopanel.com:8080/antonio/123456/116555
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS STAR+ 1 FHD" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="EVENTOS STAR+ (SOLO EVENTOS)",EVENTOS STAR+ 1 FHD
+http://stalkertvlatinopanel.com:8080/antonio/123456/119442
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS STAR+ 1 HD" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="EVENTOS STAR+ (SOLO EVENTOS)",EVENTOS STAR+ 1 HD
+http://stalkertvlatinopanel.com:8080/antonio/123456/119443
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS STAR+ 2 FHD" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="EVENTOS STAR+ (SOLO EVENTOS)",EVENTOS STAR+ 2 FHD
+http://stalkertvlatinopanel.com:8080/antonio/123456/119444
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS STAR+ 2 HD" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="EVENTOS STAR+ (SOLO EVENTOS)",EVENTOS STAR+ 2 HD
+http://stalkertvlatinopanel.com:8080/antonio/123456/119445
