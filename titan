@@ -107,11 +107,11 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/94453
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32837
 #EXTINF:-1 tvg-id="" tvg-name="El Canal del Futbol FHD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="DEPORTES EC",El Canal del Futbol FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/94454El Canal del Futbol FHD
-#EXTINF:-1 tvg-id="" tvg-name="Run:Time 1 HD" tvg-logo="" group-title="PREMIUM",Run:Time 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY Time 1 HD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/my-time-logo.png" group-title="PREMIUM",MY Time 1 HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228167
-#EXTINF:-1 tvg-id="" tvg-name="Run:Time 2 HD" tvg-logo="" group-title="PREMIUM",Run:Time 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY Time 2 HD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/my-time-logo.png" group-title="PREMIUM",MY Time 2 HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228168
-#EXTINF:-1 tvg-id="" tvg-name="Run:Time 3 HD" tvg-logo="" group-title="PREMIUM",Run:Time 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY Time 3 HD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/my-time-logo.png" group-title="PREMIUM",MY Time 3 HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228169
 #EXTINF:-1 tvg-id="" tvg-name="Sr Cine Batallas Mitologicas HD" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png" group-title="PREMIUM",Sr Cine Batallas Mitologicas HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/313525
@@ -151,7 +151,7 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127149
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/36597
 #EXTINF:-1 tvg-id="" tvg-name="Movie Center Kids Full HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx5Lg16E0rRYAs1sh08t2gxrPw_NNmQ-2FWUS0sWafhssRUg0ZphL6Vdkao_3oP3Ns9oU&usqp=CAU" group-title="PREMIUM",Movie Center Kids Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/36599
-#EXTINF:-1 tvg-id="" tvg-name="A Estrenar Full HD" tvg-logo="" group-title="PREMIUM",A Estrenar Full HD
+#EXTINF:-1 tvg-id="" tvg-name="A Estrenar Full HD" tvg-logo="https://e7.pngegg.com/pngimages/252/720/png-clipart-high-definition-video-high-definition-television-logo-others-miscellaneous-television.png" group-title="PREMIUM",A Estrenar Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/36596
 #EXTINF:-1 tvg-id="" tvg-name="AMC " tvg-logo="" group-title="PREMIUM",AMC 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/64722
@@ -159,11 +159,11 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/64722
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1815
 #EXTINF:-1 tvg-id="" tvg-name="AMC " tvg-logo="" group-title="PREMIUM",AMC 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32180
-#EXTINF:-1 tvg-id="" tvg-name="AMC Full" tvg-logo="" group-title="PREMIUM",AMC Full
+#EXTINF:-1 tvg-id="" tvg-name="AMC Full" tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png" group-title="PREMIUM",AMC Full
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1835
 #EXTINF:-1 tvg-id="" tvg-name="AMC " tvg-logo="" group-title="PREMIUM",AMC 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24090
-#EXTINF:-1 tvg-id="" tvg-name="AMC Full HD (MX)" tvg-logo="" group-title="PREMIUM",AMC Full HD (MX)
+#EXTINF:-1 tvg-id="" tvg-name="AMC Full HD (MX)" tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png" group-title="PREMIUM",AMC Full HD (MX)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24091
 #EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="" group-title="PREMIUM",A&E 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/64720
@@ -171,25 +171,25 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/64720
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1813
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD " tvg-logo="" group-title="PREMIUM",A&E HD 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32179
-#EXTINF:-1 tvg-id="" tvg-name="A&E Full" tvg-logo="" group-title="PREMIUM",A&E Full
+#EXTINF:-1 tvg-id="" tvg-name="A&E Full" tvg-logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-??iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="PREMIUM",A&E Full
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1834
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="PREMIUM",A&E
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24094
-#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="" group-title="PREMIUM",A&E Full HD
+#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-??iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="PREMIUM",A&E Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24095
-#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="" group-title="PREMIUM",A&E Full HD
+#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-??iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="PREMIUM",A&E Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26384
-#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="" group-title="PREMIUM",AXN 
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="PREMIUM",AXN 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1814
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD " tvg-logo="" group-title="PREMIUM",AXN HD 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32181
-#EXTINF:-1 tvg-id="" tvg-name="AXN Full HD" tvg-logo="" group-title="PREMIUM",AXN Full HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="PREMIUM",AXN Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1836
-#EXTINF:-1 tvg-id="" tvg-name="AXN (MX)" tvg-logo="" group-title="PREMIUM",AXN (MX)
+#EXTINF:-1 tvg-id="" tvg-name="AXN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="PREMIUM",AXN (MX)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24092
-#EXTINF:-1 tvg-id="" tvg-name="AXN Full HD " tvg-logo="" group-title="PREMIUM",AXN Full HD 
+#EXTINF:-1 tvg-id="" tvg-name="AXN Full HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="PREMIUM",AXN Full HD 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24093
-#EXTINF:-1 tvg-id="" tvg-name="AXN Full HD " tvg-logo="" group-title="PREMIUM",AXN Full HD 
+#EXTINF:-1 tvg-id="" tvg-name="AXN Full HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="PREMIUM",AXN Full HD 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26386
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Cinecanal_1995.png" group-title="PREMIUM",Cinecanal 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1816
@@ -211,7 +211,7 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1818
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/4615
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax " tvg-logo="" group-title="PREMIUM",Cinemax 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1037
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax Full HD " tvg-logo="" group-title="PREMIUM",Cinemax Full HD 
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Full HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="PREMIUM",Cinemax Full HD 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/15128
 #EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Cine_Latino_2017.png/revision/latest?cb=20191223214422&path-prefix=es" group-title="PREMIUM",Cine Latino
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1817
@@ -273,13 +273,13 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24128
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65730
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="PREMIUM",HBO
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1799
-#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="" group-title="PREMIUM",HBO FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://www.logolynx.com/images/logolynx/d6/d6ba7a1c889694791c63ca8e51f06351.jpeg" group-title="PREMIUM",HBO FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/9753
-#EXTINF:-1 tvg-id="" tvg-name="HBO Full HD" tvg-logo="" group-title="PREMIUM",HBO Full HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Full HD" tvg-logo="https://www.logolynx.com/images/logolynx/d6/d6ba7a1c889694791c63ca8e51f06351.jpeg" group-title="PREMIUM",HBO Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1856
-#EXTINF:-1 tvg-id="" tvg-name="HBO Subtitulado" tvg-logo="" group-title="PREMIUM",HBO Subtitulado
+#EXTINF:-1 tvg-id="" tvg-name="HBO Subtitulado" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="PREMIUM",HBO Subtitulado
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1804
-#EXTINF:-1 tvg-id="" tvg-name="HBO Subtitulado Full HD" tvg-logo="" group-title="PREMIUM",HBO Subtitulado Full HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Subtitulado Full HD" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="PREMIUM",HBO Subtitulado Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1853
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 " tvg-logo="" group-title="PREMIUM",HBO 2 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65735
@@ -303,7 +303,7 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65732
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1802
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="https://www.montecable.com/img/senales/202-hboplus-hd.png" group-title="PREMIUM",HBO Plus HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/9754
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus Full HD" tvg-logo="https://www.montecable.com/img/senales/202-hboplus-hd.png" group-title="PREMIUM",HBO Plus Full HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus Full HD" tvg-logo="https://www.logolynx.com/images/logolynx/d6/d6ba7a1c889694791c63ca8e51f06351.jpeg" group-title="PREMIUM",HBO Plus Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1855
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus Full HD (ARG)(Dual Audio)" tvg-logo="https://www.montecable.com/img/senales/202-hboplus-hd.png" group-title="PREMIUM",HBO Plus Full HD (ARG)(Dual Audio)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26400
@@ -333,13 +333,13 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24135
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26936
 #EXTINF:-1 tvg-id="" tvg-name="Panico HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzinhdRVOMP_Jj2Yxkdz4iJLAbz-EpVThLmxWJvzF9eEh9YNEguDs6X4eHu_MlZ_QqaUo&usqp=CAU" group-title="PREMIUM",Panico HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/34573
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest?cb=20200115012544&path-prefix=es" group-title="PREMIUM",Paramount Channel 
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyMaCzI3jE0_kcfjQ1uQKuX2nyuxPexTCxQqXjNNFDTifvH05dPkoozVtbzmgzS0NH8U&usqp=CAU" group-title="PREMIUM",Paramount Channel 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1806
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest?cb=20200115012544&path-prefix=es" group-title="PREMIUM",Paramount Channel FHD 
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyMaCzI3jE0_kcfjQ1uQKuX2nyuxPexTCxQqXjNNFDTifvH05dPkoozVtbzmgzS0NH8U&usqp=CAU" group-title="PREMIUM",Paramount Channel FHD 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1852
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest?cb=20200115012544&path-prefix=es" group-title="PREMIUM",Paramount Channel 
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyMaCzI3jE0_kcfjQ1uQKuX2nyuxPexTCxQqXjNNFDTifvH05dPkoozVtbzmgzS0NH8U&usqp=CAU" group-title="PREMIUM",Paramount Channel 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24129
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest?cb=20200115012544&path-prefix=es" group-title="PREMIUM",Paramount Channel FHD 
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyMaCzI3jE0_kcfjQ1uQKuX2nyuxPexTCxQqXjNNFDTifvH05dPkoozVtbzmgzS0NH8U&usqp=CAU" group-title="PREMIUM",Paramount Channel FHD 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24130
 #EXTINF:-1 tvg-id="" tvg-name="TCM " tvg-logo="https://brandemia.org/sites/default/files/inline/images/tcm_logo_portada.jpg" group-title="PREMIUM",TCM 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65806
@@ -349,7 +349,7 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1832
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65810
 #EXTINF:-1 tvg-id="" tvg-name="TNT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="PREMIUM",TNT 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1810
-#EXTINF:-1 tvg-id="" tvg-name="TNT Full HD " tvg-logo="" group-title="PREMIUM",TNT Full HD 
+#EXTINF:-1 tvg-id="" tvg-name="TNT Full HD " tvg-logo="https://w7.pngwing.com/pngs/743/1007/png-transparent-tnt-logo-television-channel-turner-broadcasting-system-design-television-text-logo.png" group-title="PREMIUM",TNT Full HD 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1864
 #EXTINF:-1 tvg-id="" tvg-name="TNT  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="PREMIUM",TNT  
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24131
@@ -437,11 +437,11 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/313690
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/239633
 #EXTINF:-1 tvg-id="" tvg-name="Universal Crime HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX78ARZR_5UZs9ivOeN_363DkhlZddKeVYVW9rABnWk4mBRgfpJGpJ287jNRJgDODfQuM&usqp=CAU" group-title="PREMIUM",Universal Crime HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/313691
-#EXTINF:-1 tvg-id="" tvg-name="Universal Reality SD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/575.png" group-title="PREMIUM",Universal Reality SD
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality SD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png" group-title="PREMIUM",Universal Reality SD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/313687
-#EXTINF:-1 tvg-id="" tvg-name="Universal Reality HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/575.png" group-title="PREMIUM",Universal Reality HD
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png" group-title="PREMIUM",Universal Reality HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/239634
-#EXTINF:-1 tvg-id="" tvg-name="Universal Reality HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/575.png" group-title="PREMIUM",Universal Reality HD
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png" group-title="PREMIUM",Universal Reality HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/313689
 #EXTINF:-1 tvg-id="" tvg-name="Universal Premier SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReiHRJm7NqS7UtOlts23YLASxg0DWkzMVYjg2SI1DqSv3n9o4xXahOGARA5HU_C8ObYNQ&usqp=CAU" group-title="PREMIUM",Universal Premier SD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/313683
@@ -463,7 +463,7 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24635
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24634
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel Full HD" tvg-logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="PREMIUM",Warner Channel Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26385
-#EXTINF:-1 tvg-id="" tvg-name="Starz Family Full HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Starz_Kids_%26_Family_2005.svg/revision/latest?cb=20151217010446" group-title="PREMIUM",Starz Family Full HD
+#EXTINF:-1 tvg-id="" tvg-name="Starz Family Full HD" tvg-logo="https://www.nicepng.com/png/detail/0-1838_starz-kids-family-starz-on-demand-logo.png" group-title="PREMIUM",Starz Family Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7064
 #EXTINF:-1 tvg-id="" tvg-name="Starz Encore Western Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/1200px-Starz_Encore_Westerns.svg.png" group-title="PREMIUM",Starz Encore Western Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7065
