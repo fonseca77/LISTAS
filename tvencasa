@@ -1,111 +1,109 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Canela Tv" tvg-logo="" group-title="ECUADOR",Canela Tv
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas (MOVIL)" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="ECUADOR",Teleamazonas (MOVIL)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65781
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas HD (Quito)" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="ECUADOR",Teleamazonas HD (Quito)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/361
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas Full HD (Quito)" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="ECUADOR",Teleamazonas Full HD (Quito)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/362
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas SD (Guayaquil)" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="ECUADOR",Teleamazonas SD (Guayaquil)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24643
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas HD (Guayaquil)" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="ECUADOR",Teleamazonas HD (Guayaquil)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24644
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas FHD (Guayaquil)" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="ECUADOR",Teleamazonas FHD (Guayaquil)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24645
+#EXTINF:-1 tvg-id="" tvg-name="Canela Tv" tvg-logo="https://lh4.ggpht.com/EpSp43Svr73jiJGmCLUv68Dommh4A-_OcpUMEraqYkUSlVRvSBbgSYuIvUfjontxsHE" group-title="ECUADOR",Canela Tv
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/348
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV (MOVIL)" tvg-logo="" group-title="ECUADOR",Ecuador TV (MOVIL)
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV (MOVIL)" tvg-logo="https://seeklogo.com/images/E/ecuador-tv-vertical-logo-9EE32246E7-seeklogo.com.png" group-title="ECUADOR",Ecuador TV (MOVIL)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65097
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV" tvg-logo="" group-title="ECUADOR",Ecuador TV
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV" tvg-logo="https://seeklogo.com/images/E/ecuador-tv-vertical-logo-9EE32246E7-seeklogo.com.png" group-title="ECUADOR",Ecuador TV
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/350
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV HD" tvg-logo="" group-title="ECUADOR",Ecuador TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV HD" tvg-logo="https://seeklogo.com/images/E/ecuador-tv-vertical-logo-9EE32246E7-seeklogo.com.png" group-title="ECUADOR",Ecuador TV HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/349
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV Full HD" tvg-logo="" group-title="ECUADOR",Ecuador TV Full HD
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV Full HD" tvg-logo="https://seeklogo.com/images/E/ecuador-tv-vertical-logo-9EE32246E7-seeklogo.com.png" group-title="ECUADOR",Ecuador TV Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24146
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa (MOVIL)" tvg-logo="" group-title="ECUADOR",Ecuavisa (MOVIL)
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",Ecuavisa (MOVIL)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65098
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa" tvg-logo="" group-title="ECUADOR",Ecuavisa
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",Ecuavisa
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/353
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa HD" tvg-logo="" group-title="ECUADOR",Ecuavisa HD
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",Ecuavisa HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24652
 #EXTINF:-1 tvg-id="" tvg-name="Ecuavisa Quito HD" tvg-logo="" group-title="ECUADOR",Ecuavisa Quito HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/352
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa Quito Full HD" tvg-logo="" group-title="ECUADOR",Ecuavisa Quito Full HD
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa Quito Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",Ecuavisa Quito Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/351
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa Internacional" tvg-logo="" group-title="ECUADOR",Ecuavisa Internacional
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",Ecuavisa Internacional
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/316756
-#EXTINF:-1 tvg-id="" tvg-name="Gama (MOVIL)" tvg-logo="" group-title="ECUADOR",Gama (MOVIL)
+#EXTINF:-1 tvg-id="" tvg-name="Gama (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Gama_tv.png" group-title="ECUADOR",Gama (MOVIL)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65726
-#EXTINF:-1 tvg-id="" tvg-name="Gama HD" tvg-logo="" group-title="ECUADOR",Gama HD
+#EXTINF:-1 tvg-id="" tvg-name="Gama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Gama_tv.png" group-title="ECUADOR",Gama HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/354
-#EXTINF:-1 tvg-id="" tvg-name="Gama" tvg-logo="" group-title="ECUADOR",Gama
+#EXTINF:-1 tvg-id="" tvg-name="Gama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Gama_tv.png" group-title="ECUADOR",Gama
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/15242
-#EXTINF:-1 tvg-id="" tvg-name="Gama Full HD" tvg-logo="" group-title="ECUADOR",Gama Full HD
+#EXTINF:-1 tvg-id="" tvg-name="Gama Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Gama_tv.png" group-title="ECUADOR",Gama Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24147
-#EXTINF:-1 tvg-id="" tvg-name="Oromar (MOVIL)" tvg-logo="" group-title="ECUADOR",Oromar (MOVIL)
+#EXTINF:-1 tvg-id="" tvg-name="Oromar (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",Oromar (MOVIL)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65778
-#EXTINF:-1 tvg-id="" tvg-name="Oromar SD" tvg-logo="" group-title="ECUADOR",Oromar SD
+#EXTINF:-1 tvg-id="" tvg-name="Oromar SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",Oromar SD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/15241
-#EXTINF:-1 tvg-id="" tvg-name="Oromar HD" tvg-logo="" group-title="ECUADOR",Oromar HD
+#EXTINF:-1 tvg-id="" tvg-name="Oromar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",Oromar HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115733
-#EXTINF:-1 tvg-id="" tvg-name="Tc Television (MOVIL)" tvg-logo="" group-title="ECUADOR",Tc Television (MOVIL)
+#EXTINF:-1 tvg-id="" tvg-name="Tc Television (MOVIL)" tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR",Tc Television (MOVIL)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65777
-#EXTINF:-1 tvg-id="" tvg-name="Tc Television" tvg-logo="" group-title="ECUADOR",Tc Television
+#EXTINF:-1 tvg-id="" tvg-name="Tc Television" tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR",Tc Television
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/359
-#EXTINF:-1 tvg-id="" tvg-name="Tc Television HD" tvg-logo="" group-title="ECUADOR",Tc Television HD
+#EXTINF:-1 tvg-id="" tvg-name="Tc Television HD" tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR",Tc Television HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24149
-#EXTINF:-1 tvg-id="" tvg-name="Tc Television Full HD" tvg-logo="" group-title="ECUADOR",Tc Television Full HD
+#EXTINF:-1 tvg-id="" tvg-name="Tc Television Full HD" tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR",Tc Television Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/360
-#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas (MOVIL)" tvg-logo="" group-title="ECUADOR",Teleamazonas (MOVIL)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65781
-#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas HD (Quito)" tvg-logo="" group-title="ECUADOR",Teleamazonas HD (Quito)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/361
-#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas Full HD (Quito)" tvg-logo="" group-title="ECUADOR",Teleamazonas Full HD (Quito)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/362
-#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas SD (Guayaquil)" tvg-logo="" group-title="ECUADOR",Teleamazonas SD (Guayaquil)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24643
-#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas HD (Guayaquil)" tvg-logo="" group-title="ECUADOR",Teleamazonas HD (Guayaquil)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24644
-#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas FHD (Guayaquil)" tvg-logo="" group-title="ECUADOR",
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24645
-#EXTINF:-1 tvg-id="" tvg-name="Tvc (MOVIL)" tvg-logo="" group-title="ECUADOR",Tvc (MOVIL)
+#EXTINF:-1 tvg-id="" tvg-name="Tvc (MOVIL)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1db0c4f5a350af9269a34b28e60f4969.webp" group-title="ECUADOR",Tvc (MOVIL)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65782
-#EXTINF:-1 tvg-id="" tvg-name="Tvc" tvg-logo="" group-title="ECUADOR",Tvc
+#EXTINF:-1 tvg-id="" tvg-name="Tvc" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1db0c4f5a350af9269a34b28e60f4969.webp" group-title="ECUADOR",Tvc
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24648
-#EXTINF:-1 tvg-id="" tvg-name="Tvc HD" tvg-logo="" group-title="ECUADOR",Tvc HD
+#EXTINF:-1 tvg-id="" tvg-name="Tvc HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1db0c4f5a350af9269a34b28e60f4969.webp" group-title="ECUADOR",Tvc HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24647
-#EXTINF:-1 tvg-id="" tvg-name="Tvc FHD" tvg-logo="" group-title="ECUADOR",Tvc FHD
+#EXTINF:-1 tvg-id="" tvg-name="Tvc FHD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1db0c4f5a350af9269a34b28e60f4969.webp" group-title="ECUADOR",Tvc FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24646
-#EXTINF:-1 tvg-id="" tvg-name="Televicentro" tvg-logo="" group-title="ECUADOR",Televicentro
+#EXTINF:-1 tvg-id="" tvg-name="Televicentro" tvg-logo="https://i.pinimg.com/originals/39/b7/b8/39b7b86cb4fdee1cddc65d430dd6a1e5.png" group-title="ECUADOR",Televicentro
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/363
-#EXTINF:-1 tvg-id="" tvg-name="Multicanal" tvg-logo="" group-title="ECUADOR",Multicanal
+#EXTINF:-1 tvg-id="" tvg-name="Multicanal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnAlz41U0fFIq-Uh1qctLVh6O2rZwrDpxI7yeAFO95BZjUoMztb4QgWEr-boAcNFNBUo&usqp=CAU" group-title="ECUADOR",Multicanal
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24640
-#EXTINF:-1 tvg-id="" tvg-name="Rts (MOVIL)" tvg-logo="" group-title="ECUADOR",Rts (MOVIL)
+#EXTINF:-1 tvg-id="" tvg-name="Rts (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",Rts (MOVIL)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65779
-#EXTINF:-1 tvg-id="" tvg-name="Rts HD" tvg-logo="" group-title="ECUADOR",Rts HD
+#EXTINF:-1 tvg-id="" tvg-name="Rts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",Rts HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/357
-#EXTINF:-1 tvg-id="" tvg-name="Rts Full HD" tvg-logo="" group-title="ECUADOR",Rts Full HD
+#EXTINF:-1 tvg-id="" tvg-name="Rts Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",Rts Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/358
-#EXTINF:-1 tvg-id="" tvg-name="Rtu (MOVIL)" tvg-logo="" group-title="ECUADOR",Rtu (MOVIL)
+#EXTINF:-1 tvg-id="" tvg-name="Rtu (MOVIL)" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/97/0b/05/970b05b6-944b-fc89-58e8-8a5969223349/source/512x512bb.jpg" group-title="ECUADOR",Rtu (MOVIL)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65780
-#EXTINF:-1 tvg-id="" tvg-name="Rtu" tvg-logo="" group-title="ECUADOR",Rtu
+#EXTINF:-1 tvg-id="" tvg-name="Rtu" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/97/0b/05/970b05b6-944b-fc89-58e8-8a5969223349/source/512x512bb.jpg" group-title="ECUADOR",Rtu
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24642
-#EXTINF:-1 tvg-id="" tvg-name="Ecotel TV" tvg-logo="" group-title="ECUADOR",Ecotel TV
+#EXTINF:-1 tvg-id="" tvg-name="Ecotel TV" tvg-logo="https://image.roku.com/developer_channels/prod/2c0c3a77e41135193f0d7790ba36711e44b7bf7574ab651ac3e61c2589de014a.png" group-title="ECUADOR",Ecotel TV
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/308124
-#EXTINF:-1 tvg-id="" tvg-name="HECHOS ECUADOR" tvg-logo="" group-title="ECUADOR",HECHOS ECUADOR
+#EXTINF:-1 tvg-id="" tvg-name="HECHOS ECUADOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJF9ozJzo7aZRC2nklMaExocjjni43f_Xyj524zNgW3WjkC7qjIbLzf3j8-vxOrFjNLA&usqp=CAU" group-title="ECUADOR",HECHOS ECUADOR
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/308125
-#EXTINF:-1 tvg-id="" tvg-name="Telerama " tvg-logo="" group-title="ECUADOR",Telerama 
+#EXTINF:-1 tvg-id="" tvg-name="Telerama " tvg-logo="https://seeklogo.com/images/T/Telerama-logo-A6DC04940C-seeklogo.com.gif" group-title="ECUADOR",Telerama 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/308126
-#EXTINF:-1 tvg-id="" tvg-name="SonoOnda TV" tvg-logo="" group-title="ECUADOR",SonoOnda TV
+#EXTINF:-1 tvg-id="" tvg-name="SonoOnda TV" tvg-logo="https://i.pinimg.com/236x/2f/14/b5/2f14b5cf4d8a125fd84b04a3561cee2d.jpg" group-title="ECUADOR",SonoOnda TV
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/308127
-#EXTINF:-1 tvg-id="" tvg-name="Zaracay TV" tvg-logo="" group-title="ECUADOR",Zaracay TV
+#EXTINF:-1 tvg-id="" tvg-name="Zaracay TV" tvg-logo="https://image.roku.com/developer_channels/prod/dba9268371f13e2e9f08e6dbf96d01a01edaf5d096949bd00c8cefc22151bc89.png" group-title="ECUADOR",Zaracay TV
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/371106
-#EXTINF:-1 tvg-id="" tvg-name="Puruwa Tv" tvg-logo="" group-title="ECUADOR",Puruwa Tv
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/371144
-
-#EXTINF:-1 tvg-id="" tvg-name="Directv Ecuador" tvg-logo="" group-title="DEPORTES EC",Directv Ecuador
+#EXTINF:-1 tvg-id="" tvg-name="Directv Ecuador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS98kqsnAqDKn7HSuIx9M5Yr8TnUe5zseXnusJIGuTeNPaGsRCNY0lLXH5hHRj34iM85q0&usqp=CAU" group-title="DEPORTES EC",Directv Ecuador
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26941
-#EXTINF:-1 tvg-id="" tvg-name="Directv Ecuador FHD" tvg-logo="" group-title="DEPORTES EC",Directv Ecuador FHD
+#EXTINF:-1 tvg-id="" tvg-name="Directv Ecuador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS98kqsnAqDKn7HSuIx9M5Yr8TnUe5zseXnusJIGuTeNPaGsRCNY0lLXH5hHRj34iM85q0&usqp=CAU" group-title="DEPORTES EC",Directv Ecuador
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26941
+#EXTINF:-1 tvg-id="" tvg-name="Directv Ecuador FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS98kqsnAqDKn7HSuIx9M5Yr8TnUe5zseXnusJIGuTeNPaGsRCNY0lLXH5hHRj34iM85q0&usqp=CAU" group-title="DEPORTES EC",Directv Ecuador FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24650
-#EXTINF:-1 tvg-id="" tvg-name=" Gol TV (MOVIL)" tvg-logo="" group-title="DEPORTES EC",Gol TV (MOVIL)
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV (MOVIL)" tvg-logo="https://pbs.twimg.com/media/DZVHp0eW4AALT3H.jpg" group-title="DEPORTES EC",Gol TV (MOVIL)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65820
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="" group-title="DEPORTES EC",Gol TV
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="https://pbs.twimg.com/media/DZVHp0eW4AALT3H.jpg" group-title="DEPORTES EC",Gol TV
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/355
-#EXTINF:-1 tvg-id="" tvg-name=" Gol TV HD" tvg-logo="" group-title="DEPORTES EC",Gol TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV HD" tvg-logo="https://pbs.twimg.com/media/DZVHp0eW4AALT3H.jpg" group-title="DEPORTES EC",Gol TV HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/15127
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV FHD" tvg-logo="" group-title="DEPORTES EC",Gol TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV FHD" tvg-logo="https://pbs.twimg.com/media/DZVHp0eW4AALT3H.jpg" group-title="DEPORTES EC",Gol TV FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115764
-#EXTINF:-1 tvg-id="" tvg-name="El Canal del Futbol SD" tvg-logo="" group-title="DEPORTES EC",El Canal del Futbol SD
+#EXTINF:-1 tvg-id="" tvg-name="El Canal del Futbol SD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="DEPORTES EC",El Canal del Futbol SD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/94453
-#EXTINF:-1 tvg-id="" tvg-name="El Canal del Futbol HD" tvg-logo="" group-title="DEPORTES EC",El Canal del Futbol HD
+#EXTINF:-1 tvg-id="" tvg-name="El Canal del Futbol HD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="DEPORTES EC",El Canal del Futbol HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32837
-#EXTINF:-1 tvg-id="" tvg-name="El Canal del Futbol FHD" tvg-logo="" group-title="DEPORTES EC",
+#EXTINF:-1 tvg-id="" tvg-name="El Canal del Futbol FHD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="DEPORTES EC",El Canal del Futbol FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/94454El Canal del Futbol FHD
-
