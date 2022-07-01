@@ -107,12 +107,8 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/94453
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32837
 #EXTINF:-1 tvg-id="" tvg-name="El Canal del Futbol FHD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="DEPORTES EC",El Canal del Futbol FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/94454El Canal del Futbol FHD
-#EXTINF:-1 tvg-id="" tvg-name="MY Time 1 HD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/my-time-logo.png" group-title="PREMIUM",MY Time 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY Time 1 HD" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="PREMIUM",MY Time 1 HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228167
-#EXTINF:-1 tvg-id="" tvg-name="MY Time 2 HD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/my-time-logo.png" group-title="PREMIUM",MY Time 2 HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228168
-#EXTINF:-1 tvg-id="" tvg-name="MY Time 3 HD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/my-time-logo.png" group-title="PREMIUM",MY Time 3 HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228169
 #EXTINF:-1 tvg-id="" tvg-name="Sr Cine Batallas Mitologicas HD" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png" group-title="PREMIUM",Sr Cine Batallas Mitologicas HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/313525
 #EXTINF:-1 tvg-id="" tvg-name="Sr Cine Extraterrestres HD" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png" group-title="PREMIUM",Sr Cine Extraterrestres HD
@@ -171,13 +167,13 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/64720
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1813
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD " tvg-logo="" group-title="PREMIUM",A&E HD 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32179
-#EXTINF:-1 tvg-id="" tvg-name="A&E Full" tvg-logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-??iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="PREMIUM",A&E Full
+#EXTINF:-1 tvg-id="" tvg-name="A&E Full" tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group-title="PREMIUM",A&E Full
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1834
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="PREMIUM",A&E
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24094
-#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-??iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="PREMIUM",A&E Full HD
+#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group-title="PREMIUM",A&E Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24095
-#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-??iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="PREMIUM",A&E Full HD
+#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group-title="PREMIUM",A&E Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26384
 #EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="PREMIUM",AXN 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1814
@@ -287,7 +283,7 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65735
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1800
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="PREMIUM",HBO 2 HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10120
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 Full HD" tvg-logo="" group-title="PREMIUM",HBO 2 Full HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 Full HD" tvg-logo="https://www.seekpng.com/png/detail/223-2235770_hbo-2-hd.png" group-title="PREMIUM",HBO 2 Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1858
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65731
@@ -407,7 +403,7 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1841
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24124
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel Full HD" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="PREMIUM",Star Channel Full HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24125
-#EXTINF:-1 tvg-id="" tvg-name="Star Comedy FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Star_Comedy_2020.svg" group-title="PREMIUM",Star Comedy FHD
+#EXTINF:-1 tvg-id="" tvg-name="Star Comedy FHD" tvg-logo="https://seeklogo.com/images/S/star-comedy-logo-2381B28051-seeklogo.com.png" group-title="PREMIUM",Star Comedy FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1847
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/10/studio-universal.jpg" group-title="PREMIUM",Studio Universal 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24121
