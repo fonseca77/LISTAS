@@ -17,7 +17,7 @@ http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114401
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114400
 #EXTINF:-1 tvg-id="" tvg-name="Canela Tv" tvg-logo="http://supportstreams.net:80/images/7e9691d7781fbc0cebbb8565c578695e.png" group-title="ECUADOR",Canela Tv
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114399
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV" tvg-logo="" group-title="ECUADOR",ECUADOR TV
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV" tvg-logo="https://seeklogo.com/images/E/ecuador-tv-vertical-logo-9EE32246E7-seeklogo.com.png" group-title="ECUADOR",ECUADOR TV
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114398
 #EXTINF:-1 tvg-id="" tvg-name="Oromar Tv" tvg-logo="http://supportstreams.net:80/images/c01e555b6ca68bee63a432eca2932905.png" group-title="ECUADOR",Oromar Tv
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114393
@@ -25,83 +25,89 @@ http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114393
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114392
 #EXTINF:-1 tvg-id="" tvg-name="Tvc Televicentro" tvg-logo="http://supportstreams.net:80/images/06dca510e40108c84e04a6869d1f9fc5.png" group-title="ECUADOR",Tvc Televicentro
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114388
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="" group-title="ECUADOR",Gol TV
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShG7J0QlxNqxXBsprQlCn0nAkJ5IQJcdRsYPYaz_MDUQWUrODC4Fksi8JcGO5xS0M30-Q&usqp=CAU" group-title="ECUADOR",Gol TV
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114394
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="PREMIUM",A&E HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114324
-#EXTINF:-1 tvg-id="" tvg-name="A3 Series HD" tvg-logo="" group-title="PREMIUM",A3 Series HD
+#EXTINF:-1 tvg-id="" tvg-name="A3 Series HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Atreseries_2015.svg/revision/latest?cb=20200629150117&path-prefix=es" group-title="PREMIUM",A3 Series HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114323
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="PREMIUM",AMC HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114320
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="PREMIUM",AXN HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114317
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="PREMIUM",Cinecanal HD
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://w7.pngwing.com/pngs/1018/63/png-transparent-cinecanal-hd-logo.png" group-title="PREMIUM",Cinecanal HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114297
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="" group-title="PREMIUM",Cinemax HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114296
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="PREMIUM",Comedy Central HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114293
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="" group-title="PREMIUM",De Pelicula
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PREMIUM",De Pelicula
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114292
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PREMIUM",De Pelicula Plus HD
+http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114291
 #EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus HD" tvg-logo="" group-title="PREMIUM",De Pelicula Plus HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114291
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="PREMIUM",Disney Channel
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114282
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="PREMIUM",Distrito Comedia
+http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114279
 #EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" group-title="PREMIUM",Distrito Comedia
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114279
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="PREMIUM",DW
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114278
-#EXTINF:-1 tvg-id="" tvg-name="Entertainment HD" tvg-logo="" group-title="PREMIUM",Entertainment HD
+#EXTINF:-1 tvg-id="" tvg-name="Entertainment " tvg-logo="https://media.elcinema.com/tvguide/1273_1.png" group-title="PREMIUM",Entertainment 
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114277
-#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="PREMIUM",Film & Arts
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="https://1.bp.blogspot.com/-nx1ZOq_o7kk/Vt9nAzYjKEI/AAAAAAAAAuY/u5VHPEYyzyo/s1600/filmarts.png" group-title="PREMIUM",Film & Arts
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114269
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="" group-title="PREMIUM",Star Channel
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114266
-#EXTINF:-1 tvg-id="" tvg-name="Star Action HD" tvg-logo="" group-title="PREMIUM",Star Action HD
+#EXTINF:-1 tvg-id="" tvg-name="Star Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Star_Action_2021.png" group-title="PREMIUM",Star Action HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114265
-#EXTINF:-1 tvg-id="" tvg-name="Star Cinema" tvg-logo="" group-title="PREMIUM",Star Cinema
+#EXTINF:-1 tvg-id="" tvg-name="Star Cinema" tvg-logo="https://telefullenvivo.com/logos/star-cinema.png" group-title="PREMIUM",Star Cinema
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114264
-#EXTINF:-1 tvg-id="" tvg-name="Star Classics" tvg-logo="" group-title="PREMIUM",Star Classics
+#EXTINF:-1 tvg-id="" tvg-name="Star Classics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png" group-title="PREMIUM",Star Classics
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114263
-#EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="" group-title="PREMIUM",Star Life HD
+#EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="PREMIUM",Star Life HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114262
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS" tvg-logo="" group-title="PREMIUM",STAR HITS
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1200px-Star_Hits_2020.svg.png" group-title="PREMIUM",STAR HITS
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114261
 #EXTINF:-1 tvg-id="" tvg-name="Fox News HD" tvg-logo="" group-title="PREMIUM",Fox News HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114260
-#EXTINF:-1 tvg-id="" tvg-name="Star Series HD" tvg-logo="" group-title="PREMIUM",Star Series HD
+#EXTINF:-1 tvg-id="" tvg-name="Star Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Star_Series_2021.png/1200px-Star_Series_2021.png" group-title="PREMIUM",Star Series HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114259
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="PREMIUM",FX HD
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="PREMIUM",FX HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114254
+#EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/320px-FX_Movies_logo.svg.png" group-title="PREMIUM",FXM HD
+http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114253
 #EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="" group-title="PREMIUM",FXM HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114253
-#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="" group-title="PREMIUM",Glitz
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="PREMIUM",Glitz
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114251
-#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="PREMIUM",Golden
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="PREMIUM",Golden
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114250
-#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="" group-title="PREMIUM",Golden Edge
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="PREMIUM",Golden Edge
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114249
-#EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD" tvg-logo="" group-title="PREMIUM",Golden Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/1200?cb=20191215194002&path-prefix=es" group-title="PREMIUM",Golden Plus 
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114248
-#EXTINF:-1 tvg-id="" tvg-name="HLN HD" tvg-logo="" group-title="PREMIUM",HLN HD
+#EXTINF:-1 tvg-id="" tvg-name="HLN HD" tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170504153446-hln-logo-card-may-2017-super-tease.jpg" group-title="PREMIUM",HLN HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114246
-#EXTINF:-1 tvg-id="" tvg-name="Isat" tvg-logo="" group-title="PREMIUM",Isat
+#EXTINF:-1 tvg-id="" tvg-name="Isat" tvg-logo="https://cdn.mitvstatic.com/channels/br_i-sat_m.png" group-title="PREMIUM",Isat
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114242
-#EXTINF:-1 tvg-id="" tvg-name="Multimedios HD" tvg-logo="" group-title="PREMIUM",Multimedios HD
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios HD" tvg-logo="https://seeklogo.com/images/M/multimedios-logo-C81A3ECA9A-seeklogo.com.png" group-title="PREMIUM",Multimedios HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114235
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-logo="" group-title="PREMIUM",Paramount Channel HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114224
 #EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD" tvg-logo="" group-title="PREMIUM",Sony Channel HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114222
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="PREMIUM",Space HD
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNhiOPauZnxnlGfCtz4CSxSk9e7tx_wXZVstt4iKzzVpmEa9gT7swDmPTOU_F3f3IZhk&usqp=CAU" group-title="PREMIUM",Space HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114221
-#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="" group-title="PREMIUM",Star TVE HD
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Star_TVE.png/revision/latest?cb=20200124195810&path-prefix=es" group-title="PREMIUM",Star TVE HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114220
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="" group-title="PREMIUM",Studio Universal HD
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/10/studio-universal.jpg" group-title="PREMIUM",Studio Universal HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114219
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="" group-title="PREMIUM",Studio Universal HD
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/10/studio-universal.jpg" group-title="PREMIUM",Studio Universal HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114218
-#EXTINF:-1 tvg-id="" tvg-name="Sundance TV HD" tvg-logo="" group-title="PREMIUM",Sundance TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="PREMIUM",Sundance TV HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114217
 #EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="" group-title="PREMIUM",SyFy HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114216
@@ -109,7 +115,7 @@ http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114216
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114215
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="PREMIUM",TCM
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114214
-#EXTINF:-1 tvg-id="" tvg-name="TDN HD" tvg-logo="" group-title="PREMIUM",TDN HD
+#EXTINF:-1 tvg-id="" tvg-name="TDN HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSREwkMfFvAGJ43KOtnWg5zaOgj0_Rq5i_-cSYtyw=s900-c-k-c0x00ffffff-no-rj" group-title="PREMIUM",TDN HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114213
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="PREMIUM",TLC HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114209
@@ -135,30 +141,14 @@ http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114318
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114315
 #EXTINF:-1 tvg-id="" tvg-name="AZ Click " tvg-logo="" group-title="ENTRETENIMIENTO",AZ Click 
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114314
-#EXTINF:-1 tvg-id="" tvg-name="Az Click SD" tvg-logo="" group-title="ENTRETENIMIENTO",Az Click SD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114313
 #EXTINF:-1 tvg-id="" tvg-name="AZ Corazon HD" tvg-logo="" group-title="ENTRETENIMIENTO",AZ Corazon HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114312
 #EXTINF:-1 tvg-id="" tvg-name="AZ Corazon SD" tvg-logo="" group-title="ENTRETENIMIENTO",AZ Corazon SD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114311
-#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo HD" tvg-logo="" group-title="ENTRETENIMIENTO",AZ Mundo HD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114310
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD" tvg-logo="" group-title="ENTRETENIMIENTO",Azteca 7 HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114309
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 SD" tvg-logo="" group-title="ENTRETENIMIENTO",Azteca 7 SD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114308
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Uno HD" tvg-logo="" group-title="ENTRETENIMIENTO",Azteca Uno HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114307
-#EXTINF:-1 tvg-id="" tvg-name="Cadena H HD" tvg-logo="" group-title="ENTRETENIMIENTO",Cadena H HD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114301
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HD" tvg-logo="" group-title="ENTRETENIMIENTO",Canal 5 HD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114300
-#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas HD" tvg-logo="" group-title="ENTRETENIMIENTO",Canal de las Estrellas HD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114299
-#EXTINF:-1 tvg-id="" tvg-name="CNN en Espa" tvg-logo="" group-title="ENTRETENIMIENTO",CNN en Espa
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114295
-#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="" group-title="ENTRETENIMIENTO",CNN International
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114294
 #EXTINF:-1 tvg-id="" tvg-name="El Gourmet HD" tvg-logo="" group-title="ENTRETENIMIENTO",El Gourmet HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114276
 #EXTINF:-1 tvg-id="" tvg-name="Europa Europa" tvg-logo="" group-title="ENTRETENIMIENTO",Europa Europa
@@ -245,14 +235,8 @@ http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114319
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114290
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="CULTURA",Discovery Civilization
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114289
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="" group-title="CULTURA",Discovery H&H HD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114288
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="CULTURA",Discovery Science
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114286
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="" group-title="CULTURA",Discovery Theater HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114285
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="" group-title="CULTURA",Discovery Turbo HD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114284
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="CULTURA",Discovery World HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114283
 #EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="" group-title="CULTURA",Food Network HD
@@ -275,8 +259,6 @@ http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114223
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114325
 #EXTINF:-1 tvg-id="" tvg-name="ADN40 HD" tvg-logo="" group-title="DEPORTES",ADN40 HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114322
-#EXTINF:-1 tvg-id="" tvg-name="AYM Sports" tvg-logo="" group-title="DEPORTES",AYM Sports
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114316
 #EXTINF:-1 tvg-id="" tvg-name="Espn 2 HD" tvg-logo="" group-title="DEPORTES",Espn 2 HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114275
 #EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="" group-title="DEPORTES",Espn 3
@@ -321,22 +303,10 @@ http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/105107
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/105091
 #EXTINF:-1 tvg-id="" tvg-name="M. FORMULA1 HD" tvg-logo="" group-title="DEPORTES",M. FORMULA1 HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/105090
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV HD" tvg-logo="" group-title="INFANTILES",Baby TV HD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114306
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="INFANTILES",Bloomberg
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114304
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HD" tvg-logo="" group-title="INFANTILES",Bloomberg HD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114303
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="" group-title="INFANTILES",Boomerang HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114302
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="INFANTILES",Cartoon Network HD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114298
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="INFANTILES",Discovery Kids
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114287
 #EXTINF:-1 tvg-id="" tvg-name="Disney Jr." tvg-logo="" group-title="INFANTILES",Disney Jr.
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114281
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="INFANTILES",Disney XD
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114280
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids HD" tvg-logo="" group-title="INFANTILES",Nat Geo Kids HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114234
 #EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-logo="" group-title="INFANTILES",Nick 2 HD
@@ -353,8 +323,6 @@ http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114226
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114205
 #EXTINF:-1 tvg-id="" tvg-name="Wobi HD" tvg-logo="" group-title="INFANTILES",Wobi HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114194
-#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-logo="" group-title="MUSICA",Bandamax
-http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114305
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="MUSICA",MTV HD
 http://dontuse.offshorerev.cc:80/_kNJ0pP/wcTGQMNn71/114238
 #EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="MUSICA",MTV Hits
