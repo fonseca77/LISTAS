@@ -1,301 +1,519 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal Uno" tvg-name="Canal Uno" tvg-logo="" group-title="ECUADOR",Canal Uno
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114401
-#EXTINF:-1 tvg-id="" tvg-name="Canal Uno FHD  " tvg-logo="" group-title="ECUADOR",Canal Uno FHD  
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114400
-#EXTINF:-1 tvg-id="Canela Tv  " tvg-name="Canela Tv  " tvg-logo="" group-title="ECUADOR",Canela Tv  
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114399
-#EXTINF:-1 tvg-id="Ecuador TV" tvg-name="Ecuador TV" tvg-logo="" group-title="ECUADOR",Ecuador TV
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114398
-#EXTINF:-1 tvg-id="Ecuavisa" tvg-name="Ecuavisa" tvg-logo="" group-title="ECUADOR",Ecuavisa
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114397
-#EXTINF:-1 tvg-id="Ecuavisa" tvg-name="Ecuavisa" tvg-logo="" group-title="ECUADOR",Ecuavisa
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114396
-#EXTINF:-1 tvg-id="Gamavision" tvg-name="Gamavision" tvg-logo="" group-title="ECUADOR",Gamavision
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114395
-#EXTINF:-1 tvg-id="Gol TV " tvg-name="Gol TV " tvg-logo="" group-title="ECUADOR",Gol TV 
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114394
-#EXTINF:-1 tvg-id="Oromar" tvg-name="Oromar" tvg-logo="" group-title="ECUADOR",Oromar
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114393
-#EXTINF:-1 tvg-id="Rts " tvg-name="Rts " tvg-logo="" group-title="ECUADOR",Rts 
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114392
-#EXTINF:-1 tvg-id="Tc Television" tvg-name="Tc Television" tvg-logo="" group-title="ECUADOR",Tc Television
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114391
-#EXTINF:-1 tvg-id="Teleamazonas" tvg-name="Teleamazonas" tvg-logo="" group-title="ECUADOR",Teleamazonas
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR ",Teleamazonas
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114390
-#EXTINF:-1 tvg-id="Teleamazonas" tvg-name="Teleamazonas" tvg-logo="" group-title="ECUADOR",Teleamazonas
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR ",Teleamazonas
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114389
-#EXTINF:-1 tvg-id="Televicentro" tvg-name="Televicentro" tvg-logo="" group-title="ECUADOR",Televicentro
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR ",Ecuavisa
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114397
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR ",Ecuavisa
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114396
+#EXTINF:-1 tvg-id="" tvg-name="Tc Television Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR ",Tc Television Full HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114391
+#EXTINF:-1 tvg-id="" tvg-name="Canela Tv" tvg-logo="https://image.roku.com/developer_channels/prod/583e3c91ab4f74df8cacbdd7bb811d49d2ded1c54784d4c8d5dff6305820dd67.png" group-title="ECUADOR ",Canela Tv
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114399
+#EXTINF:-1 tvg-id="" tvg-name="Gama Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logotipo_como_GamaTV_2008.png" group-title="ECUADOR ",Gama Full HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114395
+#EXTINF:-1 tvg-id="" tvg-name="Canal Uno FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR ",Canal Uno FHD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114401
+#EXTINF:-1 tvg-id="" tvg-name="Canal Uno FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR ",Canal Uno FHD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114400
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR ",Ecuador TV Full HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114398
+#EXTINF:-1 tvg-id="" tvg-name="Oromar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR ",Oromar
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114393
+#EXTINF:-1 tvg-id="" tvg-name="Rts Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR ",Rts Full HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114392
+#EXTINF:-1 tvg-id="" tvg-name="Tvc HD" tvg-logo="https://iconape.com/wp-content/files/gw/283154/png/tvc-ecuador-logo.png" group-title="ECUADOR ",Tvc HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114388
-#EXTINF:-1 tvg-id="" tvg-name="NU9VE TV" tvg-logo="" group-title="MEXICO",NU9VE TV
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114329
-#EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV." tvg-logo="" group-title="MEXICO",IMAGEN TV.
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114328
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="" group-title="MEXICO",LAS ESTRELLAS
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114327
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="" group-title="MEXICO",NAT GEO
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114326
-#EXTINF:-1 tvg-id="" tvg-name="PX Sports" tvg-logo="" group-title="MEXICO",PX Sports
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114325
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="MEXICO",A&E HD
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR ",GOL TV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114394
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="PREMIUM",A&E HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114324
-#EXTINF:-1 tvg-id="" tvg-name="A3 Series HD" tvg-logo="" group-title="MEXICO",A3 Series HD
+#EXTINF:-1 tvg-id="" tvg-name="A3 Series HD" tvg-logo="" group-title="PREMIUM",A3 Series HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114323
-#EXTINF:-1 tvg-id="" tvg-name="ADN40 HD" tvg-logo="" group-title="MEXICO",ADN40 HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114322
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera HD" tvg-logo="" group-title="MEXICO",Al Jazeera HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114321
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="MEXICO",AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="PREMIUM",AMC HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114320
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="MEXICO",Animal Planet HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114319
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 HD" tvg-logo="" group-title="MEXICO",Antena 3 HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114318
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="MEXICO",AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="PREMIUM",AXN HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114317
-#EXTINF:-1 tvg-id="" tvg-name="AYM Sports" tvg-logo="" group-title="MEXICO",AYM Sports
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114316
-#EXTINF:-1 tvg-id="" tvg-name="Cinema HD" tvg-logo="" group-title="MEXICO",Cinema HD
+#EXTINF:-1 tvg-id="" tvg-name="Cinema HD" tvg-logo="" group-title="PREMIUM",Cinema HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114315
-#EXTINF:-1 tvg-id="" tvg-name="AZ Click B1" tvg-logo="" group-title="MEXICO",AZ Click B1
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114314
-#EXTINF:-1 tvg-id="" tvg-name="Az Click SD" tvg-logo="" group-title="MEXICO",Az Click SD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114313
-#EXTINF:-1 tvg-id="" tvg-name="AZ Corazon HD" tvg-logo="" group-title="MEXICO",AZ Corazon HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114312
-#EXTINF:-1 tvg-id="" tvg-name="AZ Corazon SD" tvg-logo="" group-title="MEXICO",AZ Corazon SD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114311
-#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo HD" tvg-logo="" group-title="MEXICO",AZ Mundo HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114310
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD" tvg-logo="" group-title="MEXICO",Azteca 7 HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114309
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 SD" tvg-logo="" group-title="MEXICO",Azteca 7 SD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114308
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno HD" tvg-logo="" group-title="MEXICO",Azteca Uno HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114307
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV HD" tvg-logo="" group-title="MEXICO",Baby TV HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114306
-#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-logo="" group-title="MEXICO",Bandamax
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114305
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg " tvg-logo="" group-title="MEXICO",Bloomberg 
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114304
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HD" tvg-logo="" group-title="MEXICO",Bloomberg HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114303
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="" group-title="MEXICO",Boomerang HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114302
-#EXTINF:-1 tvg-id="" tvg-name="Cadena H HD" tvg-logo="" group-title="MEXICO",Cadena H HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114301
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HD" tvg-logo="" group-title="MEXICO",Canal 5 HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114300
-#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas HD" tvg-logo="" group-title="MEXICO",Canal de las Estrellas HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114299
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="MEXICO",Cartoon Network HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114298
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="MEXICO",Cinecanal HD
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal " tvg-logo="" group-title="PREMIUM",Cinecanal 
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114297
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="" group-title="MEXICO",Cinemax HD
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="" group-title="PREMIUM",Cinemax HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114296
-#EXTINF:-1 tvg-id="" tvg-name="CNN en Espa" tvg-logo="" group-title="MEXICO",CNN en Espa
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114295
-#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="" group-title="MEXICO",CNN International
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114294
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="MEXICO",Comedy Central HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114293
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="" group-title="MEXICO",De Pelicula
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="" group-title="PREMIUM",De Pelicula
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114292
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus HD" tvg-logo="" group-title="MEXICO",De Pelicula Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus HD" tvg-logo="" group-title="PREMIUM",De Pelicula Plus HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114291
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="MEXICO",Discovery Channel HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114290
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="MEXICO",Discovery Civilization
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114289
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="" group-title="MEXICO",Discovery H&H HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114288
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="MEXICO",Discovery Kids
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114287
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="MEXICO",Discovery Science
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114286
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="" group-title="MEXICO",Discovery Theater HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114285
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="" group-title="MEXICO",Discovery Turbo HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114284
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="MEXICO",Discovery World HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114283
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="MEXICO",Disney Channel
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114282
-#EXTINF:-1 tvg-id="" tvg-name="Disney Jr." tvg-logo="" group-title="MEXICO",Disney Jr.
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114281
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="MEXICO",Disney XD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114280
-#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" group-title="MEXICO",Distrito Comedia
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" group-title="PREMIUM",Distrito Comedia
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114279
-#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="MEXICO",DW
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114278
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment HD" tvg-logo="" group-title="MEXICO",E! Entertainment HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114277
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet HD" tvg-logo="" group-title="MEXICO",El Gourmet HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114276
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2 HD" tvg-logo="" group-title="MEXICO",Espn 2 HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114275
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="" group-title="MEXICO",Espn 3
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114274
-#EXTINF:-1 tvg-id="" tvg-name="Espn HD" tvg-logo="" group-title="MEXICO",Espn HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114273
-#EXTINF:-1 tvg-id="" tvg-name="Espn Plus HD" tvg-logo="" group-title="MEXICO",Espn Plus HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114272
-#EXTINF:-1 tvg-id="" tvg-name="Espn U HD" tvg-logo="" group-title="MEXICO",Espn U HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114271
-#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" tvg-logo="" group-title="MEXICO",Europa Europa
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114270
-#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="MEXICO",Film & Arts
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114269
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="" group-title="MEXICO",Food Network HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114268
-#EXTINF:-1 tvg-id="" tvg-name="Foro TV HD" tvg-logo="" group-title="MEXICO",Foro TV HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114267
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="" group-title="MEXICO",Star Channel
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="" group-title="PREMIUM",Star Channel
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114266
-#EXTINF:-1 tvg-id="" tvg-name="Star Action HD" tvg-logo="" group-title="MEXICO",Star Action HD
+#EXTINF:-1 tvg-id="" tvg-name="Star Action " tvg-logo="" group-title="PREMIUM",Star Action 
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114265
-#EXTINF:-1 tvg-id="" tvg-name="Star Cinema" tvg-logo="" group-title="MEXICO",Star Cinema
+#EXTINF:-1 tvg-id="" tvg-name="Star Cinema" tvg-logo="" group-title="PREMIUM",Star Cinema
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114264
-#EXTINF:-1 tvg-id="" tvg-name="Star Classics" tvg-logo="" group-title="MEXICO",Star Classics
+#EXTINF:-1 tvg-id="" tvg-name="Star Classics" tvg-logo="" group-title="PREMIUM",Star Classics
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114263
-#EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="" group-title="MEXICO",Star Life HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114262
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS" tvg-logo="" group-title="MEXICO",STAR HITS
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS" tvg-logo="" group-title="PREMIUM",STAR HITS
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114261
-#EXTINF:-1 tvg-id="" tvg-name="Fox News HD" tvg-logo="" group-title="MEXICO",Fox News HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114260
-#EXTINF:-1 tvg-id="" tvg-name="Star Series HD" tvg-logo="" group-title="MEXICO",Star Series HD
+#EXTINF:-1 tvg-id="" tvg-name="Star Series HD" tvg-logo="" group-title="PREMIUM",Star Series HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114259
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="MEXICO",Fox Sports 2 HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114258
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" tvg-logo="" group-title="MEXICO",Fox Sports 3 HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114257
-#EXTINF:-1 tvg-id="" tvg-name="FoxSports 1 Mexico" tvg-logo="" group-title="MEXICO",FoxSports 1 Mexico
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114256
-#EXTINF:-1 tvg-id="" tvg-name="Francia 24 HD" tvg-logo="" group-title="MEXICO",Francia 24 HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114255
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="MEXICO",FX HD
+#EXTINF:-1 tvg-id="" tvg-name="FX " tvg-logo="" group-title="PREMIUM",FX 
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114254
-#EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="" group-title="MEXICO",FXM HD
+#EXTINF:-1 tvg-id="" tvg-name="FXM " tvg-logo="" group-title="PREMIUM",FXM 
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114253
-#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="" group-title="MEXICO",Garage TV
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114252
-#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="" group-title="MEXICO",Glitz
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="" group-title="PREMIUM",Glitz
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114251
-#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="MEXICO",Golden
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="PREMIUM",Golden
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114250
-#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="" group-title="MEXICO",Golden Edge
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="" group-title="PREMIUM",Golden Edge
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114249
-#EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD" tvg-logo="" group-title="MEXICO",Golden Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD" tvg-logo="" group-title="PREMIUM",Golden Plus HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114248
-#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="MEXICO",History HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114247
-#EXTINF:-1 tvg-id="" tvg-name="HLN HD" tvg-logo="" group-title="MEXICO",HLN HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114246
-#EXTINF:-1 tvg-id="" tvg-name="Hola TV HD" tvg-logo="" group-title="MEXICO",Hola TV HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114245
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD" tvg-logo="" group-title="MEXICO",Investigation Discovery HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114244
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery SD" tvg-logo="" group-title="MEXICO",Investigation Discovery SD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114243
-#EXTINF:-1 tvg-id="" tvg-name="Isat" tvg-logo="" group-title="MEXICO",Isat
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114242
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="" group-title="MEXICO",Lifetime HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114241
-#EXTINF:-1 tvg-id="" tvg-name="Mas Chic HD" tvg-logo="" group-title="MEXICO",Mas Chic HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114240
-#EXTINF:-1 tvg-id="" tvg-name="Milenio TV HD" tvg-logo="" group-title="MEXICO",Milenio TV HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114239
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="MEXICO",MTV HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114238
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="MEXICO",MTV Hits
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114237
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="" group-title="MEXICO",MTV Live HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114236
-#EXTINF:-1 tvg-id="" tvg-name="Multimedios HD" tvg-logo="" group-title="MEXICO",Multimedios HD
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios " tvg-logo="" group-title="PREMIUM",Multimedios 
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114235
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids HD" tvg-logo="" group-title="MEXICO",Nat Geo Kids HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114234
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="MEXICO",Nat Geo Wild HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114233
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="MEXICO",National Geographic
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114232
-#EXTINF:-1 tvg-id="" tvg-name="NBC Golf HD" tvg-logo="" group-title="MEXICO",NBC Golf HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114231
-#EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-logo="" group-title="MEXICO",Nick 2 HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114230
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="MEXICO",Nick Jr.
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114229
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="MEXICO",Nickelodeon HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114228
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD" tvg-logo="" group-title="MEXICO",Nickelodeon SD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114227
-#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="" group-title="MEXICO",Nicktoons
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114226
-#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="" group-title="MEXICO",NTN24
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114225
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-logo="" group-title="MEXICO",Paramount Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-logo="" group-title="PREMIUM",Paramount Channel HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114224
-#EXTINF:-1 tvg-id="" tvg-name="SEC Network HD" tvg-logo="" group-title="MEXICO",SEC Network HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114223
-#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD" tvg-logo="" group-title="MEXICO",Sony Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD" tvg-logo="" group-title="PREMIUM",Sony Channel HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114222
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="MEXICO",Space HD
+#EXTINF:-1 tvg-id="" tvg-name="Space " tvg-logo="" group-title="PREMIUM",Space 
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114221
-#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="" group-title="MEXICO",Star TVE HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114220
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="" group-title="MEXICO",Studio Universal HD
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal " tvg-logo="" group-title="PREMIUM",Studio Universal 
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114219
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD B2" tvg-logo="" group-title="MEXICO",Studio Universal HD B2
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal " tvg-logo="" group-title="PREMIUM",Studio Universal 
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114218
-#EXTINF:-1 tvg-id="" tvg-name="Sundance TV HD" tvg-logo="" group-title="MEXICO",Sundance TV HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114217
-#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="" group-title="MEXICO",SyFy HD
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="" group-title="PREMIUM",SyFy HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114216
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="MEXICO",TBS
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="PREMIUM",TBS
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114215
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="MEXICO",TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="PREMIUM",TCM
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114214
-#EXTINF:-1 tvg-id="" tvg-name="TDN HD" tvg-logo="" group-title="MEXICO",TDN HD
+#EXTINF:-1 tvg-id="" tvg-name="TDN HD" tvg-logo="" group-title="PREMIUM",TDN HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114213
-#EXTINF:-1 tvg-id="" tvg-name="Telehit Plus HD" tvg-logo="" group-title="MEXICO",Telehit Plus HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114212
-#EXTINF:-1 tvg-id="" tvg-name="Telenovelas" tvg-logo="" group-title="MEXICO",Telenovelas
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114211
-#EXTINF:-1 tvg-id="" tvg-name="Televisa Pueblo HD" tvg-logo="" group-title="MEXICO",Televisa Pueblo HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114210
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="MEXICO",TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="PREMIUM",TLC HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114209
-#EXTINF:-1 tvg-id="" tvg-name="TLR" tvg-logo="" group-title="MEXICO",TLR
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114208
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="MEXICO",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="PREMIUM",TNT HD
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114207
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="" group-title="MEXICO",TNT Series HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series " tvg-logo="" group-title="PREMIUM",TNT Series 
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114206
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" group-title="MEXICO",Tooncast
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114205
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO  SD" tvg-logo="" group-title="MEXICO",AZTECA UNO  SD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114204
-#EXTINF:-1 tvg-id="" tvg-name="CANAL Once" tvg-logo="" group-title="MEXICO",CANAL Once
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114203
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="MEXICO",Fox Sports 1 HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114202
-#EXTINF:-1 tvg-id="" tvg-name="Tru TV HD" tvg-logo="" group-title="MEXICO",Tru TV HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114201
-#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="MEXICO",TVE
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114200
-#EXTINF:-1 tvg-id="" tvg-name="Unicable HD" tvg-logo="" group-title="MEXICO",Unicable HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114199
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="MEXICO",VH1
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114198
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="MEXICO",VH1 Classic
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114197
-#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="MEXICO",VH1 HD
-http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114196
-#EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-logo="" group-title="MEXICO",Warner HD
+#EXTINF:-1 tvg-id="" tvg-name="Warner " tvg-logo="" group-title="PREMIUM",Warner 
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114195
-#EXTINF:-1 tvg-id="" tvg-name="Wobi HD" tvg-logo="" group-title="MEXICO",Wobi HD
+#EXTINF:-1 tvg-id="" tvg-name="NU9VE TV" tvg-logo="" group-title="ENTRETENIMIENTO",NU9VE TV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114329
+#EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV." tvg-logo="" group-title="ENTRETENIMIENTO",IMAGEN TV.
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114328
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="" group-title="ENTRETENIMIENTO",LAS ESTRELLAS
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114327
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera HD" tvg-logo="" group-title="ENTRETENIMIENTO",Al Jazeera HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114321
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 HD" tvg-logo="" group-title="ENTRETENIMIENTO",Antena 3 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114318
+#EXTINF:-1 tvg-id="" tvg-name="AZ Click B1" tvg-logo="" group-title="ENTRETENIMIENTO",AZ Click B1
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114314
+#EXTINF:-1 tvg-id="" tvg-name="Az Click SD" tvg-logo="" group-title="ENTRETENIMIENTO",Az Click SD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114313
+#EXTINF:-1 tvg-id="" tvg-name="AZ Corazon HD" tvg-logo="" group-title="ENTRETENIMIENTO",AZ Corazon HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114312
+#EXTINF:-1 tvg-id="" tvg-name="AZ Corazon SD" tvg-logo="" group-title="ENTRETENIMIENTO",AZ Corazon SD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114311
+#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo HD" tvg-logo="" group-title="ENTRETENIMIENTO",AZ Mundo HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114310
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD" tvg-logo="" group-title="ENTRETENIMIENTO",Azteca 7 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114309
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 SD" tvg-logo="" group-title="ENTRETENIMIENTO",Azteca 7 SD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114308
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno HD" tvg-logo="" group-title="ENTRETENIMIENTO",Azteca Uno HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114307
+#EXTINF:-1 tvg-id="" tvg-name="Cadena H HD" tvg-logo="" group-title="ENTRETENIMIENTO",Cadena H HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114301
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HD" tvg-logo="" group-title="ENTRETENIMIENTO",Canal 5 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114300
+#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas HD" tvg-logo="" group-title="ENTRETENIMIENTO",Canal de las Estrellas HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114299
+#EXTINF:-1 tvg-id="" tvg-name="CNN " tvg-logo="" group-title="ENTRETENIMIENTO",CNN 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114295
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="" group-title="ENTRETENIMIENTO",CNN International
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114294
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="ENTRETENIMIENTO",Comedy Central HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114293
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="ENTRETENIMIENTO",DW
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114278
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment HD" tvg-logo="" group-title="ENTRETENIMIENTO",E! Entertainment HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114277
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet " tvg-logo="" group-title="ENTRETENIMIENTO",El Gourmet 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114276
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" tvg-logo="" group-title="ENTRETENIMIENTO",Europa Europa
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114270
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="ENTRETENIMIENTO",Film & Arts
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114269
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="" group-title="ENTRETENIMIENTO",Food Network HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114268
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV " tvg-logo="" group-title="ENTRETENIMIENTO",Foro TV 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114267
+#EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="" group-title="ENTRETENIMIENTO",Star Life HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114262
+#EXTINF:-1 tvg-id="" tvg-name="Fox News HD" tvg-logo="" group-title="ENTRETENIMIENTO",Fox News HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114260
+#EXTINF:-1 tvg-id="" tvg-name="Francia 24 HD" tvg-logo="" group-title="ENTRETENIMIENTO",Francia 24 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114255
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="" group-title="ENTRETENIMIENTO",Garage TV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114252
+#EXTINF:-1 tvg-id="" tvg-name="HLN " tvg-logo="" group-title="ENTRETENIMIENTO",HLN 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114246
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV " tvg-logo="" group-title="ENTRETENIMIENTO",Hola TV 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114245
+#EXTINF:-1 tvg-id="" tvg-name="Isat" tvg-logo="" group-title="ENTRETENIMIENTO",Isat
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114242
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="ENTRETENIMIENTO",Mas Chic
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114240
+#EXTINF:-1 tvg-id="" tvg-name="Milenio TV" tvg-logo="" group-title="ENTRETENIMIENTO",Milenio TV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114239
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="" group-title="ENTRETENIMIENTO",MTV Live HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114236
+#EXTINF:-1 tvg-id="" tvg-name="NTN 24" tvg-logo="" group-title="ENTRETENIMIENTO",NTN 24
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114225
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE " tvg-logo="" group-title="ENTRETENIMIENTO",Star TVE 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114220
+#EXTINF:-1 tvg-id="" tvg-name="Telenovelas" tvg-logo="" group-title="ENTRETENIMIENTO",Telenovelas
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114211
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Pueblo " tvg-logo="" group-title="ENTRETENIMIENTO",Televisa Pueblo 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114210
+#EXTINF:-1 tvg-id="" tvg-name="TLR" tvg-logo="" group-title="ENTRETENIMIENTO",TLR
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114208
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO  " tvg-logo="" group-title="ENTRETENIMIENTO",AZTECA UNO  
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114204
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Once" tvg-logo="" group-title="ENTRETENIMIENTO",CANAL Once
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114203
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV " tvg-logo="" group-title="ENTRETENIMIENTO",Tru TV 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114201
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="ENTRETENIMIENTO",TVE
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114200
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="" group-title="ENTRETENIMIENTO",Unicable
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114199
+#EXTINF:-1 tvg-id="" tvg-name="AMC " tvg-logo="" group-title="ENTRETENIMIENTO",AMC 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105189
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="ENTRETENIMIENTO",AXN
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105188
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="" group-title="ENTRETENIMIENTO",AXN 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105187
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE " tvg-logo="" group-title="ENTRETENIMIENTO",AXN WHITE 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105186
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 " tvg-logo="" group-title="ENTRETENIMIENTO",CALLE 13 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105185
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL " tvg-logo="" group-title="ENTRETENIMIENTO",COMEDY CENTRAL 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105184
+#EXTINF:-1 tvg-id="" tvg-name="COSMO " tvg-logo="" group-title="ENTRETENIMIENTO",COSMO 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105183
+#EXTINF:-1 tvg-id="" tvg-name="FOX " tvg-logo="" group-title="ENTRETENIMIENTO",FOX 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105182
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE " tvg-logo="" group-title="ENTRETENIMIENTO",FOX LIFE 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105181
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD " tvg-logo="" group-title="ENTRETENIMIENTO",HOLLYWOOD 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105180
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="" group-title="ENTRETENIMIENTO",PARAMOUNT
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105179
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="" group-title="ENTRETENIMIENTO",SUNDANCE TV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105178
+#EXTINF:-1 tvg-id="" tvg-name="SYFY " tvg-logo="" group-title="ENTRETENIMIENTO",SYFY 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105177
+#EXTINF:-1 tvg-id="" tvg-name="TCM " tvg-logo="" group-title="ENTRETENIMIENTO",TCM 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105176
+#EXTINF:-1 tvg-id="" tvg-name="TNT " tvg-logo="" group-title="ENTRETENIMIENTO",TNT 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105175
+#EXTINF:-1 tvg-id="" tvg-name="CLASSICA" tvg-logo="" group-title="ENTRETENIMIENTO",CLASSICA
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105174
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="" group-title="CULTURA",NAT GEO
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114326
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="CULTURA",Animal Planet HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114319
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="CULTURA",Discovery Channel HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114290
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="CULTURA",Discovery Civilization
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114289
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H " tvg-logo="" group-title="CULTURA",Discovery H&H 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114288
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="CULTURA",Discovery Science
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114286
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater " tvg-logo="" group-title="CULTURA",Discovery Theater 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114285
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="" group-title="CULTURA",Discovery Turbo HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114284
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="CULTURA",Discovery World HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114283
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="CULTURA",History HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114247
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD" tvg-logo="" group-title="CULTURA",Investigation Discovery HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114244
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery " tvg-logo="" group-title="CULTURA",Investigation Discovery 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114243
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="" group-title="CULTURA",Lifetime HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114241
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="CULTURA",Nat Geo Wild HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114233
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="CULTURA",National Geographic
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114232
+#EXTINF:-1 tvg-id="" tvg-name="SEC Network " tvg-logo="" group-title="CULTURA",SEC Network 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114223
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="" group-title="CULTURA",Sundance TV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114217
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="" group-title="CULTURA",BLAZE
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105150
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="CULTURA",CANAL COCINA
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105149
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="" group-title="CULTURA",CANAL DECASA
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105148
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA " tvg-logo="" group-title="CULTURA",CAZA Y PESCA 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105147
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN+INVES" tvg-logo="" group-title="CULTURA",CRIMEN+INVES
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105146
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="CULTURA",DISCOVERY
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105145
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="" group-title="CULTURA",HISTORIA
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105144
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="CULTURA",IBERALIA TV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105143
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO " tvg-logo="" group-title="CULTURA",NAT GEO 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105142
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="CULTURA",NAT GEO WILD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105141
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD " tvg-logo="" group-title="CULTURA",NAT GEO WILD 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105140
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="" group-title="CULTURA",CANAL ODISEA
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105139
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD" tvg-logo="" group-title="CULTURA",VIAJAR HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105138
+#EXTINF:-1 tvg-id="" tvg-name="TVE  " tvg-logo="" group-title="ESPAÑA",TVE  
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105225
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 " tvg-logo="" group-title="ESPAÑA",LA 1 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105224
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 " tvg-logo="" group-title="ESPAÑA",LA 2 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105223
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="" group-title="ESPAÑA",ANTENA 3
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105222
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO " tvg-logo="" group-title="ESPAÑA",CUATRO 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105221
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO " tvg-logo="" group-title="ESPAÑA",TELECINCO 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105220
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA " tvg-logo="" group-title="ESPAÑA",LA SEXTA 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105219
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR" tvg-logo="" group-title="ESPAÑA",CANAL SUR
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105218
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="ESPAÑA",FDF
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105217
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="" group-title="ESPAÑA",ENERGY
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105216
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="" group-title="ESPAÑA",DIVINITY
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105215
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="" group-title="ESPAÑA",MEGA HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105214
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="ESPAÑA",BE MAD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105213
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 24 HORAS" tvg-logo="" group-title="ESPAÑA",CANAL 24 HORAS
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105212
+#EXTINF:-1 tvg-id="" tvg-name="0 HD" tvg-logo="" group-title="ESPAÑA",0 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105211
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV " tvg-logo="" group-title="ESPAÑA",ARAGON TV 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105210
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="" group-title="ESPAÑA",NOVA
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105209
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ORBE 21" tvg-logo="" group-title="ESPAÑA",CANAL ORBE 21
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105208
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="" group-title="ESPAÑA",24 HORAS
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105207
+#EXTINF:-1 tvg-id="" tvg-name="TVGA " tvg-logo="" group-title="ESPAÑA",TVGA 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105206
+#EXTINF:-1 tvg-id="" tvg-name="# VAMOS " tvg-logo="" group-title="ESPAÑA",# VAMOS 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105205
+#EXTINF:-1 tvg-id="" tvg-name="XTRM " tvg-logo="" group-title="ESPAÑA",XTRM 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105204
+#EXTINF:-1 tvg-id="" tvg-name="ATRE SERIES " tvg-logo="" group-title="ESPAÑA",ATRE SERIES 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105203
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="" group-title="ESPAÑA",NEOX
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105202
+#EXTINF:-1 tvg-id="" tvg-name="M.ACCION " tvg-logo="" group-title="MOVISTAR",M.ACCION 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105172
+#EXTINF:-1 tvg-id="" tvg-name="M. CINE ESPANOL" tvg-logo="" group-title="MOVISTAR",M. CINE ESPANOL
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105171
+#EXTINF:-1 tvg-id="" tvg-name="M. COMEDIA " tvg-logo="" group-title="MOVISTAR",M. COMEDIA 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105170
+#EXTINF:-1 tvg-id="" tvg-name="M.DRAMA " tvg-logo="" group-title="MOVISTAR",M.DRAMA 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105169
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS " tvg-logo="" group-title="MOVISTAR",M.ESTRENOS 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105168
+#EXTINF:-1 tvg-id="" tvg-name="M.SERIES " tvg-logo="" group-title="MOVISTAR",M.SERIES 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105167
+#EXTINF:-1 tvg-id="" tvg-name="M.SERIESMANIA HD" tvg-logo="" group-title="MOVISTAR",M.SERIESMANIA HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105166
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV HD" tvg-logo="" group-title="INFANTIL",Baby TV HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114306
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg " tvg-logo="" group-title="INFANTIL",Bloomberg 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114304
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HD" tvg-logo="" group-title="INFANTIL",Bloomberg HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114303
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="" group-title="INFANTIL",Boomerang HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114302
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="INFANTIL",Cartoon Network HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114298
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="INFANTIL",Discovery Kids
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114287
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="INFANTIL",Disney Channel
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114282
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="" group-title="INFANTIL",Disney Jr
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114281
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="INFANTIL",Disney XD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114280
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids " tvg-logo="" group-title="INFANTIL",Nat Geo Kids 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114234
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-logo="" group-title="INFANTIL",Nick 2 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114230
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="INFANTIL",Nick Jr.
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114229
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="INFANTIL",Nickelodeon HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114228
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon " tvg-logo="" group-title="INFANTIL",Nickelodeon 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114227
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="" group-title="INFANTIL",Nicktoons
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114226
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" group-title="INFANTIL",Tooncast
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114205
+#EXTINF:-1 tvg-id="" tvg-name="Wobi " tvg-logo="" group-title="INFANTIL",Wobi 
 http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114194
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="INFANTIL",BABY TV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105200
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" group-title="INFANTIL",BOING
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105199
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE" tvg-logo="" group-title="INFANTIL",CLAN TVE
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105198
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY " tvg-logo="" group-title="INFANTIL",DISNEY 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105197
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="" group-title="INFANTIL",DISNEY JR
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105196
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="" group-title="INFANTIL",DREAMWORKS
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105195
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="INFANTIL",NICK JR
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105194
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON  " tvg-logo="" group-title="INFANTIL",NICKELODEON  
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105193
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="" group-title="INFANTIL",CANAL PANDA
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105192
+#EXTINF:-1 tvg-id="" tvg-name="NICK/MTV" tvg-logo="" group-title="INFANTIL",NICK/MTV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105191
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-logo="" group-title="MUSICA",Bandamax
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114305
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="MUSICA",MTV HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114238
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="MUSICA",MTV Hits
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114237
+#EXTINF:-1 tvg-id="" tvg-name="Telehit Plus " tvg-logo="" group-title="MUSICA",Telehit Plus 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114212
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="MUSICA",VH1
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114198
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="MUSICA",VH1 Classic
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114197
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="MUSICA",VH1 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114196
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="MUSICA",MTV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105155
+#EXTINF:-1 tvg-id="" tvg-name="MTV DANCE" tvg-logo="" group-title="MUSICA",MTV DANCE
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105154
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE" tvg-logo="" group-title="MUSICA",MEZZO LIVE
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105153
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="MUSICA",MEZZO
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105152
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="MUSICA",VH1
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105137
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 1" tvg-logo="" group-title="ALUILER",ALQELIER 1
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105164
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 2 HD" tvg-logo="" group-title="ALUILER",ALQELIER 2 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105163
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 3 HD" tvg-logo="" group-title="ALUILER",ALQELIER 3 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105162
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 4 HD" tvg-logo="" group-title="ALUILER",ALQELIER 4 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105161
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 5 HD" tvg-logo="" group-title="ALUILER",ALQELIER 5 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105160
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 6 HD" tvg-logo="" group-title="ALUILER",ALQELIER 6 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105159
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 7 HD" tvg-logo="" group-title="ALUILER",ALQELIER 7 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105158
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 8 HD" tvg-logo="" group-title="ALUILER",ALQELIER 8 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105157
+#EXTINF:-1 tvg-id="" tvg-name="PX Sports" tvg-logo="" group-title="DEPORTES",PX Sports
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114325
+#EXTINF:-1 tvg-id="" tvg-name="ADN40 HD" tvg-logo="" group-title="DEPORTES",ADN40 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114322
+#EXTINF:-1 tvg-id="" tvg-name="AYM Sports" tvg-logo="" group-title="DEPORTES",AYM Sports
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114316
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 " tvg-logo="" group-title="DEPORTES",Espn 2 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114275
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="" group-title="DEPORTES",Espn 3
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114274
+#EXTINF:-1 tvg-id="" tvg-name="Espn HD" tvg-logo="" group-title="DEPORTES",Espn HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114273
+#EXTINF:-1 tvg-id="" tvg-name="Espn Plus " tvg-logo="" group-title="DEPORTES",Espn Plus 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114272
+#EXTINF:-1 tvg-id="" tvg-name="Espn U " tvg-logo="" group-title="DEPORTES",Espn U 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114271
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 " tvg-logo="" group-title="DEPORTES",Fox Sports 2 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114258
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 " tvg-logo="" group-title="DEPORTES",Fox Sports 3 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114257
+#EXTINF:-1 tvg-id="" tvg-name="FoxSports 1 " tvg-logo="" group-title="DEPORTES",FoxSports 1 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114256
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf " tvg-logo="" group-title="DEPORTES",NBC Golf 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/114231
+#EXTINF:-1 tvg-id="" tvg-name="M.DEPORTES 1" tvg-logo="" group-title="DEPORTES",M.DEPORTES 1
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105135
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES " tvg-logo="" group-title="DEPORTES",M. DEPORTES 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105134
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="" group-title="DEPORTES",TELEDEPORTE
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105133
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="" group-title="DEPORTES",DAZN F1
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105126
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="" group-title="DEPORTES",REAL MADRID TV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105122
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="" group-title="DEPORTES",BARCA TV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105121
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="DEPORTES",EUROSPORT 1
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105120
+#EXTINF:-1 tvg-id="" tvg-name="M. F1" tvg-logo="" group-title="DEPORTES",M. F1
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105119
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF" tvg-logo="" group-title="DEPORTES",M. GOLF
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105118
+#EXTINF:-1 tvg-id="" tvg-name="M.L CAMPEONES" tvg-logo="" group-title="DEPORTES",M.L CAMPEONES
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105116
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR" tvg-logo="" group-title="DEPORTES",LA LIGA TV BAR
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105115
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA " tvg-logo="" group-title="DEPORTES",BEIN LA LIGA 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105114
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="DEPORTES",EUROSPORT 1
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105113
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="DEPORTES",EUROSPORT 1
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105112
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="DEPORTES",EUROSPORT 2
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105111
+#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="" group-title="DEPORTES",GOL
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105110
+#EXTINF:-1 tvg-id="" tvg-name="R. MADRID TV" tvg-logo="" group-title="DEPORTES",R. MADRID TV
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105108
+#EXTINF:-1 tvg-id="" tvg-name="TOROS " tvg-logo="" group-title="DEPORTES",TOROS 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105107
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="DEPORTES",DAZN 1 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105106
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="DEPORTES",DAZN 2 HD
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105105
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 1" tvg-logo="" group-title="DEPORTES",M. LALIGA 1
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105094
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 2 " tvg-logo="" group-title="DEPORTES",M. LALIGA 2 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105093
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 3 " tvg-logo="" group-title="DEPORTES",M. LALIGA 3 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105092
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1 " tvg-logo="" group-title="DEPORTES",M.FORMULA 1 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105091
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 " tvg-logo="" group-title="DEPORTES",FORMULA 1 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105090
+#EXTINF:-1 tvg-id="" tvg-name="barca tv" tvg-logo="" group-title="DEPORTES",barca tv
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105089
+#EXTINF:-1 tvg-id="" tvg-name="M.PARTIDAZO " tvg-logo="" group-title="DEPORTES",M.PARTIDAZO 
+http://dontuse.offshorerev.cc:80/_wClkuZ/YTHPi0piCc/105088
