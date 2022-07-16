@@ -245,3 +245,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba68
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-62aa5740a47b6c000769f407" tvg-id="62aa5740a47b6c000769f407" tvg-chno="134" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Entretenimiento",Chilevision Contigo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Portal foxmix" tvg-logo="https://i.imgur.com/ZEBOeGe.png" group-title="MUSICA",Portal foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Latino" tvg-logo="https://i.imgur.com/VMMNhkf.png" group-title="MUSICA",Top Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Conecta TV" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="MUSICA",Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+
