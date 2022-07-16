@@ -735,6 +735,16 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/134
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234750
 #EXTINF:-1 tvg-id="" tvg-name="M. Fest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Movistar-Fest.png" group-title="MUSICA",M. Fest
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234750
+#EXTINF:-1 tvg-id="" tvg-name="Portal foxmix" tvg-logo="https://i.imgur.com/ZEBOeGe.png" group-title="MUSICA",Portal foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Latino" tvg-logo="https://i.imgur.com/VMMNhkf.png" group-title="MUSICA",Top Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Conecta TV" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="MUSICA",Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Zona Latina " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Zona_Latina_2021.svg/revision/latest/scale-to-width-down/150?cb=20210805180712&path-prefix=es" group-title="MUSICA",Zona Latina 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/36562
 #EXTINF:-1 tvg-id="" tvg-name="Classic Project 1 (90s Reloaded 2008)" tvg-logo="https://i1383.photobucket.com/albums/ah304/kchulo7/Classic%20Project/cp1d_zps4370fd16.jpg" group-title="MUSICA",Classic Project 1 (90s Reloaded 2008)
