@@ -173,6 +173,13 @@ http://mag.you24.online:8080/3yp73r96yd/p8ip70cql/7171
 http://mag.you24.online:8080/3yp73r96yd/p8ip70cql/685777
 #EXTINF:-1 tvg-id="" tvg-name="MTV Espana " tvg-logo="" group-title="MUSICA",MTV Espana 
 http://mag.you24.online:8080/3yp73r96yd/p8ip70cql/8759
+#EXTINF:-1 tvg-id="" tvg-name="Portal foxmix" tvg-logo="https://i.imgur.com/ZEBOeGe.png" group-title="MUSICA",Portal foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Latino" tvg-logo="https://i.imgur.com/VMMNhkf.png" group-title="MUSICA",Top Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conecta TV" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="MUSICA",Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FDF " tvg-logo="" group-title="MUSICA",FDF 
 http://mag.you24.online:8080/3yp73r96yd/p8ip70cql/7221
 #EXTINF:-1 tvg-id="" tvg-name="Ten " tvg-logo="" group-title="MUSICA",Ten 
