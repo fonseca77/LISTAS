@@ -49,49 +49,51 @@ http://futboldirectotv.xyz:8080/josue2022/BNKYK/277677
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31009
 #EXTINF:-1 tvg-id="" tvg-name="TNT LATINO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/640px-TNT_%28TV_Channel%29.svg.png" group-title="PREMIUM",TNT LATINO HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/89
+#EXTINF:-1 tvg-id="" tvg-name="TNT MX" tvg-logo="" group-title="PREMIUM",TNT MX
+http://futboldirectotv.xyz:8080/josue2022/BNKYK/164030
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="PREMIUM",TNT SERIES 1
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/92
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="PREMIUM",TNT SERIES 2
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31010
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar " tvg-logo="" group-title="PREMIUM",Cinema Disney Pixar 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Disney_pixar_logo.png" group-title="PREMIUM",Disney Pixar 
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31251
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family" tvg-logo="" group-title="PREMIUM",Cinema Disney Family
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family" tvg-logo="https://thewaltdisneycompany.com/app/uploads/disneyfamily-article-1.png?=s0" group-title="PREMIUM", Disney Family
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31252
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="" group-title="PREMIUM",CINE MARVEL
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/31253
-#EXTINF:-1 tvg-id="" tvg-name="Disney Princess " tvg-logo="" group-title="PREMIUM",Disney Princess 
+#EXTINF:-1 tvg-id="" tvg-name="Disney Princess " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Disney_Princess_logo_2015.png" group-title="PREMIUM",Disney Princess 
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31254
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action " tvg-logo="" group-title="PREMIUM",Disney Live Action 
+#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action " tvg-logo="https://www.pngitem.com/pimgs/m/120-1200941_disney-live-action-logo-hd-png-download.png" group-title="PREMIUM",Disney Live Action 
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31255
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Marvel-Studios-Symbol.png" group-title="PREMIUM",CINE MARVEL
+http://futboldirectotv.xyz:8080/josue2022/BNKYK/31253
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="PREMIUM",CINEMAX HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/67
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD " tvg-logo="" group-title="PREMIUM",CINEMAX HD 
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31014
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD " tvg-logo="" group-title="PREMIUM",SPACE HD 
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD " tvg-logo="https://2.bp.blogspot.com/-pUEccBvyogI/UVT9lQe300I/AAAAAAAAAn4/8rS0W1sZHR8/s1600/space+HD+sivergamtv.png" group-title="PREMIUM",SPACE HD 
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31021
-#EXTINF:-1 tvg-id="" tvg-name="SPACE " tvg-logo="" group-title="PREMIUM",SPACE 
+#EXTINF:-1 tvg-id="" tvg-name="SPACE " tvg-logo="https://img.favpng.com/17/5/17/space-logo-television-channel-esporte-interativo-png-favpng-VVxR657Qh8Nb2bcMZqQ3QEru0.jpg" group-title="PREMIUM",SPACE 
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31022
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL MX" tvg-logo="" group-title="PREMIUM",CINECANAL MX
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL MX" tvg-logo="https://seeklogo.com/images/C/Cinecanal-logo-C68A0CF747-seeklogo.com.png" group-title="PREMIUM",CINECANAL MX
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31015
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="" group-title="PREMIUM",CINECANAL HD
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="https://seeklogo.com/images/C/Cinecanal-logo-C68A0CF747-seeklogo.com.png" group-title="PREMIUM",CINECANAL HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/43190
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL ARG" tvg-logo="" group-title="PREMIUM",CINECANAL ARG
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL ARG" tvg-logo="https://seeklogo.com/images/C/Cinecanal-logo-C68A0CF747-seeklogo.com.png" group-title="PREMIUM",CINECANAL ARG
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31016
-#EXTINF:-1 tvg-id="" tvg-name="FX  HD" tvg-logo="" group-title="PREMIUM",FX  HD
+#EXTINF:-1 tvg-id="" tvg-name="FX  HD" tvg-logo="https://www.pngkey.com/png/detail/302-3027373_fx-hd-logo-fx-hd-channel-logo.png" group-title="PREMIUM",FX  HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/77
-#EXTINF:-1 tvg-id="" tvg-name="FXM " tvg-logo="" group-title="PREMIUM",FXM 
+#EXTINF:-1 tvg-id="" tvg-name="FXM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="PREMIUM",FXM 
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31020
 #EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="" group-title="PREMIUM",SONY CHANNEL
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31024
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="" group-title="PREMIUM",WARNER TV
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/1200px-Warner_TV_logo.svg.png" group-title="PREMIUM",WARNER TV
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31026
-#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="PREMIUM",WARNER HD
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/1200px-Warner_Channel_HD.svg.png" group-title="PREMIUM",WARNER HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31027
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" group-title="PREMIUM",UNIVERSAL CHANNEL HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31028
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="" group-title="PREMIUM",STUDIO UNIVERSAL FHD
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png" group-title="PREMIUM",STUDIO UNIVERSAL FHD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31029
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="PREMIUM",AXN FHD
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="PREMIUM",AXN FHD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31032
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="PREMIUM",AXN HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31033
@@ -99,44 +101,42 @@ http://futboldirectotv.xyz:8080/josue2022/BNKYK/31033
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31034
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="PREMIUM",A&E HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31035
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="" group-title="PREMIUM",GOLDEN PREMIER
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="PREMIUM",GOLDEN PREMIER
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31040
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="" group-title="PREMIUM",GOLDEN EDGE
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/640px-Golden_Edge_Logo_2020.png" group-title="PREMIUM",GOLDEN EDGE
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31041
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="" group-title="PREMIUM",GOLDEN EDGE
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/640px-Golden_Edge_Logo_2020.png" group-title="PREMIUM",GOLDEN EDGE
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/164043
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="PREMIUM",PARAMOUNT CHANNEL SD
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-3.png" group-title="PREMIUM",PARAMOUNT CHANNEL SD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31042
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL SUR HD" tvg-logo="" group-title="PREMIUM",PARAMOUNT CHANNEL SUR HD
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL SUR HD" tvg-logo="https://img1.freepng.es/20180610/sqa/kisspng-paramount-pictures-paramount-channel-television-ch-5b1dcd035dcf66.8906802315286796833843.jpg" group-title="PREMIUM",PARAMOUNT CHANNEL SUR HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31261
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULAS PLUS" tvg-logo="" group-title="PREMIUM",DE PELICULAS PLUS
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULAS PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/DePeliculaHD-1.png/revision/latest?cb=20171205221002" group-title="PREMIUM",DE PELICULAS PLUS
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31044
-#EXTINF:-1 tvg-id="" tvg-name="CINE LEGO HD" tvg-logo="" group-title="PREMIUM",CINE LEGO HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE LEGO HD" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0b/300px-LEGO_logo.svg.png/revision/latest?cb=20140502213549&path-prefix=es" group-title="PREMIUM",CINE LEGO HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31046
-#EXTINF:-1 tvg-id="" tvg-name="CINE DC FILM HD" tvg-logo="" group-title="PREMIUM",CINE DC FILM HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE DC FILM HD" tvg-logo="https://www.kindpng.com/picc/m/433-4335002_dc-films-logo-png-png-download-dc-films.png" group-title="PREMIUM",CINE DC FILM HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31246
-#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="" group-title="PREMIUM",AMC FHD
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="PREMIUM",AMC FHD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31247
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="PREMIUM",AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="PREMIUM",AMC HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31257
-#EXTINF:-1 tvg-id="" tvg-name="CINELATINO" tvg-logo="" group-title="PREMIUM",CINELATINO
+#EXTINF:-1 tvg-id="" tvg-name="CINELATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/640px-Cinelatino_logo.png" group-title="PREMIUM",CINELATINO
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31249
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="PREMIUM",SYFY
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31256
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DHE HD" tvg-logo="" group-title="PREMIUM",CANAL DHE HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png" group-title="PREMIUM",CANAL DHE HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31260
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA CLASICO" tvg-logo="" group-title="PREMIUM",DE PELICULA CLASICO
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA CLASICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/De_Película_Clásico_2011.png/revision/latest?cb=20191216011513&path-prefix=es" group-title="PREMIUM",DE PELICULA CLASICO
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/109986
-#EXTINF:-1 tvg-id="" tvg-name="HORRORFY" tvg-logo="" group-title="PREMIUM",HORRORFY
+#EXTINF:-1 tvg-id="" tvg-name="HORRORFY" tvg-logo="https://uspto.report/TM/90216993/APP20201001122244/2.jpeg" group-title="PREMIUM",HORRORFY
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/109989
-#EXTINF:-1 tvg-id="" tvg-name="TOP CINE" tvg-logo="" group-title="PREMIUM",TOP CINE
+#EXTINF:-1 tvg-id="" tvg-name="TOP CINE" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/topcine.png" group-title="PREMIUM",TOP CINE
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/109991
-#EXTINF:-1 tvg-id="" tvg-name="CINE SUR" tvg-logo="" group-title="PREMIUM",CINE SUR
+#EXTINF:-1 tvg-id="" tvg-name="CINE SUR" tvg-logo="https://www.elingenio.es/wp-content/uploads/2018/09/cinesur-ok.png" group-title="PREMIUM",CINE SUR
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/109992
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="PREMIUM",TCM
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31038
-#EXTINF:-1 tvg-id="" tvg-name="TNT MX" tvg-logo="" group-title="PREMIUM",TNT MX
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/164030
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES AR HD" tvg-logo="" group-title="PREMIUM",TNT SERIES AR HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/164031
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES MX" tvg-logo="" group-title="PREMIUM",TNT SERIES MX
