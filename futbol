@@ -521,69 +521,67 @@ http://futboldirectotv.xyz:8080/josue2022/BNKYK/158040
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/196085
 #EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png" group-title="ESPAÑA",TOROS TV
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/196452
-#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="" group-title="COLOMBIA",NTN24
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/31358
-#EXTINF:-1 tvg-id="" tvg-name="RCN FHD" tvg-logo="" group-title="COLOMBIA",RCN FHD
+#EXTINF:-1 tvg-id="" tvg-name="RCN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG" group-title="COLOMBIA",RCN FHD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31359
-#EXTINF:-1 tvg-id="" tvg-name="TELE CARIBE HD" tvg-logo="" group-title="COLOMBIA",TELE CARIBE HD
+#EXTINF:-1 tvg-id="" tvg-name="TELE CARIBE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Telecaribe_HD.png/revision/latest/scale-to-width-down/250?cb=20210212025636&path-prefix=es" group-title="COLOMBIA",TELE CARIBE HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31361
-#EXTINF:-1 tvg-id="" tvg-name="RCN INTERNACIONAL" tvg-logo="" group-title="COLOMBIA",RCN INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="RCN INTERNACIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest/scale-to-width-down/200?cb=20210307132823&path-prefix=es" group-title="COLOMBIA",RCN INTERNACIONAL
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31363
-#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO" tvg-logo="" group-title="COLOMBIA",CANAL UNO
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_de_canal_uno_colombia.png" group-title="COLOMBIA",CANAL UNO
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31364
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 12 HD" tvg-logo="" group-title="COLOMBIA",CANAL 12 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="COLOMBIA",CANAL 12 HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31365
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL INTERNACIONAL HD" tvg-logo="" group-title="COLOMBIA",CARACOL INTERNACIONAL HD
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL INTERNACIONAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Caracol_Internacional_2017.png/1200px-Caracol_Internacional_2017.png" group-title="COLOMBIA",CARACOL INTERNACIONAL HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31368
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL SD" tvg-logo="" group-title="COLOMBIA",CARACOL SD
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL SD" tvg-logo="https://seeklogo.com/images/C/caracol-tv-hd-logo-58BA9B432D-seeklogo.com.png" group-title="COLOMBIA",CARACOL SD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31369
-#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="" group-title="COLOMBIA",RCN HD
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/RCN_TV_%282019_Corporate%29.svg/revision/latest/scale-to-width-down/250?cb=20210426191735&path-prefix=es" group-title="COLOMBIA",RCN HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31370
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV  FHD" tvg-logo="" group-title="COLOMBIA",CITY TV  FHD
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Citytv_HD_logo.svg/1280px-Citytv_HD_logo.svg.png" group-title="COLOMBIA",CITY TV  FHD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31373
-#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA HD" tvg-logo="" group-title="COLOMBIA",TELEANTIOQUIA HD
+#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHmvYnaprMfGuApC38MzF5fg7XmoslFRoNvsMpchiTm3bR5aTClDQRKGfdOscCCPtYTY0&usqp=CAU" group-title="COLOMBIA",TELEANTIOQUIA HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31377
-#EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL" tvg-logo="" group-title="COLOMBIA",CANAL CAPITAL
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL" tvg-logo="CANAL CAPITAL" group-title="COLOMBIA",CANAL CAPITAL
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31378
-#EXTINF:-1 tvg-id="" tvg-name="CALI TV" tvg-logo="" group-title="COLOMBIA",CALI TV
+#EXTINF:-1 tvg-id="" tvg-name="CALI TV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png" group-title="COLOMBIA",CALI TV
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31380
-#EXTINF:-1 tvg-id="" tvg-name="CANAL INSTITUCIONAL HD" tvg-logo="" group-title="COLOMBIA",CANAL INSTITUCIONAL HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL INSTITUCIONAL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Canal_Institucional.png/revision/latest?cb=20171010231030" group-title="COLOMBIA",CANAL INSTITUCIONAL HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31382
-#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="" group-title="COLOMBIA",SENAL COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Señal_Colombia_logo.svg/1200px-Señal_Colombia_logo.svg.png" group-title="COLOMBIA",SENAL COLOMBIA
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31383
-#EXTINF:-1 tvg-id="" tvg-name="LA KALLE HD" tvg-logo="" group-title="COLOMBIA",LA KALLE HD
+#EXTINF:-1 tvg-id="" tvg-name="LA KALLE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20170521015524" group-title="COLOMBIA",LA KALLE HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31387
-#EXTINF:-1 tvg-id="" tvg-name="CANAL TRO HD" tvg-logo="" group-title="COLOMBIA",CANAL TRO HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL TRO HD" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/640px-Canal_tro_logo.PNGCANAL TRO HD" group-title="COLOMBIA",CANAL TRO HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31391
-#EXTINF:-1 tvg-id="" tvg-name="CANAL TRECE HD" tvg-logo="" group-title="COLOMBIA",CANAL TRECE HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL TRECE HD" tvg-logo="https://pbs.twimg.com/profile_images/1162015062145536000/C5OeXuqg_400x400.jpg" group-title="COLOMBIA",CANAL TRECE HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/31393
-#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS SD" tvg-logo="" group-title="COLOMBIA",RCN NOVELAS SD
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/640px-RCN_Novelas_logo_2019.png" group-title="COLOMBIA",RCN NOVELAS SD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/33395
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS " tvg-logo="" group-title="COLOMBIA",WIN SPORTS 
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS " tvg-logo="https://www.winsports.co/themes/custom/tailwindcss/images/logos/WIN-SPORTS-CO-03.png" group-title="COLOMBIA",WIN SPORTS 
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/38815
-#EXTINF:-1 tvg-id="" tvg-name="AVIVAMIENTO " tvg-logo="" group-title="COLOMBIA",AVIVAMIENTO 
+#EXTINF:-1 tvg-id="" tvg-name="AVIVAMIENTO " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Avivamiento-TV-en-vivo-Online.png" group-title="COLOMBIA",AVIVAMIENTO 
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/61885
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 2" tvg-logo="" group-title="COLOMBIA",CANAL 2
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/1200px-Canal_2_logo.svg.png" group-title="COLOMBIA",CANAL 2
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/61887
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DOCE " tvg-logo="" group-title="COLOMBIA",CANAL DOCE 
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DOCE " tvg-logo="https://play-lh.googleusercontent.com/suo7_B6t8nukCHRlKrp3_eNlhzy1oUWaCfZ5KWlws6vtSxeCohM-CQsKRTVujq5GDPQ" group-title="COLOMBIA",CANAL DOCE 
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/61892
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL FHD" tvg-logo="" group-title="COLOMBIA",CARACOL FHD
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisión_%282012-2015%29.png" group-title="COLOMBIA",CARACOL FHD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/61894
-#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE DEPORTES 2" tvg-logo="" group-title="COLOMBIA",TELECARIBE DEPORTES 2
+#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE DEPORTES 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest/scale-to-width-down/200?cb=20210517024300&path-prefix=es" group-title="COLOMBIA",TELECARIBE DEPORTES 2
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/61904
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACÃ­FICO" tvg-logo="" group-title="COLOMBIA",TELEPACÃ­FICO
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACÃ­FICO" tvg-logo="https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png" group-title="COLOMBIA",TELEPACÃ­FICO
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/61906
-#EXTINF:-1 tvg-id="" tvg-name="TV GRACIA " tvg-logo="" group-title="COLOMBIA",TV GRACIA 
+#EXTINF:-1 tvg-id="" tvg-name="TV GRACIA " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f32a1c956800177820c39e03ede7c759.webp" group-title="COLOMBIA",TV GRACIA 
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/61907
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS +" tvg-logo="" group-title="COLOMBIA",WIN SPORTS +
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS +" tvg-logo="https://www.casablancasports.com/wp-content/uploads/2021/01/Win-Sports-Win-Sports-Normal-Raiting-1.jpg" group-title="COLOMBIA",WIN SPORTS +
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/68891
-#EXTINF:-1 tvg-id="" tvg-name="CABLE NOTICIAS" tvg-logo="" group-title="COLOMBIA",CABLE NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-name="CABLE NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA",CABLE NOTICIAS
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/84868
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD" tvg-logo="" group-title="COLOMBIA",CARACOL HD
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20170516011642" group-title="COLOMBIA",CARACOL HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/159809
-#EXTINF:-1 tvg-id="" tvg-name="MULTI CANAL TVCALI" tvg-logo="" group-title="COLOMBIA",MULTI CANAL TVCALI
+#EXTINF:-1 tvg-id="" tvg-name="MULTI CANAL TVCALI" tvg-logo="https://i0.wp.com/multicanaltvcali.com/wp-content/uploads/2018/07/logo400.png?resize=400%2C400" group-title="COLOMBIA",MULTI CANAL TVCALI
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/196435
-#EXTINF:-1 tvg-id="" tvg-name="CANAL CALI" tvg-logo="" group-title="COLOMBIA",CANAL CALI
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CALI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_CaliTV.png/360px-Logo_CaliTV.png" group-title="COLOMBIA",CANAL CALI
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/196436
 #EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="" group-title="CULTURA",H2 HD
 http://futboldirectotv.xyz:8080/josue2022/BNKYK/75512
