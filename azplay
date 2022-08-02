@@ -1,0 +1,2041 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="Teleamazonas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas HD
+http://azplay.ddns.me:33200/derek1/derek1/2385
+#EXTINF:-1 tvg-id="" tvg-name="TC Television HD" tvg-logo="https://radiosecuador.sfo2.digitaloceanspaces.com/tvenvivoecuador/canal/tc.png" group-title="ECUADOR",TC Television HD
+http://azplay.ddns.me:33200/derek1/derek1/103
+#EXTINF:-1 tvg-id="I183.46318.schedulesdirect.org" tvg-name="Gama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",Gama TV
+http://azplay.ddns.me:33200/derek1/derek1/2383
+#EXTINF:-1 tvg-id="" tvg-name="Canela TV" tvg-logo="http://www.forosecuador.ec/imgfe/ver-canela-tv-en-vivo-online.jpg" group-title="ECUADOR",Canela TV
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1002564163.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa HD" tvg-logo="https://d2r89ls1uje5rg.cloudfront.net/sites/default/files/noticias/ecuavisa_0.jpg" group-title="ECUADOR",Ecuavisa HD
+http://azplay.ddns.me:33200/derek1/derek1/2382
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/EcuadorTV-Vertical.png/revision/latest?cb=20171202010639" group-title="ECUADOR",Ecuador TV
+http://azplay.ddns.me:33200/derek1/derek1/2381
+#EXTINF:-1 tvg-id="" tvg-name="Hechos" tvg-logo="https://pbs.twimg.com/profile_images/1054001649507807232/_Ckj9Z0__400x400.jpg" group-title="ECUADOR",Hechos
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oromar TV " tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR",Oromar TV 
+http://azplay.ddns.me:33200/derek1/derek1/2384
+#EXTINF:-1 tvg-id="" tvg-name="RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS HD
+http://azplay.ddns.me:33200/derek1/derek1/102
+#EXTINF:-1 tvg-id="" tvg-name="Canal UNO " tvg-logo="https://lh6.googleusercontent.com/-5noHuNdiw4o/Tw5TXXC6R0I/AAAAAAAAAjk/EZBL0KrA9r8/s255/UNO-n.jpg" group-title="ECUADOR",Canal UNO 
+http://azplay.ddns.me:33200/derek1/derek1/2379
+#EXTINF:-1 tvg-id="" tvg-name="Televicentro TVC HD" tvg-logo="https://3.bp.blogspot.com/-hFhNVAiHE94/W0xwnAiM8YI/AAAAAAAAGYk/tqwkNCTwvpUuaVZtXoddv7Gn07eVdNCRgCLcBGAs/w700-h400-p-k-no-nu/TVC+en+vivo+ecuador.jpg" group-title="ECUADOR",Televicentro TVC HD
+http://azplay.ddns.me:33200/derek1/derek1/2386
+#EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E" tvg-logo="https://vignette.wikia.nocookie.net/newlogosfake/images/7/7e/A%26E_Network_2004.png" group-title="CINE",A&E
+http://azplay.ddns.me:33200/derek1/derek1/7046
+#EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E HD" tvg-logo="https://vignette.wikia.nocookie.net/newlogosfake/images/7/7e/A%26E_Network_2004.png" group-title="CINE",A&E HD
+http://azplay.ddns.me:33200/derek1/derek1/2432
+#EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E FHD" tvg-logo="https://vignette.wikia.nocookie.net/newlogosfake/images/7/7e/A%26E_Network_2004.png" group-title="CINE",A&E FHD
+http://azplay.ddns.me:33200/derek1/derek1/2667
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/640px-AMC_logo_2016.png" group-title="CINE",AMC
+http://azplay.ddns.me:33200/derek1/derek1/7047
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/640px-AMC_logo_2016.png" group-title="CINE",AMC HD
+http://azplay.ddns.me:33200/derek1/derek1/2619
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/640px-AMC_logo_2016.png" group-title="CINE",AMC FHD
+http://azplay.ddns.me:33200/derek1/derek1/2668
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/axn.png" group-title="CINE",AXN
+http://azplay.ddns.me:33200/derek1/derek1/7048
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/axn.png" group-title="CINE",AXN HD
+http://azplay.ddns.me:33200/derek1/derek1/2620
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN FHD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/axn.png" group-title="CINE",AXN FHD
+http://azplay.ddns.me:33200/derek1/derek1/2669
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="AXN White HD" tvg-logo="https://i.ibb.co/XW1fnH3/axn-white.jpg" group-title="CINE",AXN White HD
+http://azplay.ddns.me:33200/derek1/derek1/29513
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="Cinecanal" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinecanal.png" group-title="CINE",Cinecanal
+http://azplay.ddns.me:33200/derek1/derek1/7054
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="Cinecanal HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinecanal.png" group-title="CINE",Cinecanal HD
+http://azplay.ddns.me:33200/derek1/derek1/2622
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="Cinecanal FHD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinecanal.png" group-title="CINE",Cinecanal FHD
+http://azplay.ddns.me:33200/derek1/derek1/2670
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Cinemax " tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinemax.png" group-title="CINE",Cinemax 
+http://azplay.ddns.me:33200/derek1/derek1/2623
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Cinemax HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinemax.png" group-title="CINE",Cinemax HD
+http://azplay.ddns.me:33200/derek1/derek1/7059
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax FHD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinemax.png" group-title="CINE",Cinemax FHD
+http://azplay.ddns.me:33200/derek1/derek1/50833
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="CINE",Cine Latino
+http://azplay.ddns.me:33200/derek1/derek1/49062
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png" group-title="CINE",Cinema Dinamita
+http://azplay.ddns.me:33200/derek1/derek1/49384
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family" tvg-logo="https://i.pinimg.com/564x/85/28/a7/8528a75f13fbf7c4482ac68007abfd8e.jpg" group-title="CINE",Cinema Disney Family
+http://azplay.ddns.me:33200/derek1/derek1/48949
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="CINE",Cinema Disney Pixar
+http://azplay.ddns.me:33200/derek1/derek1/49063
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia " tvg-logo="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" group-title="CINE",Cinema Familia 
+http://azplay.ddns.me:33200/derek1/derek1/6883
+#EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="CINE",Canal Hollywood
+http://azplay.ddns.me:33200/derek1/derek1/29483
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_De_Pelicula.png" group-title="CINE",De Película
+http://azplay.ddns.me:33200/derek1/derek1/2624
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_De_Pelicula.png" group-title="CINE",De Película Plus
+http://azplay.ddns.me:33200/derek1/derek1/2625
+#EXTINF:-1 tvg-id="EuropaEuropa.uk" tvg-name="Europa Europa " tvg-logo="https://www.lincolnonline.com.ar/archivos/tv/184.png" group-title="CINE",Europa Europa 
+http://azplay.ddns.me:33200/derek1/derek1/2626
+#EXTINF:-1 tvg-id="FilmArtsAmericaLatina.ar" tvg-name="Film & Arts HD" tvg-logo="http://1.bp.blogspot.com/_YkZZPo1aKZU/St0Z_LWhnvI/AAAAAAAALJw/mHFmlgr1Cf0/s400/film_arts.jpg" group-title="CINE",Film & Arts HD
+http://azplay.ddns.me:33200/derek1/derek1/2627
+#EXTINF:-1 tvg-id="FXAndina.us" tvg-name="FX" tvg-logo="https://vignette.wikia.nocookie.net/iceagefanon/images/d/d7/Fx-logo.png/revision/latest?cb=20151205215619" group-title="CINE",FX
+http://azplay.ddns.me:33200/derek1/derek1/30432
+#EXTINF:-1 tvg-id="FXAndina.us" tvg-name="FX HD" tvg-logo="https://vignette.wikia.nocookie.net/iceagefanon/images/d/d7/Fx-logo.png/revision/latest?cb=20151205215619" group-title="CINE",FX HD
+http://azplay.ddns.me:33200/derek1/derek1/2636
+#EXTINF:-1 tvg-id="FXChile.cl" tvg-name="FX FHD" tvg-logo="https://vignette.wikia.nocookie.net/iceagefanon/images/d/d7/Fx-logo.png/revision/latest?cb=20151205215619" group-title="CINE",FX FHD
+http://azplay.ddns.me:33200/derek1/derek1/50834
+#EXTINF:-1 tvg-id="GoldenLatinAmerica.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/180px-Logo_Golden_TV.svg.png" group-title="CINE",Golden
+http://azplay.ddns.me:33200/derek1/derek1/2638
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="http://1.bp.blogspot.com/-3h0AASjOe10/VbVd3tZ5JrI/AAAAAAAAESA/uX-yz5HDPmA/s1600/GOLDEN%2BEDGE.png" group-title="CINE",Golden Edge
+http://azplay.ddns.me:33200/derek1/derek1/2639
+#EXTINF:-1 tvg-id="GoldenLatinAmerica.mx" tvg-name="Golden Plus" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE",Golden Plus
+http://azplay.ddns.me:33200/derek1/derek1/2640
+#EXTINF:-1 tvg-id="GoldenLatinAmerica.mx" tvg-name="Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",Golden Premier
+http://azplay.ddns.me:33200/derek1/derek1/49061
+#EXTINF:-1 tvg-id="HBOChile.cl" tvg-name="HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO
+http://azplay.ddns.me:33200/derek1/derek1/7010
+#EXTINF:-1 tvg-id="HBOChile.cl" tvg-name="HBO HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO HD
+http://azplay.ddns.me:33200/derek1/derek1/2642
+#EXTINF:-1 tvg-id="HBOChile.cl" tvg-name="HBO FHD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO FHD
+http://azplay.ddns.me:33200/derek1/derek1/2676
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO 2
+http://azplay.ddns.me:33200/derek1/derek1/7011
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO 2 HD
+http://azplay.ddns.me:33200/derek1/derek1/2643
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 FHD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO 2 FHD
+http://azplay.ddns.me:33200/derek1/derek1/2677
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Family
+http://azplay.ddns.me:33200/derek1/derek1/7013
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Family HD
+http://azplay.ddns.me:33200/derek1/derek1/2644
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family FHD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Family FHD
+http://azplay.ddns.me:33200/derek1/derek1/6509
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi " tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Mundi 
+http://azplay.ddns.me:33200/derek1/derek1/15618
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi  HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Mundi  HD
+http://azplay.ddns.me:33200/derek1/derek1/30415
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi FHD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Mundi FHD
+http://azplay.ddns.me:33200/derek1/derek1/39810
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO Plus" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Plus
+http://azplay.ddns.me:33200/derek1/derek1/7012
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO Plus HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Plus HD
+http://azplay.ddns.me:33200/derek1/derek1/2645
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO Plus FHD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Plus FHD
+http://azplay.ddns.me:33200/derek1/derek1/2678
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop " tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Pop 
+http://azplay.ddns.me:33200/derek1/derek1/15619
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="HBO Pop HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Pop HD
+http://azplay.ddns.me:33200/derek1/derek1/30416
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop FHD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Pop FHD
+http://azplay.ddns.me:33200/derek1/derek1/50829
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="HBO Signature" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Signature
+http://azplay.ddns.me:33200/derek1/derek1/7014
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO Signature HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Signature HD
+http://azplay.ddns.me:33200/derek1/derek1/2646
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO Signature FHD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Signature FHD
+http://azplay.ddns.me:33200/derek1/derek1/6510
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Xtreme
+http://azplay.ddns.me:33200/derek1/derek1/30625
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Xtreme HD
+http://azplay.ddns.me:33200/derek1/derek1/2695
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme fHD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Xtreme fHD
+http://azplay.ddns.me:33200/derek1/derek1/39811
+#EXTINF:-1 tvg-id="I520.69073.schedulesdirect.org" tvg-name="Movistar Cine" tvg-logo="" group-title="CINE",Movistar Cine
+http://azplay.ddns.me:33200/derek1/derek1/2647
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 1
+http://azplay.ddns.me:33200/derek1/derek1/51451
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 2
+http://azplay.ddns.me:33200/derek1/derek1/51452
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 3
+http://azplay.ddns.me:33200/derek1/derek1/51453
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 4
+http://azplay.ddns.me:33200/derek1/derek1/51454
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 5
+http://azplay.ddns.me:33200/derek1/derek1/51455
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 6
+http://azplay.ddns.me:33200/derek1/derek1/51456
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 7
+http://azplay.ddns.me:33200/derek1/derek1/51457
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 8
+http://azplay.ddns.me:33200/derek1/derek1/51458
+#EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="CINE",Orbit TV
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w1201192380.m3u8
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-name="Paramount Channel" tvg-logo="https://i.ya-webdesign.com/images/paramount-pictures-logo-png-14.png" group-title="CINE",Paramount Channel
+http://azplay.ddns.me:33200/derek1/derek1/4884
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-name="Paramount Channel HD" tvg-logo="https://i.ya-webdesign.com/images/paramount-pictures-logo-png-14.png" group-title="CINE",Paramount Channel HD
+http://azplay.ddns.me:33200/derek1/derek1/30626
+#EXTINF:-1 tvg-id="" tvg-name="Panico Tv" tvg-logo="https://i.ibb.co/1fCF2yZ/10449923-671832862898253-3650884333216094980-n.jpg" group-title="CINE",Panico Tv
+http://azplay.ddns.me:33200/derek1/derek1/27625
+#EXTINF:-1 tvg-id="" tvg-name="Plex Indie" tvg-logo="https://i.postimg.cc/pXnNZzXr/plex.jpg" group-title="CINE",Plex Indie
+http://azplay.ddns.me:33200/derek1/derek1/7001
+#EXTINF:-1 tvg-id="" tvg-name="Plex Movie" tvg-logo="https://i.postimg.cc/pXnNZzXr/plex.jpg" group-title="CINE",Plex Movie
+http://azplay.ddns.me:33200/derek1/derek1/7002
+#EXTINF:-1 tvg-id="" tvg-name="Plex Retro" tvg-logo="https://i.postimg.cc/pXnNZzXr/plex.jpg" group-title="CINE",Plex Retro
+http://azplay.ddns.me:33200/derek1/derek1/7003
+#EXTINF:-1 tvg-id="StarChannelChile.cl" tvg-name="Star Channel" tvg-logo="https://i.postimg.cc/Y0KsKMk5/st-ch.png" group-title="CINE",Star Channel
+http://azplay.ddns.me:33200/derek1/derek1/7015
+#EXTINF:-1 tvg-id="StarChannelChile.cl" tvg-name="Star Channel HD" tvg-logo="https://i.postimg.cc/Y0KsKMk5/st-ch.png" group-title="CINE",Star Channel HD
+http://azplay.ddns.me:33200/derek1/derek1/2628
+#EXTINF:-1 tvg-id="StarChannelChile.cl" tvg-name="Star Channel FHD" tvg-logo="https://i.postimg.cc/Y0KsKMk5/st-ch.png" group-title="CINE",Star Channel FHD
+http://azplay.ddns.me:33200/derek1/derek1/2671
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="Sony " tvg-logo="https://la.sonychannel.com/sites/all/themes/responsive/responsive_sony_channel/logo.png" group-title="CINE",Sony 
+http://azplay.ddns.me:33200/derek1/derek1/2648
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="Sony HD" tvg-logo="https://la.sonychannel.com/sites/all/themes/responsive/responsive_sony_channel/logo.png" group-title="CINE",Sony HD
+http://azplay.ddns.me:33200/derek1/derek1/30414
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="Sony FHD" tvg-logo="https://la.sonychannel.com/sites/all/themes/responsive/responsive_sony_channel/logo.png" group-title="CINE",Sony FHD
+http://azplay.ddns.me:33200/derek1/derek1/32655
+#EXTINF:-1 tvg-id="" tvg-name="Sony Cine" tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg" group-title="CINE",Sony Cine
+http://azplay.ddns.me:33200/derek1/derek1/52273
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="Space" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="CINE",Space
+http://azplay.ddns.me:33200/derek1/derek1/47856
+#EXTINF:-1 tvg-id="SpaceSur.ar" tvg-name="Space HD" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="CINE",Space HD
+http://azplay.ddns.me:33200/derek1/derek1/2649
+#EXTINF:-1 tvg-id="SpaceSur.ar" tvg-name="Space FHD" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="CINE",Space FHD
+http://azplay.ddns.me:33200/derek1/derek1/2679
+#EXTINF:-1 tvg-id="StudioUniversalArgentina.ar" tvg-name="Studio Universal " tvg-logo="http://3.bp.blogspot.com/-KDeHIqXKzfQ/ThNLgA6wOlI/AAAAAAAAPyE/W9XoHa0HkuU/s1600/studiouniversal.png" group-title="CINE",Studio Universal 
+http://azplay.ddns.me:33200/derek1/derek1/2658
+#EXTINF:-1 tvg-id="StudioUniversalArgentina.ar" tvg-name="Studio Universal HD" tvg-logo="http://3.bp.blogspot.com/-KDeHIqXKzfQ/ThNLgA6wOlI/AAAAAAAAPyE/W9XoHa0HkuU/s1600/studiouniversal.png" group-title="CINE",Studio Universal HD
+http://azplay.ddns.me:33200/derek1/derek1/30627
+#EXTINF:-1 tvg-id="SyfyLatin.us" tvg-name="Syfy" tvg-logo="https://www.ad-plus.com/v2017/wp-content/uploads/2017/06/Syfy_w.png" group-title="CINE",Syfy
+http://azplay.ddns.me:33200/derek1/derek1/2660
+#EXTINF:-1 tvg-id="SyfyLatin.us" tvg-name="Syfy HD" tvg-logo="https://www.ad-plus.com/v2017/wp-content/uploads/2017/06/Syfy_w.png" group-title="CINE",Syfy HD
+http://azplay.ddns.me:33200/derek1/derek1/30628
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 1" tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="CINE",Showtime 1
+http://azplay.ddns.me:33200/derek1/derek1/14135
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2" tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="CINE",Showtime 2
+http://azplay.ddns.me:33200/derek1/derek1/14716
+#EXTINF:-1 tvg-id="" tvg-name="Showtime West " tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="CINE",Showtime West 
+http://azplay.ddns.me:33200/derek1/derek1/14717
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Beyond" tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="CINE",Showtime Beyond
+http://azplay.ddns.me:33200/derek1/derek1/30725
+#EXTINF:-1 tvg-id="" tvg-name="Showtime East " tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="CINE",Showtime East 
+http://azplay.ddns.me:33200/derek1/derek1/30726
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Extreme " tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="CINE",Showtime Extreme 
+http://azplay.ddns.me:33200/derek1/derek1/30727
+#EXTINF:-1 tvg-id="" tvg-name="Starz Action " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Action 
+http://azplay.ddns.me:33200/derek1/derek1/2654
+#EXTINF:-1 tvg-id="" tvg-name="Starz Black " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Black 
+http://azplay.ddns.me:33200/derek1/derek1/6884
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Cinema 
+http://azplay.ddns.me:33200/derek1/derek1/2650
+#EXTINF:-1 tvg-id="" tvg-name="Starz Classic " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Classic 
+http://azplay.ddns.me:33200/derek1/derek1/2655
+#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Comedy 
+http://azplay.ddns.me:33200/derek1/derek1/2651
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Edge 
+http://azplay.ddns.me:33200/derek1/derek1/2652
+#EXTINF:-1 tvg-id="" tvg-name="Starz Este " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Este 
+http://azplay.ddns.me:33200/derek1/derek1/6887
+#EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Kids & Family 
+http://azplay.ddns.me:33200/derek1/derek1/2653
+#EXTINF:-1 tvg-id="" tvg-name="Starz Oeste HD" tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Oeste HD
+http://azplay.ddns.me:33200/derek1/derek1/6886
+#EXTINF:-1 tvg-id="" tvg-name="Starz Suspense " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Suspense 
+http://azplay.ddns.me:33200/derek1/derek1/2656
+#EXTINF:-1 tvg-id="" tvg-name="Starz Western HD" tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Western HD
+http://azplay.ddns.me:33200/derek1/derek1/2657
+#EXTINF:-1 tvg-id="TBSAmericaLatina.us" tvg-name="TBS Very Funny " tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tbs.png" group-title="CINE",TBS Very Funny 
+http://azplay.ddns.me:33200/derek1/derek1/2661
+#EXTINF:-1 tvg-id="TCMArgentina.ar" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE",TCM
+http://azplay.ddns.me:33200/derek1/derek1/2662
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CINE",TNT
+http://azplay.ddns.me:33200/derek1/derek1/6350
+#EXTINF:-1 tvg-id="TNTArgentina.ar" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CINE",TNT HD
+http://azplay.ddns.me:33200/derek1/derek1/2663
+#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CINE",TNT FHD
+http://azplay.ddns.me:33200/derek1/derek1/2680
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="CINE",TNT Series
+http://azplay.ddns.me:33200/derek1/derek1/7053
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="CINE",TNT Series HD
+http://azplay.ddns.me:33200/derek1/derek1/2664
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNT Series FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="CINE",TNT Series FHD
+http://azplay.ddns.me:33200/derek1/derek1/2681
+#EXTINF:-1 tvg-id="" tvg-name="Trailer TV" tvg-logo="https://i.postimg.cc/Hs2LG3wR/tra-tv.png" group-title="CINE",Trailer TV
+http://azplay.ddns.me:33200/derek1/derek1/3616
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Kidz" tvg-logo="https://i.postimg.cc/YCwmfMmq/hqdefault.jpg" group-title="CINE",Ultra Kidz
+http://azplay.ddns.me:33200/derek1/derek1/23668
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine " tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCine_NLogo.png" group-title="CINE",Ultra Cine 
+http://azplay.ddns.me:33200/derek1/derek1/5688
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Familia " tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamilia_NLogo.png" group-title="CINE",Ultra Familia 
+http://azplay.ddns.me:33200/derek1/derek1/5691
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Film " tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFilm_NLogo.png" group-title="CINE",Ultra Film 
+http://azplay.ddns.me:33200/derek1/derek1/5687
+#EXTINF:-1 tvg-id="UniversalTVAmericaLatina.us" tvg-name="Universal Channel" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png" group-title="CINE",Universal Channel
+http://azplay.ddns.me:33200/derek1/derek1/7051
+#EXTINF:-1 tvg-id="UniversalTVAmericaLatina.us" tvg-name="Universal Channel HD" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png" group-title="CINE",Universal Channel HD
+http://azplay.ddns.me:33200/derek1/derek1/2665
+#EXTINF:-1 tvg-id="UniversalTVAmericaLatina.us" tvg-name="Universal Channel FHD" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png" group-title="CINE",Universal Channel FHD
+http://azplay.ddns.me:33200/derek1/derek1/7052
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CINE",Universal Cinema
+http://azplay.ddns.me:33200/derek1/derek1/50467
+#EXTINF:-1 tvg-id="I1559.70253.schedulesdirect.org" tvg-name="Universal Cinema 2" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CINE",Universal Cinema 2
+http://azplay.ddns.me:33200/derek1/derek1/50835
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="CINE",Universal Crime
+http://azplay.ddns.me:33200/derek1/derek1/50468
+#EXTINF:-1 tvg-id="I505.19787.schedulesdirect.org" tvg-name="Universal Crime 2" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="CINE",Universal Crime 2
+http://azplay.ddns.me:33200/derek1/derek1/2637
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="CINE",Universal Comedy
+http://azplay.ddns.me:33200/derek1/derek1/50469
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE",Universal Premiere
+http://azplay.ddns.me:33200/derek1/derek1/50470
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="CINE",Universal Reality
+http://azplay.ddns.me:33200/derek1/derek1/50466
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE",Warner Channel
+http://azplay.ddns.me:33200/derek1/derek1/7049
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE",Warner Channel HD
+http://azplay.ddns.me:33200/derek1/derek1/2666
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="Warner Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE",Warner Channel FHD
+http://azplay.ddns.me:33200/derek1/derek1/7050
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/animal_planet.png" group-title="CULTURA",Animal Planet
+http://azplay.ddns.me:33200/derek1/derek1/2454
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet FHD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/animal_planet.png" group-title="CULTURA",Animal Planet FHD
+http://azplay.ddns.me:33200/derek1/derek1/2685
+#EXTINF:-1 tvg-id="I166.45710.schedulesdirect.org" tvg-name="Aprende TV" tvg-logo="https://www.televisioneducativa.gob.mx/work/models/DGTVE/Template/resource/canales/img/aprende.png" group-title="CULTURA",Aprende TV
+http://azplay.ddns.me:33200/derek1/derek1/7
+#EXTINF:-1 tvg-id="" tvg-name="CGTN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="CULTURA",CGTN en Español
+http://azplay.ddns.me:33200/derek1/derek1/6
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Discovery Channel" tvg-logo="http://img1.wikia.nocookie.net/__cb20141027100430/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="CULTURA",Discovery Channel
+http://azplay.ddns.me:33200/derek1/derek1/2455
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel HD" tvg-logo="http://img1.wikia.nocookie.net/__cb20141027100430/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="CULTURA",Discovery Channel HD
+http://azplay.ddns.me:33200/derek1/derek1/2686
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel FHD" tvg-logo="http://img1.wikia.nocookie.net/__cb20141027100430/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="CULTURA",Discovery Channel FHD
+http://azplay.ddns.me:33200/derek1/derek1/30417
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Discovery_Civilization_2012.png/revision/latest/scale-to-width-down/400?cb=20190925150524&path-prefix=es" group-title="CULTURA",Discovery Civilization 
+http://azplay.ddns.me:33200/derek1/derek1/37281
+#EXTINF:-1 tvg-id="I382.46609.schedulesdirect.org" tvg-name="Discovery Civilization HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Discovery_Civilization_2012.png/revision/latest/scale-to-width-down/400?cb=20190925150524&path-prefix=es" group-title="CULTURA",Discovery Civilization HD
+http://azplay.ddns.me:33200/derek1/derek1/2456
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-name="Discovery Home & Health" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/h_h-logo-01.png" group-title="CULTURA",Discovery Home & Health
+http://azplay.ddns.me:33200/derek1/derek1/2457
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-name="Discovery Home & Health HD" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/h_h-logo-01.png" group-title="CULTURA",Discovery Home & Health HD
+http://azplay.ddns.me:33200/derek1/derek1/2687
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Discovery Investigation " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Idlogo2016.png" group-title="CULTURA",Discovery Investigation 
+http://azplay.ddns.me:33200/derek1/derek1/30608
+#EXTINF:-1 tvg-id="InvestigationDiscoverySur.us" tvg-name="Discovery Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Idlogo2016.png" group-title="CULTURA",Discovery Investigation HD
+http://azplay.ddns.me:33200/derek1/derek1/2458
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science " tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-discovery-science.png" group-title="CULTURA",Discovery Science 
+http://azplay.ddns.me:33200/derek1/derek1/30609
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science HD" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-discovery-science.png" group-title="CULTURA",Discovery Science HD
+http://azplay.ddns.me:33200/derek1/derek1/2459
+#EXTINF:-1 tvg-id="DiscoveryTheater.us" tvg-name="Discovery Theater" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es" group-title="CULTURA",Discovery Theater
+http://azplay.ddns.me:33200/derek1/derek1/38519
+#EXTINF:-1 tvg-id="TLCArgentina.ar" tvg-name="Discovery Theater HD" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es" group-title="CULTURA",Discovery Theater HD
+http://azplay.ddns.me:33200/derek1/derek1/2460
+#EXTINF:-1 tvg-id="DiscoveryTheater.us" tvg-name="Discovery Theater FHD" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es" group-title="CULTURA",Discovery Theater FHD
+http://azplay.ddns.me:33200/derek1/derek1/2688
+#EXTINF:-1 tvg-id="TLCArgentina.ar" tvg-name="Discovery TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png" group-title="CULTURA",Discovery TLC
+http://azplay.ddns.me:33200/derek1/derek1/2461
+#EXTINF:-1 tvg-id="TLCArgentina.ar" tvg-name="Discovery TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png" group-title="CULTURA",Discovery TLC HD
+http://azplay.ddns.me:33200/derek1/derek1/2689
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="CULTURA",Discovery Turbo
+http://azplay.ddns.me:33200/derek1/derek1/2462
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Discovery Turbo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="CULTURA",Discovery Turbo HD
+http://azplay.ddns.me:33200/derek1/derek1/2690
+#EXTINF:-1 tvg-id="DiscoveryHDWorldLatinAmerica.us" tvg-name="Discovery World " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",Discovery World 
+http://azplay.ddns.me:33200/derek1/derek1/30610
+#EXTINF:-1 tvg-id="DiscoveryHDWorldLatinAmerica.us" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",Discovery World HD
+http://azplay.ddns.me:33200/derek1/derek1/4891
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="CULTURA",H2
+http://azplay.ddns.me:33200/derek1/derek1/2463
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="H2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="CULTURA",H2 HD
+http://azplay.ddns.me:33200/derek1/derek1/50969
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="H2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="CULTURA",H2 FHD
+http://azplay.ddns.me:33200/derek1/derek1/30470
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History" tvg-logo="https://i.postimg.cc/C57MNtWL/histiry.png" group-title="CULTURA",History
+http://azplay.ddns.me:33200/derek1/derek1/7062
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="History HD" tvg-logo="https://i.postimg.cc/C57MNtWL/histiry.png" group-title="CULTURA",History HD
+http://azplay.ddns.me:33200/derek1/derek1/2464
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="History FHD" tvg-logo="https://i.postimg.cc/C57MNtWL/histiry.png" group-title="CULTURA",History FHD
+http://azplay.ddns.me:33200/derek1/derek1/2691
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.ibb.co/yFWQjGt/descarga.png" group-title="CULTURA",HGTV
+http://azplay.ddns.me:33200/derek1/derek1/30822
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD" tvg-logo="https://2.bp.blogspot.com/-WXbh7TcBGoo/W4WLHuVLzLI/AAAAAAABLvM/yUaNuY9jgaQ1tm44c1x_ScT0A3U15oudQCLcBGAs/s1600/brand_love-nature.jpg" group-title="CULTURA",Love Nature HD
+http://azplay.ddns.me:33200/derek1/derek1/51512
+#EXTINF:-1 tvg-id="NationalGeographicCentro.us" tvg-name="National Geographic (op.1)" tvg-logo="https://i.ibb.co/gzxhzPf/2560px-National-Geographic-Logo-svg.png" group-title="CULTURA",National Geographic (op.1)
+http://azplay.ddns.me:33200/derek1/derek1/2465
+#EXTINF:-1 tvg-id="NationalGeographicCentro.us" tvg-name="National Geographic (op.2)" tvg-logo="https://i.ibb.co/gzxhzPf/2560px-National-Geographic-Logo-svg.png" group-title="CULTURA",National Geographic (op.2)
+http://azplay.ddns.me:33200/derek1/derek1/30611
+#EXTINF:-1 tvg-id="NationalGeographicWildLatin.us" tvg-name="Nat Geo WILD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/nat_geo_wild.png" group-title="CULTURA",Nat Geo WILD
+http://azplay.ddns.me:33200/derek1/derek1/2466
+#EXTINF:-1 tvg-id="NationalGeographicWildLatin.us" tvg-name="Nat Geo WILD FHD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/nat_geo_wild.png" group-title="CULTURA",Nat Geo WILD FHD
+http://azplay.ddns.me:33200/derek1/derek1/2692
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="https://i.postimg.cc/PqcrMnXT/concert.png" group-title="MUSICA",Concert Channel
+http://azplay.ddns.me:33200/derek1/derek1/31212
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="Htv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/100px-Htv_logo.svg.png" group-title="MUSICA",Htv
+http://azplay.ddns.me:33200/derek1/derek1/14127
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://cdn130.picsart.com/261469776004212.png" group-title="MUSICA",MTV
+http://azplay.ddns.me:33200/derek1/derek1/30451
+#EXTINF:-1 tvg-id="I264.12712.schedulesdirect.org" tvg-name="MTV HD" tvg-logo="https://cdn130.picsart.com/261469776004212.png" group-title="MUSICA",MTV HD
+http://azplay.ddns.me:33200/derek1/derek1/2538
+#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="MTV Classic" tvg-logo="https://i.postimg.cc/59PFwYH5/mtv-classic.jpg" group-title="MUSICA",MTV Classic
+http://azplay.ddns.me:33200/derek1/derek1/16039
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="https://www.middelfart-antenneforening.dk/wp-content/uploads/2019/05/mtvhits-300x294.png" group-title="MUSICA",MTV Hits
+http://azplay.ddns.me:33200/derek1/derek1/2537
+#EXTINF:-1 tvg-id="I727.24214.schedulesdirect.org" tvg-name="MTV Live HD" tvg-logo="https://i.ibb.co/z5HNM0t/descarga.png" group-title="MUSICA",MTV Live HD
+http://azplay.ddns.me:33200/derek1/derek1/30877
+#EXTINF:-1 tvg-id="I1265.109487.schedulesdirect.org" tvg-name="Music Top" tvg-logo="https://i.postimg.cc/8c9pPnCm/musictop.png" group-title="MUSICA",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mundo De La Musica" tvg-logo="https://media.revistagq.com/photos/5ca60706f552a16a6832f739/master/pass/la_musica_del_fin_del_mundo_3965.JPG" group-title="MUSICA",Mundo De La Musica
+http://azplay.ddns.me:33200/derek1/derek1/29528
+#EXTINF:-1 tvg-id="" tvg-name="Ibiza Global TV" tvg-logo="https://i1.sndcdn.com/artworks-000241057733-qn6kd8-t500x500.jpg" group-title="MUSICA",Ibiza Global TV
+http://azplay.ddns.me:33200/derek1/derek1/6289
+#EXTINF:-1 tvg-id="" tvg-name="Planeta Tv Music" tvg-logo="https://i1.sndcdn.com/avatars-000301903594-twktkx-t500x500.jpg" group-title="MUSICA",Planeta Tv Music
+http://azplay.ddns.me:33200/derek1/derek1/29530
+#EXTINF:-1 tvg-id="" tvg-name="Portal FoxMix" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA",Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 tvg-id="I582.72418.schedulesdirect.org" tvg-name="VH1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_vh1_m.png" group-title="MUSICA",VH1
+http://azplay.ddns.me:33200/derek1/derek1/2540
+#EXTINF:-1 tvg-id="" tvg-name="Vh1 Classic" tvg-logo="https://i.postimg.cc/m2t1VLMv/VH1-CLASSIC.png" group-title="MUSICA",Vh1 Classic
+http://azplay.ddns.me:33200/derek1/derek1/16040
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus Tv" tvg-logo="https://i.ibb.co/nDBg3d5/106798-Retro-Plus-TV.png" group-title="MUSICA",Retro Plus Tv
+http://azplay.ddns.me:33200/derek1/derek1/30314
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus 2 " tvg-logo="https://i.ibb.co/nDBg3d5/106798-Retro-Plus-TV.png" group-title="MUSICA",Retro Plus 2 
+http://azplay.ddns.me:33200/derek1/derek1/44700
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus 3" tvg-logo="https://i.ibb.co/nDBg3d5/106798-Retro-Plus-TV.png" group-title="MUSICA",Retro Plus 3
+http://azplay.ddns.me:33200/derek1/derek1/27624
+#EXTINF:-1 tvg-id="" tvg-name="Rewind" tvg-logo="https://image.roku.com/developer_channels/prod/1a30d757bf7bfb8d26b8ddebc3151043a101efb20767c653fbb7c243f8386820.png" group-title="MUSICA",Rewind
+http://azplay.ddns.me:33200/derek1/derek1/44
+#EXTINF:-1 tvg-id="" tvg-name="Retro Music Television" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSICA",Retro Music Television
+http://azplay.ddns.me:33200/derek1/derek1/29593
+#EXTINF:-1 tvg-id="" tvg-name="Radio Agricultura TV" tvg-logo="https://pbs.twimg.com/profile_images/1133369215849775104/-r95r4rv.png" group-title="MUSICA",Radio Agricultura TV
+https://hls-audio-cl-1-isp.dps.live/agricultura/gotardis/audio/now/nimble-absolute-url-livestream1-edge.m3u8?nimblesessionid=11636801&nimbleabsoluteurl=F30nS1a0jGsCc+I4D0BVsdjA9yI3clLBytliTVtsOjzGCXJv7RJeiF07%2FkbS1nI2%2FfRymtt8YwHT%2F0hX2a%2F70+fRJ9kFrgwmySG6Kk5QsuYRH7mDY7fimQRbrk9LQgyL&nimbleurlhash=K77%2FLRP+ae5ZWuLfq4DDdg==&nimbleurliv=ABQ4dx3XN+W9h+%2FncUxhuA==
+#EXTINF:-1 tvg-id="" tvg-name="Radio Carolina TV" tvg-logo="http://www.carolina.cl/static/2017/01/carolina-logo.png" group-title="MUSICA",Radio Carolina TV
+http://azplay.ddns.me:33200/derek1/derek1/45
+#EXTINF:-1 tvg-id="" tvg-name="Radio Genial TV" tvg-logo="https://radiogenial.cl/wp-content/uploads/2019/08/log_gn.png" group-title="MUSICA",Radio Genial TV
+http://azplay.ddns.me:33200/derek1/derek1/6773
+#EXTINF:-1 tvg-id="" tvg-name="Radio Javan TV" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="MUSICA",Radio Javan TV
+http://azplay.ddns.me:33200/derek1/derek1/29590
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kpop" tvg-logo="https://www.radio.es/images/broadcasts/5d/de/109944/1/c300.png" group-title="MUSICA",Radio Kpop
+http://azplay.ddns.me:33200/derek1/derek1/6679
+#EXTINF:-1 tvg-id="" tvg-name="Radio Maxima TV" tvg-logo="https://i.postimg.cc/sDzScZyv/max-ra.jpg" group-title="MUSICA",Radio Maxima TV
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Onda TV" tvg-logo="https://tv.ondaradio.cl/img/logo.png" group-title="MUSICA",Radio Onda TV
+http://azplay.ddns.me:33200/derek1/derek1/32
+#EXTINF:-1 tvg-id="" tvg-name="Radio Piter Pan TV" tvg-logo="https://i.imgur.com/DfugVgy.png" group-title="MUSICA",Radio Piter Pan TV
+http://azplay.ddns.me:33200/derek1/derek1/29591
+#EXTINF:-1 tvg-id="" tvg-name="Radio PROS" tvg-logo="https://i.imgur.com/RMjFeGE.png" group-title="MUSICA",Radio PROS
+http://azplay.ddns.me:33200/derek1/derek1/29592
+#EXTINF:-1 tvg-id="" tvg-name="Radio Romantica TV" tvg-logo="http://db.radioline.fr/pictures/radio_bed8343a7cfa69057e7c80b55b72d9e8/logo200.jpg" group-title="MUSICA",Radio Romantica TV
+http://unlimited1-us.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Recuerdos Retro" tvg-logo="http://www.videoluctv.net/wp-content/uploads/2016/10/telehit.jpg" group-title="MUSICA",Radio Recuerdos Retro
+http://azplay.ddns.me:33200/derek1/derek1/5963
+#EXTINF:-1 tvg-id="" tvg-name="Radio Soberania" tvg-logo="https://www.soberaniaradio.cl/img/logo.png" group-title="MUSICA",Radio Soberania
+http://azplay.ddns.me:33200/derek1/derek1/26
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zeta" tvg-logo="https://www.radio.es/images/broadcasts/bb/c3/27710/1/c300.png" group-title="MUSICA",Radio Zeta
+http://azplay.ddns.me:33200/derek1/derek1/29543
+#EXTINF:-1 tvg-id="" tvg-name="Radio Via Libre" tvg-logo="https://player.voxhd.com.br/app-multi-plataforma/logo-7646.png" group-title="MUSICA",Radio Via Libre
+http://azplay.ddns.me:33200/derek1/derek1/29551
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hoy" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/skb5qjdyjljp.png" group-title="MUSICA",Radio Hoy
+http://azplay.ddns.me:33200/derek1/derek1/29558
+#EXTINF:-1 tvg-id="" tvg-name="Radio Fiesta TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/p298677d.png" group-title="MUSICA",Radio Fiesta TV
+http://azplay.ddns.me:33200/derek1/derek1/29559
+#EXTINF:-1 tvg-id="" tvg-name="Radio Favorita TV" tvg-logo="https://favoritatv.cl/wp-content/uploads/2022/01/cropped-logo-FTV.png" group-title="MUSICA",Radio Favorita TV
+http://azplay.ddns.me:33200/derek1/derek1/29560
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ñuble TV" tvg-logo="https://pbs.twimg.com/profile_images/537345410793107456/OV22duyl_400x400.jpeg" group-title="MUSICA",Radio Ñuble TV
+http://azplay.ddns.me:33200/derek1/derek1/29561
+#EXTINF:-1 tvg-id="" tvg-name="Radio Fantasia TV" tvg-logo="https://pbs.twimg.com/profile_images/1350807727736573955/eOxOPOIQ_400x400.jpg" group-title="MUSICA",Radio Fantasia TV
+http://azplay.ddns.me:33200/derek1/derek1/29562
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="MUSICA",Kuriakos Music
+http://azplay.ddns.me:33200/derek1/derek1/29563
+#EXTINF:-1 tvg-id="" tvg-name="Radio Camila TV" tvg-logo="https://yellow.place/file/image/thumb/0/0/1049/medeufaymkirxkiw.jpg" group-title="MUSICA",Radio Camila TV
+http://azplay.ddns.me:33200/derek1/derek1/29564
+#EXTINF:-1 tvg-id="" tvg-name="Radio Universal" tvg-logo="https://universal881.com/wp-content/uploads/2020/02/UNIVERSAL_977_512.jpg" group-title="MUSICA",Radio Universal
+http://azplay.ddns.me:33200/derek1/derek1/29552
+#EXTINF:-1 tvg-id="" tvg-name="Radio Polar" tvg-logo="http://comunicaciones.ucsh.cl/wp-content/uploads/2021/11/Logo-Radio-Polar-500x300.png" group-title="MUSICA",Radio Polar
+http://azplay.ddns.me:33200/derek1/derek1/29553
+#EXTINF:-1 tvg-id="" tvg-name="Radio Las Nieves" tvg-logo="https://www.rln.cl/wp-content/uploads/2018/04/radio_las_nieves.jpg" group-title="MUSICA",Radio Las Nieves
+http://azplay.ddns.me:33200/derek1/derek1/29554
+#EXTINF:-1 tvg-id="" tvg-name="Radio Actitud TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s222997d.png" group-title="MUSICA",Radio Actitud TV
+http://azplay.ddns.me:33200/derek1/derek1/29568
+#EXTINF:-1 tvg-id="" tvg-name="Radio Lado Oscuro TV" tvg-logo="https://radioladooscurotv.cl/wp-content/uploads/2021/05/cropped-logoweb-238x79.png" group-title="MUSICA",Radio Lado Oscuro TV
+http://azplay.ddns.me:33200/derek1/derek1/29556
+#EXTINF:-1 tvg-id="" tvg-name="Radio La Serena" tvg-logo="https://4.bp.blogspot.com/-E3Q5GmKfWeU/WNE4zcKV5MI/AAAAAAAABPI/vDMq7PVZi2c1P81gDLSDgF1NB5MKQ2NYQCLcB/s1600/Radio%2BLa%2BSerena%2BLogo.png" group-title="MUSICA",Radio La Serena
+http://azplay.ddns.me:33200/derek1/derek1/29532
+#EXTINF:-1 tvg-id="" tvg-name="Radio Patagonia TV" tvg-logo="https://www.guiapenquista.cl/imagenes/radios/x-region/puerto-montt/radio-patagonia.jpg" group-title="MUSICA",Radio Patagonia TV
+http://azplay.ddns.me:33200/derek1/derek1/29534
+#EXTINF:-1 tvg-id="" tvg-name="Radio Red Fueguina" tvg-logo="https://www.guiapenquista.cl/imagenes/radios/xii/porvenir/radio-red-fueguina.jpg" group-title="MUSICA",Radio Red Fueguina
+http://azplay.ddns.me:33200/derek1/derek1/29536
+#EXTINF:-1 tvg-id="" tvg-name="Radio Tiempo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Tiempo_logo.svg/1200px-Radio_Tiempo_logo.svg.png" group-title="MUSICA",Radio Tiempo
+http://azplay.ddns.me:33200/derek1/derek1/29574
+#EXTINF:-1 tvg-id="" tvg-name="Retro TV" tvg-logo="http://www.gustavorivas.com.ar/wp-content/uploads/2009/03/logo-canal-retro1.jpg" group-title="MUSICA",Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ancoa TV" tvg-logo="https://s3-mspro.nyc3.digitaloceanspaces.com/tenant/5fd388ccfae2191165f5a37b/settings/logos/cd703c18-9a90-48b4-b9ee-9d5ffe616eeb.png" group-title="MUSICA",Ancoa TV
+http://azplay.ddns.me:33200/derek1/derek1/29572
+#EXTINF:-1 tvg-id="" tvg-name="Afrobeats" tvg-logo="https://i.pinimg.com/originals/ef/da/b3/efdab37789e36d8da6c84679c1170f85.jpg" group-title="MUSICA",Afrobeats
+http://azplay.ddns.me:33200/derek1/derek1/29527
+#EXTINF:-1 tvg-id="" tvg-name="AE Music" tvg-logo="https://i2.paste.pics/f8b890eebda6062f306024bdc70afafa.png" group-title="MUSICA",AE Music
+http://azplay.ddns.me:33200/derek1/derek1/29573
+#EXTINF:-1 tvg-id="" tvg-name="ACB TV" tvg-logo="" group-title="MUSICA",ACB TV
+http://azplay.ddns.me:33200/derek1/derek1/29526
+#EXTINF:-1 tvg-id="" tvg-name="4FUN TV" tvg-logo="https://i.imgur.com/c59VWgF.jpg" group-title="MUSICA",4FUN TV
+http://azplay.ddns.me:33200/derek1/derek1/29524
+#EXTINF:-1 tvg-id="" tvg-name="B4U Kadak" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="MUSICA",B4U Kadak
+http://azplay.ddns.me:33200/derek1/derek1/29529
+#EXTINF:-1 tvg-id="" tvg-name="Baraza TV" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="MUSICA",Baraza TV
+http://azplay.ddns.me:33200/derek1/derek1/29531
+#EXTINF:-1 tvg-id="" tvg-name="Baraza TV Greek Music Hits" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="MUSICA",Baraza TV Greek Music Hits
+http://azplay.ddns.me:33200/derek1/derek1/29533
+#EXTINF:-1 tvg-id="" tvg-name="California Music Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="MUSICA",California Music Channel
+http://azplay.ddns.me:33200/derek1/derek1/29535
+#EXTINF:-1 tvg-id="" tvg-name="California Music Channel 2" tvg-logo="http://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSICA",California Music Channel 2
+https://cmc-ono.amagi.tv/amRdirect/device[did]=%7BPSID%7D&device[dnt]=%7BDID%7D&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1g37bbrro-s3n9-atg-wtq6-8p1mmn2gib/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1280x720_2890800/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="City Music TV" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="MUSICA",City Music TV
+http://azplay.ddns.me:33200/derek1/derek1/29537
+#EXTINF:-1 tvg-id="" tvg-name="Company TV" tvg-logo="https://www.coolstreaming.us/img/ch/image87899621576.jpg" group-title="MUSICA",Company TV
+http://azplay.ddns.me:33200/derek1/derek1/29538
+#EXTINF:-1 tvg-id="" tvg-name="Credo TV" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" group-title="MUSICA",Credo TV
+http://azplay.ddns.me:33200/derek1/derek1/29539
+#EXTINF:-1 tvg-id="" tvg-name="Desi Channel" tvg-logo="https://www.coolstreaming.us/img/ch/image25906697754.jpg" group-title="MUSICA",Desi Channel
+http://azplay.ddns.me:33200/derek1/derek1/29540
+#EXTINF:-1 tvg-id="" tvg-name="Dijlah Tarab" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="MUSICA",Dijlah Tarab
+http://azplay.ddns.me:33200/derek1/derek1/29541
+#EXTINF:-1 tvg-id="" tvg-name="DBox" tvg-logo="" group-title="MUSICA",DBox
+http://azplay.ddns.me:33200/derek1/derek1/29542
+#EXTINF:-1 tvg-id="" tvg-name="EBC1 TV" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" group-title="MUSICA",EBC1 TV
+http://azplay.ddns.me:33200/derek1/derek1/29550
+#EXTINF:-1 tvg-id="" tvg-name="GO-RTV" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="MUSICA",GO-RTV
+http://azplay.ddns.me:33200/derek1/derek1/29555
+#EXTINF:-1 tvg-id="" tvg-name="Jhanjar Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="MUSICA",Jhanjar Music
+http://azplay.ddns.me:33200/derek1/derek1/29557
+#EXTINF:-1 tvg-id="" tvg-name="Magic TV" tvg-logo="http://i.imgur.com/QZQhg6C.png" group-title="MUSICA",Magic TV
+http://azplay.ddns.me:33200/derek1/derek1/29565
+#EXTINF:-1 tvg-id="" tvg-name="Marutam Music" tvg-logo="" group-title="MUSICA",Marutam Music
+http://azplay.ddns.me:33200/derek1/derek1/29566
+#EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="MUSICA",Mastiii
+http://azplay.ddns.me:33200/derek1/derek1/29567
+#EXTINF:-1 tvg-id="" tvg-name="Mifa" tvg-logo="http://www.gemonline.tv/Assets/channels-box/mifa.png?1212" group-title="MUSICA",Mifa
+http://azplay.ddns.me:33200/derek1/derek1/29569
+#EXTINF:-1 tvg-id="" tvg-name="Mi Radio TV" tvg-logo="" group-title="MUSICA",Mi Radio TV
+http://azplay.ddns.me:33200/derek1/derek1/29570
+#EXTINF:-1 tvg-id="" tvg-name="Inter Radio TV" tvg-logo="http://guiadelaradio.com/wp-content/uploads/2019/01/Radio_Inter_54524-678x381.jpg" group-title="MUSICA",Inter Radio TV
+http://azplay.ddns.me:33200/derek1/derek1/29571
+#EXTINF:-1 tvg-id="" tvg-name="Music 24" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" group-title="MUSICA",Music 24
+http://azplay.ddns.me:33200/derek1/derek1/29575
+#EXTINF:-1 tvg-id="" tvg-name="Music Top" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="MUSICA",Music Top
+http://azplay.ddns.me:33200/derek1/derek1/29576
+#EXTINF:-1 tvg-id="" tvg-name="Nago TV" tvg-logo="https://i.imgur.com/uisopuM.png" group-title="MUSICA",Nago TV
+http://azplay.ddns.me:33200/derek1/derek1/29577
+#EXTINF:-1 tvg-id="" tvg-name="Navahang TV" tvg-logo="http://www.navahang.com/apple-touch-icon.png" group-title="MUSICA",Navahang TV
+http://azplay.ddns.me:33200/derek1/derek1/29578
+#EXTINF:-1 tvg-id="" tvg-name="NG" tvg-logo="http://i.imgur.com/pK2p5ey.png" group-title="MUSICA",NG
+http://azplay.ddns.me:33200/derek1/derek1/29579
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits TV" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" group-title="MUSICA",NRJ Hits TV
+http://azplay.ddns.me:33200/derek1/derek1/29580
+#EXTINF:-1 tvg-id="" tvg-name="Operator Radio" tvg-logo="https://i.imgur.com/yjuaHY1.jpg" group-title="MUSICA",Operator Radio
+http://azplay.ddns.me:33200/derek1/derek1/29581
+#EXTINF:-1 tvg-id="" tvg-name="OTVconline" tvg-logo="https://i.imgur.com/wCrNtxp.png" group-title="MUSICA",OTVconline
+http://azplay.ddns.me:33200/derek1/derek1/29582
+#EXTINF:-1 tvg-id="" tvg-name="Cloud Music" tvg-logo="https://i.imgur.com/wCrNtxp.png" group-title="MUSICA",Cloud Music
+http://azplay.ddns.me:33200/derek1/derek1/29583
+#EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" group-title="MUSICA",Play TV
+http://azplay.ddns.me:33200/derek1/derek1/29584
+#EXTINF:-1 tvg-id="" tvg-name="Portalfoxmix" tvg-logo="" group-title="MUSICA",Portalfoxmix
+http://azplay.ddns.me:33200/derek1/derek1/29585
+#EXTINF:-1 tvg-id="" tvg-name="Portalfoxmix" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="MUSICA",Portalfoxmix
+http://azplay.ddns.me:33200/derek1/derek1/29586
+#EXTINF:-1 tvg-id="" tvg-name="Public Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/public_music_in.png" group-title="MUSICA",Public Music
+http://azplay.ddns.me:33200/derek1/derek1/29587
+#EXTINF:-1 tvg-id="" tvg-name="Q-Music" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="MUSICA",Q-Music
+http://azplay.ddns.me:33200/derek1/derek1/29588
+#EXTINF:-1 tvg-id="" tvg-name="Qmusic" tvg-logo="https://i.imgur.com/P8cVMle.jpg" group-title="MUSICA",Qmusic
+http://azplay.ddns.me:33200/derek1/derek1/29589
+#EXTINF:-1 tvg-id="" tvg-name="Radiomania" tvg-logo="https://nosomosnonos.com/wp-content/uploads/2021/11/7cfee8e331bd26cb493780bdd411b803c05fc671d937f10735d74cd1b738fda0-rimg-w526-h296-gmir.jpg" group-title="MUSICA",Radiomania
+http://azplay.ddns.me:33200/derek1/derek1/29594
+#EXTINF:-1 tvg-id="" tvg-name="Tile Mousiki" tvg-logo="http://i.imgur.com/piGhf3m.png" group-title="MUSICA",Tile Mousiki
+http://azplay.ddns.me:33200/derek1/derek1/29595
+#EXTINF:-1 tvg-id="" tvg-name="TMA" tvg-logo="https://i.imgur.com/fQUzBsz.png" group-title="MUSICA",TMA
+http://azplay.ddns.me:33200/derek1/derek1/29596
+#EXTINF:-1 tvg-id="" tvg-name="Top New Radio" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" group-title="MUSICA",Top New Radio
+http://azplay.ddns.me:33200/derek1/derek1/29597
+#EXTINF:-1 tvg-id="" tvg-name="V2BEAT TV" tvg-logo="https://i.imgur.com/Ll6GlqY.png" group-title="MUSICA",V2BEAT TV
+http://azplay.ddns.me:33200/derek1/derek1/29598
+#EXTINF:-1 tvg-id="" tvg-name="VIVA TV" tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="MUSICA",VIVA TV
+http://azplay.ddns.me:33200/derek1/derek1/29599
+#EXTINF:-1 tvg-id="" tvg-name="7S Music" tvg-logo="https://www.pay2easy.com/uploads/5154-7S%20Music.jpg" group-title="MUSICA",7S Music
+http://azplay.ddns.me:33200/derek1/derek1/29525
+#EXTINF:-1 tvg-id="" tvg-name="Xalastra TV" tvg-logo="http://i.imgur.com/LgQBtTh.jpg" group-title="MUSICA",Xalastra TV
+http://azplay.ddns.me:33200/derek1/derek1/29600
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Music" tvg-logo="https://i.ibb.co/sm712VH/45112-Zapping-Music.png" group-title="MUSICA",Zapping Music
+http://azplay.ddns.me:33200/derek1/derek1/33180
+#EXTINF:-1 tvg-id="" tvg-name="Xtv Music" tvg-logo="https://i.ibb.co/4NC5Tp4/112843-XTV-Music.png" group-title="MUSICA",Xtv Music
+http://azplay.ddns.me:33200/derek1/derek1/33407
+#EXTINF:-1 tvg-id="" tvg-name="Tv Pop" tvg-logo="https://i.ibb.co/dtxbY2F/74166-TV-POP.jpg" group-title="MUSICA",Tv Pop
+http://azplay.ddns.me:33200/derek1/derek1/33408
+#EXTINF:-1 tvg-id="" tvg-name="Much" tvg-logo="https://3.bp.blogspot.com/-GMr3vtCns9g/WpL4HuKsiuI/AAAAAAAABu0/2_WOr1E2s54OfbvoXrmFxTgQIJmZwCQOwCLcBGAs/s1600/muchmusic-02.jpg" group-title="MUSICA",Much
+http://azplay.ddns.me:33200/derek1/derek1/39933
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite" tvg-logo="https://i2.paste.pics/9beaf1949244b5eb5e5ed3af28304f52.png" group-title="MUSICA",Cadena Elite
+http://azplay.ddns.me:33200/derek1/derek1/52578
+#EXTINF:-1 tvg-id="" tvg-name="Star+ (Eventos Especiales)" tvg-logo="" group-title="DEPORTES",Star+ (Eventos Especiales)
+http://azplay.ddns.me:33200/derek1/derek1/50562
+#EXTINF:-1 tvg-id="I576.34863.schedulesdirect.org" tvg-name="Afizzionados (Mexico)" tvg-logo="https://pbs.twimg.com/profile_images/1315369786906468354/7PjFLwZP_400x400.jpg" group-title="DEPORTES",Afizzionados (Mexico)
+http://azplay.ddns.me:33200/derek1/derek1/14718
+#EXTINF:-1 tvg-id="" tvg-name="All Sports" tvg-logo="https://i.ibb.co/Fz7qRJb/images-q-tbn-ANd9-Gc-Re7pv-Dq-T6-Vqh-L1p-M2j-O8lp-Dphw-BWAytlep-Qw-usqp-CAU.jpg" group-title="DEPORTES",All Sports
+http://azplay.ddns.me:33200/derek1/derek1/31755
+#EXTINF:-1 tvg-id="I69.85437.schedulesdirect.org" tvg-name="Bar TV La Liga" tvg-logo="https://futbar.com/static/img/laligatv_bar_logo.png" group-title="DEPORTES",Bar TV La Liga
+http://azplay.ddns.me:33200/derek1/derek1/6854
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Bein Sports La Liga (España)" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports La Liga (España)
+http://azplay.ddns.me:33200/derek1/derek1/3419
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ" tvg-logo="https://i.postimg.cc/65QdrYf8/bein-es.jpg" group-title="DEPORTES",Bein Sports Ñ
+http://azplay.ddns.me:33200/derek1/derek1/3061
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1164.png" group-title="DEPORTES",Bein Sports Extra
+http://azplay.ddns.me:33200/derek1/derek1/51476
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports USA" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports USA
+http://azplay.ddns.me:33200/derek1/derek1/37457
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports USA HD" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports USA HD
+http://azplay.ddns.me:33200/derek1/derek1/37458
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English 1" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports English 1
+http://azplay.ddns.me:33200/derek1/derek1/51370
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English 2" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports English 2
+http://azplay.ddns.me:33200/derek1/derek1/51371
+#EXTINF:-1 tvg-id="CDFHD.cl" tvg-name="T*N*T Sports Chile (Solo Partidos)" tvg-logo="https://i.postimg.cc/TYcM53Yj/TNHD.png" group-title="DEPORTES",TNT Sports Chile (Solo Partidos)
+http://azplay.ddns.me:33200/derek1/derek1/31728
+#EXTINF:-1 tvg-id="CDFHD.cl" tvg-name="T*N*T Sports Chile" tvg-logo="https://i.postimg.cc/TYcM53Yj/TNHD.png" group-title="DEPORTES",TNT Sports Chile
+http://azplay.ddns.me:33200/derek1/derek1/50076
+#EXTINF:-1 tvg-id="CDFHD.cl" tvg-name="T*N*T Sports Chile (Para conexion Lenta) " tvg-logo="https://i.postimg.cc/TYcM53Yj/TNHD.png" group-title="DEPORTES",TNT Sports Chile (Para conexion Lenta) 
+http://azplay.ddns.me:33200/derek1/derek1/33186
+#EXTINF:-1 tvg-id="CDFHD.cl" tvg-name="T*N*T Sports HD Chile (Para Conexión Rapida)" tvg-logo="https://i.postimg.cc/TYcM53Yj/TNHD.png" group-title="DEPORTES",TNT Sports HD Chile (Para Conexión Rapida)
+http://azplay.ddns.me:33200/derek1/derek1/31758
+#EXTINF:-1 tvg-id="CDFHD.cl" tvg-name="T*N*T Estadio Sports (MOVIL)" tvg-logo="https://i.postimg.cc/fThQS34y/TNes.png" group-title="DEPORTES",TNT Estadio Sports (MOVIL)
+http://azplay.ddns.me:33200/derek1/derek1/48888
+#EXTINF:-1 tvg-id="" tvg-name="T*N*T Estadio Sports (Solo Partidos)" tvg-logo="https://i.postimg.cc/fThQS34y/TNes.png" group-title="DEPORTES",TNT Estadio Sports (Solo Partidos)
+http://azplay.ddns.me:33200/derek1/derek1/53000
+#EXTINF:-1 tvg-id="CDFHD.cl" tvg-name="T*N*T Sports 2 Chile" tvg-logo="https://i.postimg.cc/RZPkGptN/TN2.png" group-title="DEPORTES",TNT Sports 2 Chile
+http://azplay.ddns.me:33200/derek1/derek1/31757
+#EXTINF:-1 tvg-id="I484.50707.schedulesdirect.org" tvg-name="T*N*T Sports 3 Chile" tvg-logo="https://i.postimg.cc/R0NjY11G/TN3.png" group-title="DEPORTES",TNT Sports 3 Chile
+http://azplay.ddns.me:33200/derek1/derek1/31756
+#EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="CDO" tvg-logo="https://i.postimg.cc/XvNCGb6T/CDO-250.jpg" group-title="DEPORTES",CDO
+http://azplay.ddns.me:33200/derek1/derek1/3117
+#EXTINF:-1 tvg-id="CDOPremium.cl" tvg-name="CDO Premium" tvg-logo="https://i.postimg.cc/6QHGCm9T/cdo.jpg" group-title="DEPORTES",CDO Premium
+http://azplay.ddns.me:33200/derek1/derek1/9399
+#EXTINF:-1 tvg-id="" tvg-name="Combate (Brasil)" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="DEPORTES",Combate (Brasil)
+http://azplay.ddns.me:33200/derek1/derek1/14128
+#EXTINF:-1 tvg-id="I200.67687.schedulesdirect.org" tvg-name="Claro Sports" tvg-logo="https://i.ibb.co/YTYgjGx/d.png" group-title="DEPORTES",Claro Sports
+http://azplay.ddns.me:33200/derek1/derek1/39993
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports HD" tvg-logo="https://i.ibb.co/YTYgjGx/d.png" group-title="DEPORTES",Claro Sports HD
+http://azplay.ddns.me:33200/derek1/derek1/39994
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 1" tvg-logo="" group-title="DEPORTES",DAZN 1
+http://azplay.ddns.me:33200/derek1/derek1/51263
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 2" tvg-logo="" group-title="DEPORTES",DAZN 2
+http://azplay.ddns.me:33200/derek1/derek1/51264
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 3" tvg-logo="" group-title="DEPORTES",DAZN 3
+http://azplay.ddns.me:33200/derek1/derek1/51265
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 4" tvg-logo="" group-title="DEPORTES",DAZN 4
+http://azplay.ddns.me:33200/derek1/derek1/51266
+#EXTINF:-1 tvg-id="I611.107891.schedulesdirect.org" tvg-name="D*TV SP (Arg)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",DTV SP (Arg)
+http://azplay.ddns.me:33200/derek1/derek1/47580
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="D*TV SP HD (arg)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",DTV SP HD (arg)
+http://azplay.ddns.me:33200/derek1/derek1/33608
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="D*TV SP (Chi)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",DTV SP (Chi)
+http://azplay.ddns.me:33200/derek1/derek1/31759
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="D*TV SP HD (Chi)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",DTV SP HD (Chi)
+http://azplay.ddns.me:33200/derek1/derek1/51491
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP (Col)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",DTV SP (Col)
+http://azplay.ddns.me:33200/derek1/derek1/52452
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP (Peru)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",DTV SP (Peru)
+http://azplay.ddns.me:33200/derek1/derek1/52453
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="D*TV SP +" tvg-logo="https://i.postimg.cc/3J0QRgcj/D.png" group-title="DEPORTES",DTV SP +
+http://azplay.ddns.me:33200/derek1/derek1/31761
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="D*TV SP + HD" tvg-logo="https://i.postimg.cc/3J0QRgcj/D.png" group-title="DEPORTES",DTV SP + HD
+http://azplay.ddns.me:33200/derek1/derek1/32680
+#EXTINF:-1 tvg-id="I1612.106261.schedulesdirect.org" tvg-name="D*TV SP 2" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES",DTV SP 2
+http://azplay.ddns.me:33200/derek1/derek1/31760
+#EXTINF:-1 tvg-id="I1612.106261.schedulesdirect.org" tvg-name="D*TV SP 2 HD" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES",DTV SP 2 HD
+http://azplay.ddns.me:33200/derek1/derek1/37484
+#EXTINF:-1 tvg-id="I1612.106261.schedulesdirect.org" tvg-name="D*TV SP 2 FHD" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES",DTV SP 2 FHD
+http://azplay.ddns.me:33200/derek1/derek1/37485
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP FIGHT" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="DEPORTES",DTV SP FIGHT
+http://azplay.ddns.me:33200/derek1/derek1/52506
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 1 " tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ESPN ARG 1 
+http://azplay.ddns.me:33200/derek1/derek1/51157
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 1 HD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ESPN ARG 1 HD
+http://azplay.ddns.me:33200/derek1/derek1/51155
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 1 FHD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ESPN ARG 1 FHD
+http://azplay.ddns.me:33200/derek1/derek1/51154
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="ES*PN ARG 2 " tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ESPN ARG 2 
+http://azplay.ddns.me:33200/derek1/derek1/51158
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="ES*PN ARG 2 HD" tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ESPN ARG 2 HD
+http://azplay.ddns.me:33200/derek1/derek1/51156
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="ES*PN ARG 2 FHD" tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ESPN ARG 2 FHD
+http://azplay.ddns.me:33200/derek1/derek1/5600
+#EXTINF:-1 tvg-id="I103.73833.schedulesdirect.org" tvg-name="ES*PN  ARG 3" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ESPN  ARG 3
+http://azplay.ddns.me:33200/derek1/derek1/5601
+#EXTINF:-1 tvg-id="ESPN3Andes.ar" tvg-name="ES*PN ARG 3 HD" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ESPN ARG 3 HD
+http://azplay.ddns.me:33200/derek1/derek1/31026
+#EXTINF:-1 tvg-id="ESPN3Andes.ar" tvg-name="ES*PN ARG 3 FHD" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ESPN ARG 3 FHD
+http://azplay.ddns.me:33200/derek1/derek1/31027
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="Es*pn Premium Argentina" tvg-logo="https://i.ibb.co/c3KSp7k/TAVI-Espn-Premium-Fox-Sports-Premium.png" group-title="DEPORTES",Espn Premium Argentina
+http://azplay.ddns.me:33200/derek1/derek1/6463
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="Es*pn Premium Argentina HD" tvg-logo="https://i.ibb.co/c3KSp7k/TAVI-Espn-Premium-Fox-Sports-Premium.png" group-title="DEPORTES",Espn Premium Argentina HD
+http://azplay.ddns.me:33200/derek1/derek1/3085
+#EXTINF:-1 tvg-id="I604.30392.schedulesdirect.org" tvg-name="ES*PN 4" tvg-logo="https://i.postimg.cc/Dfcvzc3w/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" group-title="DEPORTES",ESPN 4
+http://azplay.ddns.me:33200/derek1/derek1/50373
+#EXTINF:-1 tvg-id="I604.30392.schedulesdirect.org" tvg-name="ES*PN 4 HD" tvg-logo="https://i.postimg.cc/Dfcvzc3w/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" group-title="DEPORTES",ESPN 4 HD
+http://azplay.ddns.me:33200/derek1/derek1/50372
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="ES*PN Chile" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ESPN Chile
+http://azplay.ddns.me:33200/derek1/derek1/50968
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="ES*PN Chile HD" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ESPN Chile HD
+http://azplay.ddns.me:33200/derek1/derek1/51270
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="ES*PN Extra Brasil" tvg-logo="http://cdn.vizio.com/skin/frontend/enterprise/vizio/landingpages/gamedaylanding2/images/gd-apps-logo-ESPN-extra.png" group-title="DEPORTES",ESPN Extra Brasil
+http://azplay.ddns.me:33200/derek1/derek1/14132
+#EXTINF:-1 tvg-id="I1620.96876.schedulesdirect.org" tvg-name="ES*PN 1 Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 1 Latino
+http://azplay.ddns.me:33200/derek1/derek1/7023
+#EXTINF:-1 tvg-id="I1623.67765.schedulesdirect.org" tvg-name="ES*PN 2 Latino" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES",ESPN 2 Latino
+http://azplay.ddns.me:33200/derek1/derek1/7024
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="ES*PN 2 Latino HD" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES",ESPN 2 Latino HD
+http://azplay.ddns.me:33200/derek1/derek1/3075
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="ES*PN 2 Latino FHD" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES",ESPN 2 Latino FHD
+http://azplay.ddns.me:33200/derek1/derek1/3076
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="ES*PN 3 Latino" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES",ESPN 3 Latino
+http://azplay.ddns.me:33200/derek1/derek1/7025
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="ES*PN 3 Latino HD" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES",ESPN 3 Latino HD
+http://azplay.ddns.me:33200/derek1/derek1/3077
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="ES*PN 3 Latino FHD" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES",ESPN 3 Latino FHD
+http://azplay.ddns.me:33200/derek1/derek1/3078
+#EXTINF:-1 tvg-id="" tvg-name="Es*pn Extra" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",Espn Extra
+http://azplay.ddns.me:33200/derek1/derek1/50010
+#EXTINF:-1 tvg-id="I1.91035.schedulesdirect.org" tvg-name="ES*PN Usa" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ESPN Usa
+http://azplay.ddns.me:33200/derek1/derek1/30900
+#EXTINF:-1 tvg-id="I1.91035.schedulesdirect.org" tvg-name="ES*PN News Usa" tvg-logo="https://i.ibb.co/mC80pL4/espn-news-logo.gif" group-title="DEPORTES",ESPN News Usa
+http://azplay.ddns.me:33200/derek1/derek1/30902
+#EXTINF:-1 tvg-id="" tvg-name="EU*RO*SPORTS 1" tvg-logo="" group-title="DEPORTES",EUROSPORTS 1
+http://azplay.ddns.me:33200/derek1/derek1/51159
+#EXTINF:-1 tvg-id="" tvg-name="EU*RO*SPORTS 1 HD" tvg-logo="" group-title="DEPORTES",EUROSPORTS 1 HD
+http://azplay.ddns.me:33200/derek1/derek1/51367
+#EXTINF:-1 tvg-id="I62.108370.schedulesdirect.org" tvg-name="EU*RO*SPORTS 2" tvg-logo="http://vfes-images.ott.kaltura.com/351be6f3a78f44b6b4673c0b3e3ad570_288X162.png" group-title="DEPORTES",EUROSPORTS 2
+http://azplay.ddns.me:33200/derek1/derek1/3424
+#EXTINF:-1 tvg-id="" tvg-name="EU*RO*SPORTS 2 HD" tvg-logo="http://vfes-images.ott.kaltura.com/351be6f3a78f44b6b4673c0b3e3ad570_288X162.png" group-title="DEPORTES",EUROSPORTS 2 HD
+http://azplay.ddns.me:33200/derek1/derek1/51368
+#EXTINF:-1 tvg-id="" tvg-name="ECDF" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="DEPORTES",ECDF
+http://azplay.ddns.me:33200/derek1/derek1/52252
+#EXTINF:-1 tvg-id="" tvg-name="Fight Time" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="DEPORTES",Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Flow Sports" tvg-logo="https://www.stlucianewsonline.com/wp-content/uploads/2015/11/index.png" group-title="DEPORTES",Flow Sports
+http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-name="Fox Sports 1 Argentina " tvg-logo="https://i.postimg.cc/G3jHnJkZ/f1ar.png" group-title="DEPORTES",Fox Sports 1 Argentina 
+http://azplay.ddns.me:33200/derek1/derek1/3082
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Fox Sports 1 Argentina HD " tvg-logo="https://i.postimg.cc/G3jHnJkZ/f1ar.png" group-title="DEPORTES",Fox Sports 1 Argentina HD 
+http://azplay.ddns.me:33200/derek1/derek1/30935
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-name="Fox Sports 1 Argentina FHD " tvg-logo="https://i.postimg.cc/G3jHnJkZ/f1ar.png" group-title="DEPORTES",Fox Sports 1 Argentina FHD 
+http://azplay.ddns.me:33200/derek1/derek1/52202
+#EXTINF:-1 tvg-id="FoxSports1Chile.cl" tvg-name="Fox Sports 1 Chile " tvg-logo="https://i.postimg.cc/L6zvpWym/SP-CH1.png" group-title="DEPORTES",Fox Sports 1 Chile 
+http://azplay.ddns.me:33200/derek1/derek1/3086
+#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="Fox Sports 1 Latino " tvg-logo="https://i.postimg.cc/5NNj4Ygj/f1lat.png" group-title="DEPORTES",Fox Sports 1 Latino 
+http://azplay.ddns.me:33200/derek1/derek1/3087
+#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="Fox Sports 1 Latino HD" tvg-logo="https://i.postimg.cc/5NNj4Ygj/f1lat.png" group-title="DEPORTES",Fox Sports 1 Latino HD
+http://azplay.ddns.me:33200/derek1/derek1/3088
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://i.postimg.cc/FsW-z7rCp/f2ar.png" group-title="DEPORTES",Fox Sports 2 Argentina
+http://azplay.ddns.me:33200/derek1/derek1/37134
+#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" tvg-name="Fox Sports 2 Argentina HD" tvg-logo="https://i.postimg.cc/FsW-z7rCp/f2ar.png" group-title="DEPORTES",Fox Sports 2 Argentina HD
+http://azplay.ddns.me:33200/derek1/derek1/3083
+#EXTINF:-1 tvg-id="FoxSports2Brasil.us" tvg-name="Fox Sports 2 Brasil" tvg-logo="https://i.postimg.cc/zGYhJXyQ/sp-br.png" group-title="DEPORTES",Fox Sports 2 Brasil
+http://azplay.ddns.me:33200/derek1/derek1/14134
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="Fox Sports 2 Latino " tvg-logo="https://i.postimg.cc/kg24S0km/f2lat.png" group-title="DEPORTES",Fox Sports 2 Latino 
+http://azplay.ddns.me:33200/derek1/derek1/3089
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="Fox Sports 2 Latino HD" tvg-logo="https://i.postimg.cc/kg24S0km/f2lat.png" group-title="DEPORTES",Fox Sports 2 Latino HD
+http://azplay.ddns.me:33200/derek1/derek1/3090
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Fox Sports 3 Argentina HD" tvg-logo="https://i.postimg.cc/bvbwCQyV/f3ar.png" group-title="DEPORTES",Fox Sports 3 Argentina HD
+http://azplay.ddns.me:33200/derek1/derek1/3084
+#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-name="Fox Sports 3 Latino " tvg-logo="https://i.postimg.cc/DwRzPCTb/f3lat.png" group-title="DEPORTES",Fox Sports 3 Latino 
+http://azplay.ddns.me:33200/derek1/derek1/3091
+#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-name="Fox Sports 3 Latino HD" tvg-logo="https://i.postimg.cc/DwRzPCTb/f3lat.png" group-title="DEPORTES",Fox Sports 3 Latino HD
+http://azplay.ddns.me:33200/derek1/derek1/3092
+#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="Fox Sports México HD" tvg-logo="https://i.postimg.cc/g0VFfsf5/fsmx.png" group-title="DEPORTES",Fox Sports México HD
+http://azplay.ddns.me:33200/derek1/derek1/5616
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium" tvg-logo="https://i.postimg.cc/G3jHnJkZ/f1ar.png" group-title="DEPORTES",Fox Sports Premium
+http://azplay.ddns.me:33200/derek1/derek1/52561
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Formula 1 HD" tvg-logo="https://soymotor.com/sites/default/files/styles/mega/public/imagenes/noticia/dazn-movistar-f1-television-2021-soymtoor-2.jpg" group-title="DEPORTES",Formula 1 HD
+http://azplay.ddns.me:33200/derek1/derek1/38487
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="DEPORTES",Gol Peru
+http://azplay.ddns.me:33200/derek1/derek1/14029
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru HD" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="DEPORTES",Gol Peru HD
+http://azplay.ddns.me:33200/derek1/derek1/3098
+#EXTINF:-1 tvg-id="I628.14899.schedulesdirect.org" tvg-name="Golf Channel" tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_render_-rgb.png" group-title="DEPORTES",Golf Channel
+http://azplay.ddns.me:33200/derek1/derek1/3099
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel HD
+http://azplay.ddns.me:33200/derek1/derek1/38903
+#EXTINF:-1 tvg-id="" tvg-name="GolTV Ecuador HD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/GolTV.JPG" group-title="DEPORTES",GolTV Ecuador HD
+http://azplay.ddns.me:33200/derek1/derek1/3095
+#EXTINF:-1 tvg-id="" tvg-name="GolTV Internacional" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/GolTV.JPG" group-title="DEPORTES",GolTV Internacional
+http://azplay.ddns.me:33200/derek1/derek1/6766
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Deportes Peru
+http://azplay.ddns.me:33200/derek1/derek1/3100
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Deportes Peru (Op.2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Deportes Peru (Op.2)
+http://azplay.ddns.me:33200/derek1/derek1/3102
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Futbol
+http://azplay.ddns.me:33200/derek1/derek1/30360
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES",Movistar Golf HD
+http://azplay.ddns.me:33200/derek1/derek1/3103
+#EXTINF:-1 tvg-id="" tvg-name="Movistar La Liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar La Liga
+http://azplay.ddns.me:33200/derek1/derek1/50584
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Liga De Campeones
+http://azplay.ddns.me:33200/derek1/derek1/49752
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Pista" tvg-logo="" group-title="DEPORTES",Mundo Pista
+http://azplay.ddns.me:33200/derek1/derek1/30630
+#EXTINF:-1 tvg-id="I213.62079.schedulesdirect.org" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network
+http://azplay.ddns.me:33200/derek1/derek1/38900
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network 2" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 2
+http://azplay.ddns.me:33200/derek1/derek1/49190
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network 3" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 3
+http://azplay.ddns.me:33200/derek1/derek1/49191
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network 4" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 4
+http://azplay.ddns.me:33200/derek1/derek1/52073
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network 5" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 5
+http://azplay.ddns.me:33200/derek1/derek1/52074
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network 6" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 6
+http://azplay.ddns.me:33200/derek1/derek1/52075
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network 7" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 7
+http://azplay.ddns.me:33200/derek1/derek1/52076
+#EXTINF:-1 tvg-id="" tvg-name="MLS (Soccer)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_-_D.C._United.svg/1200px-MLS_crest_logo_RGB_-_D.C._United.svg.png" group-title="DEPORTES",MLS (Soccer)
+http://azplay.ddns.me:33200/derek1/derek1/51474
+#EXTINF:-1 tvg-id="I1.91035.schedulesdirect.org" tvg-name="NBA TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/NBATV.png" group-title="DEPORTES",NBA TV
+http://azplay.ddns.me:33200/derek1/derek1/3104
+#EXTINF:-1 tvg-id="I216.32281.schedulesdirect.org" tvg-name="NBA Network" tvg-logo="https://sc.dish.com/shared/images/station-logos/NBATV.png" group-title="DEPORTES",NBA Network
+http://azplay.ddns.me:33200/derek1/derek1/50943
+#EXTINF:-1 tvg-id="I215.58570.schedulesdirect.org" tvg-name="NHL Network" tvg-logo="https://www.seekpng.com/png/full/141-1414099_national-hockey-league-logo-1917-1938-nhl-logo.png" group-title="DEPORTES",NHL Network
+http://azplay.ddns.me:33200/derek1/derek1/47581
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-nfl-network-9913.jpg" group-title="DEPORTES",NFL Network
+http://azplay.ddns.me:33200/derek1/derek1/43879
+#EXTINF:-1 tvg-id="" tvg-name="NFL Channel" tvg-logo="" group-title="DEPORTES",NFL Channel
+http://azplay.ddns.me:33200/derek1/derek1/43878
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clube (Brasil)" tvg-logo="http://www.atualeletronica.com.br/sistema/images/01042019-121344-banners-pacotes-premiere.png" group-title="DEPORTES",Premiere Clube (Brasil)
+http://azplay.ddns.me:33200/derek1/derek1/14129
+#EXTINF:-1 tvg-id="" tvg-name="PGA Tour" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fpga_tour.png" group-title="DEPORTES",PGA Tour
+http://azplay.ddns.me:33200/derek1/derek1/51475
+#EXTINF:-1 tvg-id="" tvg-name="Sporting Club Chile" tvg-logo="https://media.licdn.com/dms/image/C560BAQEMbVBwIAFpqA/company-logo_200_200/0?e=2159024400&v=beta&t=WIFFwrGlCuS3rLWj9Ai3JaogcqpEWmgDv1NQVtq7zVY" group-title="DEPORTES",Sporting Club Chile
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stadium 1" tvg-logo="" group-title="DEPORTES",Stadium 1
+http://azplay.ddns.me:33200/derek1/derek1/30454
+#EXTINF:-1 tvg-id="" tvg-name="Stadium 2" tvg-logo="" group-title="DEPORTES",Stadium 2
+http://azplay.ddns.me:33200/derek1/derek1/30455
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="Sportv " tvg-logo="https://i.ibb.co/T4674Kw/1200px-Spor-TV-2017-logo-svg.png" group-title="DEPORTES",Sportv 
+http://azplay.ddns.me:33200/derek1/derek1/33328
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv  2" tvg-logo="https://i.ibb.co/T4674Kw/1200px-Spor-TV-2017-logo-svg.png" group-title="DEPORTES",Sportv  2
+http://azplay.ddns.me:33200/derek1/derek1/49187
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="Sportv 3" tvg-logo="https://i.ibb.co/T4674Kw/1200px-Spor-TV-2017-logo-svg.png" group-title="DEPORTES",Sportv 3
+http://azplay.ddns.me:33200/derek1/derek1/49188
+#EXTINF:-1 tvg-id="" tvg-name="STAR +1" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +1
+http://azplay.ddns.me:33200/derek1/derek1/50006
+#EXTINF:-1 tvg-id="" tvg-name="STAR +2" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +2
+http://azplay.ddns.me:33200/derek1/derek1/50007
+#EXTINF:-1 tvg-id="" tvg-name="STAR +3" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +3
+http://azplay.ddns.me:33200/derek1/derek1/50009
+#EXTINF:-1 tvg-id="" tvg-name="STAR +4" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +4
+http://azplay.ddns.me:33200/derek1/derek1/50008
+#EXTINF:-1 tvg-id="" tvg-name="STAR +5" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +5
+http://azplay.ddns.me:33200/derek1/derek1/50481
+#EXTINF:-1 tvg-id="" tvg-name="S*K*Y 1" tvg-logo="" group-title="DEPORTES",SKY 1
+http://azplay.ddns.me:33200/derek1/derek1/51267
+#EXTINF:-1 tvg-id="" tvg-name="S*K*Y Liga" tvg-logo="" group-title="DEPORTES",SKY Liga
+http://azplay.ddns.me:33200/derek1/derek1/51268
+#EXTINF:-1 tvg-id="" tvg-name="S*K*Y Premier" tvg-logo="" group-title="DEPORTES",SKY Premier
+http://azplay.ddns.me:33200/derek1/derek1/51269
+#EXTINF:-1 tvg-id="" tvg-name="TD+" tvg-logo="https://i.ibb.co/Zmrt5zF/2w-I2-B-TY-400x400.jpg" group-title="DEPORTES",TD+
+http://azplay.ddns.me:33200/derek1/derek1/30477
+#EXTINF:-1 tvg-id="" tvg-name="TD+2" tvg-logo="https://i.ibb.co/D4Ryh8M/1200px-TD-M-s-2-Logo-svg.png" group-title="DEPORTES",TD+2
+http://azplay.ddns.me:33200/derek1/derek1/30478
+#EXTINF:-1 tvg-id="I477.47486.schedulesdirect.org" tvg-name="Teletrak Chile" tvg-logo="http://www.teletrak.cl/imagenes/logo2.png" group-title="DEPORTES",Teletrak Chile
+http://azplay.ddns.me:33200/derek1/derek1/7009
+#EXTINF:-1 tvg-id="" tvg-name="Teletrak Chile 2" tvg-logo="" group-title="DEPORTES",Teletrak Chile 2
+http://azplay.ddns.me:33200/derek1/derek1/51994
+#EXTINF:-1 tvg-id="" tvg-name="Tv Turf" tvg-logo="http://tvturf.cl/tvturf/site/artic/20181221/imag/foto_0000000120181221154000/logo_tvturf.png" group-title="DEPORTES",Tv Turf
+http://azplay.ddns.me:33200/derek1/derek1/30915
+#EXTINF:-1 tvg-id="I217.33395.schedulesdirect.org" tvg-name="Tennis Channel USA HD" tvg-logo="https://i.postimg.cc/Jh2PsPGL/tennis.jpg" group-title="DEPORTES",Tennis Channel USA HD
+http://azplay.ddns.me:33200/derek1/derek1/3108
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 1 Bolivia" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports 1 Bolivia
+http://azplay.ddns.me:33200/derek1/derek1/3123
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 2 Bolivia" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports 2 Bolivia
+http://azplay.ddns.me:33200/derek1/derek1/3124
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 3 Bolivia" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports 3 Bolivia
+http://azplay.ddns.me:33200/derek1/derek1/7092
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Costa Rica" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports Costa Rica
+http://azplay.ddns.me:33200/derek1/derek1/3125
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Paraguay" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports Paraguay
+http://azplay.ddns.me:33200/derek1/derek1/3122
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports+ Paraguay" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports+ Paraguay
+http://azplay.ddns.me:33200/derek1/derek1/5875
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="T*N*T Sports Argentina" tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES",TNT Sports Argentina
+http://azplay.ddns.me:33200/derek1/derek1/6464
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="T*N*T Sports HD Argentina" tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES",TNT Sports HD Argentina
+http://azplay.ddns.me:33200/derek1/derek1/3109
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_(2016-_).png" group-title="DEPORTES",TVC Deportes
+http://azplay.ddns.me:33200/derek1/derek1/13689
+#EXTINF:-1 tvg-id="I629.16275.schedulesdirect.org" tvg-name="TyC Sports" tvg-logo="http://1.bp.blogspot.com/-lfBqQgLIqeo/VkLMvxnL7ZI/AAAAAAAAS8I/0ZShko69LPA/s1600/zrtn_021p4fd1d019_tn.jpg" group-title="DEPORTES",TyC Sports
+http://azplay.ddns.me:33200/derek1/derek1/5582
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="http://1.bp.blogspot.com/-lfBqQgLIqeo/VkLMvxnL7ZI/AAAAAAAAS8I/0ZShko69LPA/s1600/zrtn_021p4fd1d019_tn.jpg" group-title="DEPORTES",TyC Sports HD
+http://azplay.ddns.me:33200/derek1/derek1/3110
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte" tvg-logo="" group-title="DEPORTES",Teledeporte
+http://azplay.ddns.me:33200/derek1/derek1/49493
+#EXTINF:-1 tvg-id="" tvg-name="TVG Network" tvg-logo="https://cdn.pastthewire.com/wp-content/uploads/2020/09/TVG_Logo.jpg" group-title="DEPORTES",TVG Network
+http://azplay.ddns.me:33200/derek1/derek1/50004
+#EXTINF:-1 tvg-id="" tvg-name="TVG 2 Network " tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tvg2.png" group-title="DEPORTES",TVG 2 Network 
+http://azplay.ddns.me:33200/derek1/derek1/50005
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.ibb.co/T1ymgkP/1200x630wa.png" group-title="DEPORTES",TUDN
+http://azplay.ddns.me:33200/derek1/derek1/52787
+#EXTINF:-1 tvg-id="" tvg-name="TUDN NEWS" tvg-logo="https://i.ibb.co/T1ymgkP/1200x630wa.png" group-title="DEPORTES",TUDN NEWS
+http://azplay.ddns.me:33200/derek1/derek1/52788
+#EXTINF:-1 tvg-id="" tvg-name="UFC Network" tvg-logo="https://cde.peru.com//ima/0/1/4/1/7/1417179/611x458/ufc-network.jpg" group-title="DEPORTES",UFC Network
+http://azplay.ddns.me:33200/derek1/derek1/3112
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/sites/5/2020/07/UFCFightPass_FightPass_738x410.jpg" group-title="DEPORTES",UFC Fight Pass
+http://azplay.ddns.me:33200/derek1/derek1/50530
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
+http://azplay.ddns.me:33200/derek1/derek1/7715
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports HD
+http://azplay.ddns.me:33200/derek1/derek1/3115
+#EXTINF:-1 tvg-id="I1633.87031.schedulesdirect.org" tvg-name="Win Sports +" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports +
+http://azplay.ddns.me:33200/derek1/derek1/15348
+#EXTINF:-1 tvg-id="I1633.87031.schedulesdirect.org" tvg-name="Win Sports + (op2)" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports + (op2)
+http://azplay.ddns.me:33200/derek1/derek1/37305
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + HD" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports + HD
+http://azplay.ddns.me:33200/derek1/derek1/15349
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports +FHD (conexiones rápidas)" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports +FHD (conexiones rápidas)
+http://azplay.ddns.me:33200/derek1/derek1/50262
+#EXTINF:-1 tvg-id="" tvg-name="W*W*E " tvg-logo="https://i.ibb.co/J3b6FGw/RESEM87300wwenetwork.jpg" group-title="DEPORTES",WWE 
+http://azplay.ddns.me:33200/derek1/derek1/31856
+#EXTINF:-1 tvg-id="" tvg-name="Anime ZoneTV" tvg-logo="https://i.ibb.co/LRrvx8c/descarga.png" group-title="INFANTIL",Anime ZoneTV
+http://azplay.ddns.me:33200/derek1/derek1/51708
+#EXTINF:-1 tvg-id="BabyTVLatinAmerica.uk" tvg-name="Baby TV" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/baby_tv.png" group-title="INFANTIL",Baby TV
+http://azplay.ddns.me:33200/derek1/derek1/2467
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="INFANTIL",Baby First
+http://azplay.ddns.me:33200/derek1/derek1/5825
+#EXTINF:-1 tvg-id="I334.55719.schedulesdirect.org" tvg-name="Cartoonito (op.1)" tvg-logo="https://www.elespectador.com/resizer/7I0rhbnhoe8WuoJI4TmeHALbMwY=/525x350/filters:format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg" group-title="INFANTIL",Cartoonito (op.1)
+http://azplay.ddns.me:33200/derek1/derek1/2469
+#EXTINF:-1 tvg-id="I306.26089.schedulesdirect.org" tvg-name="Cartoonito (op.2)" tvg-logo="https://www.elespectador.com/resizer/7I0rhbnhoe8WuoJI4TmeHALbMwY=/525x350/filters:format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg" group-title="INFANTIL",Cartoonito (op.2)
+http://azplay.ddns.me:33200/derek1/derek1/47838
+#EXTINF:-1 tvg-id="I304.59562.schedulesdirect.org" tvg-name="Cartoon Network " tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/Cartoon-Network-s%C3%ADmbolo.jpg" group-title="INFANTIL",Cartoon Network 
+http://azplay.ddns.me:33200/derek1/derek1/2470
+#EXTINF:-1 tvg-id="I304.59562.schedulesdirect.org" tvg-name="Cartoon Network HD" tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/Cartoon-Network-s%C3%ADmbolo.jpg" group-title="INFANTIL",Cartoon Network HD
+http://azplay.ddns.me:33200/derek1/derek1/48374
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="Discovery Kids (op.1)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/discovery_kids.png" group-title="INFANTIL",Discovery Kids (op.1)
+http://azplay.ddns.me:33200/derek1/derek1/2471
+#EXTINF:-1 tvg-id="I330.45955.schedulesdirect.org" tvg-name="Discovery Kids (op.2)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/discovery_kids.png" group-title="INFANTIL",Discovery Kids (op.2)
+http://azplay.ddns.me:33200/derek1/derek1/47837
+#EXTINF:-1 tvg-id="I312.10171.schedulesdirect.org" tvg-name="Disney Channel (op.1)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/disneychannel.png" group-title="INFANTIL",Disney Channel (op.1)
+http://azplay.ddns.me:33200/derek1/derek1/2472
+#EXTINF:-1 tvg-id="I312.10171.schedulesdirect.org" tvg-name="Disney Channel (op.2)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/disneychannel.png" group-title="INFANTIL",Disney Channel (op.2)
+http://azplay.ddns.me:33200/derek1/derek1/30366
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="Disney Junior (op.1)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/disney-junior.png" group-title="INFANTIL",Disney Junior (op.1)
+http://azplay.ddns.me:33200/derek1/derek1/2473
+#EXTINF:-1 tvg-id="I315.60506.schedulesdirect.org" tvg-name="Disney Junior (op.2)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/disney-junior.png" group-title="INFANTIL",Disney Junior (op.2)
+http://azplay.ddns.me:33200/derek1/derek1/48375
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="Dreamworks HD" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dreamworks_grande_1.jpg" group-title="INFANTIL",Dreamworks HD
+http://azplay.ddns.me:33200/derek1/derek1/2476
+#EXTINF:-1 tvg-id="" tvg-name="Dios Teve Kids" tvg-logo="https://i.ibb.co/S6dqrVx/02505b330e44a59b5cbbf0b595e757d0dadc776b5c0aec342f53d571c766bc2d.png" group-title="INFANTIL",Dios Teve Kids
+http://azplay.ddns.me:33200/derek1/derek1/30916
+#EXTINF:-1 tvg-id="I310.47485.schedulesdirect.org" tvg-name="ETC TV" tvg-logo="http://static.etc.cl/_common/images/logoetc_2015.png" group-title="INFANTIL",ETC TV
+http://azplay.ddns.me:33200/derek1/derek1/30467
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo Del 8 TV" tvg-logo="https://i.ibb.co/vJRC5TN/el-chavo-chespirito-razon-dejaran-de-emitir-televisa-crop1596463418845-jpg-1005196607.jpg" group-title="INFANTIL",El Chavo Del 8 TV
+http://azplay.ddns.me:33200/derek1/derek1/3614
+#EXTINF:-1 tvg-id="" tvg-name="Infantil Tv" tvg-logo="" group-title="INFANTIL",Infantil Tv
+http://azplay.ddns.me:33200/derek1/derek1/30300
+#EXTINF:-1 tvg-id="" tvg-name="Latino Kids" tvg-logo="https://i.ibb.co/SVBbSYq/b22f37-db459382223d48f092d71151178a3797-mv2.png" group-title="INFANTIL",Latino Kids
+http://azplay.ddns.me:33200/derek1/derek1/51709
+#EXTINF:-1 tvg-id="" tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="INFANTIL",Locomotion
+http://azplay.ddns.me:33200/derek1/derek1/20
+#EXTINF:-1 tvg-id="I318.104524.schedulesdirect.org" tvg-name="Nat Geo Kids " tvg-logo="https://www.ushuaiavision.com.ar/images/canales/nat_geo_kids.png" group-title="INFANTIL",Nat Geo Kids 
+http://azplay.ddns.me:33200/derek1/derek1/30604
+#EXTINF:-1 tvg-id="I308.16707.schedulesdirect.org" tvg-name="Nickelodeon " tvg-logo="http://2.bp.blogspot.com/-Sxxgjbt3jcY/UF_GoxFI-UI/AAAAAAAAAAk/BJnieaZRxrs/s1600/nick+logo.png" group-title="INFANTIL",Nickelodeon 
+http://azplay.ddns.me:33200/derek1/derek1/2477
+#EXTINF:-1 tvg-id="" tvg-name="Nick Music" tvg-logo="https://i.imgur.com/xTJWhTQ.png" group-title="INFANTIL",Nick Music
+http://azplay.ddns.me:33200/derek1/derek1/48615
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title="INFANTIL",Nick 2 
+http://azplay.ddns.me:33200/derek1/derek1/2479
+#EXTINF:-1 tvg-id="I310.60295.schedulesdirect.org" tvg-name="Nick Jr (op.1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL",Nick Jr (op.1)
+http://azplay.ddns.me:33200/derek1/derek1/2478
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr (op.2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL",Nick Jr (op.2)
+http://azplay.ddns.me:33200/derek1/derek1/32359
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1280px-Nicktoons_Network_logo_2009.svg.png" group-title="INFANTIL",Nicktoons
+http://azplay.ddns.me:33200/derek1/derek1/14624
+#EXTINF:-1 tvg-id="I303.112248.schedulesdirect.org" tvg-name="Paka-Paka" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/pakapaka.png" group-title="INFANTIL",Paka-Paka
+http://azplay.ddns.me:33200/derek1/derek1/2480
+#EXTINF:-1 tvg-id="I310.47485.schedulesdirect.org" tvg-name="Planeta Kids" tvg-logo="https://dojiw2m9tvv09.cloudfront.net/10434/2/S_logoplanetakids4355.jpg" group-title="INFANTIL",Planeta Kids
+http://azplay.ddns.me:33200/derek1/derek1/5154
+#EXTINF:-1 tvg-id="" tvg-name="Pequeradio TV" tvg-logo="https://i.ibb.co/8B1QWjL/76b12f-b725806aac4c416da697ccf6a5c6dd83-mv2.png" group-title="INFANTIL",Pequeradio TV
+http://azplay.ddns.me:33200/derek1/derek1/51767
+#EXTINF:-1 tvg-id="I316.21458.schedulesdirect.org" tvg-name="Teen Nick" tvg-logo="https://fandetda.files.wordpress.com/2010/04/teenick_logo_2005.png" group-title="INFANTIL",Teen Nick
+http://azplay.ddns.me:33200/derek1/derek1/2474
+#EXTINF:-1 tvg-id="I328.63109.schedulesdirect.org" tvg-name="Tooncast" tvg-logo="http://files.linehd.webnode.com/200000001-1c4c21d460/tooncast.png" group-title="INFANTIL",Tooncast
+http://azplay.ddns.me:33200/derek1/derek1/2482
+#EXTINF:-1 tvg-id="I316.21458.schedulesdirect.org" tvg-name="Tooncast 2 (op.2)" tvg-logo="http://files.linehd.webnode.com/200000001-1c4c21d460/tooncast.png" group-title="INFANTIL",Tooncast 2 (op.2)
+http://azplay.ddns.me:33200/derek1/derek1/30603
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus " tvg-logo="https://www.animepilipinas.com/wp-content/uploads/2018/04/ANIPLUS-768x512.jpg" group-title="INFANTIL",Aniplus 
+http://azplay.ddns.me:33200/derek1/derek1/51983
+#EXTINF:-1 tvg-id="" tvg-name="Az Clic" tvg-logo="https://imagenes.gatotv.com/logos/canales/az_clic-mediano.png" group-title="MEXICO",Az Clic
+http://azplay.ddns.me:33200/derek1/derek1/2545
+#EXTINF:-1 tvg-id="I250.61404.schedulesdirect.org" tvg-name="Az Corazón" tvg-logo="http://1.bp.blogspot.com/-Nwn_ksaYk7s/VjEN7wA7SSI/AAAAAAAAAg0/wIJBr_8zo08/s1600/azcorazon.png" group-title="MEXICO",Az Corazón
+http://azplay.ddns.me:33200/derek1/derek1/2550
+#EXTINF:-1 tvg-id="I276.16465.schedulesdirect.org" tvg-name="Az Mundo" tvg-logo="http://www.ipuntotv.com/IMAGES/AZ-Mundo-logo.png" group-title="MEXICO",Az Mundo
+http://azplay.ddns.me:33200/derek1/derek1/2551
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 1" tvg-logo="https://seeklogo.com/images/T/TV_Azteca-logo-0C0398BE2A-seeklogo.com.png" group-title="MEXICO",Azteca 1
+http://azplay.ddns.me:33200/derek1/derek1/2547
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://seeklogo.com/images/T/TV_Azteca-logo-0C0398BE2A-seeklogo.com.png" group-title="MEXICO",Azteca 7
+http://azplay.ddns.me:33200/derek1/derek1/2546
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="https://i.postimg.cc/5Nrh3s3s/adn40.png" group-title="MEXICO",ADN 40
+http://azplay.ddns.me:33200/derek1/derek1/19608
+#EXTINF:-1 tvg-id="" tvg-name="AMX Noticias" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f7a6a083324683.Y3JvcCwyMjg3LDE3ODksNDQ3LDA.jpg" group-title="MEXICO",AMX Noticias
+http://azplay.ddns.me:33200/derek1/derek1/19612
+#EXTINF:-1 tvg-id="I105.52762.schedulesdirect.org" tvg-name="Canal 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="MEXICO",Canal 5
+http://azplay.ddns.me:33200/derek1/derek1/2561
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Saltillo" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/14/a6/23/14a6236f-ebcd-40e4-0b6e-9abade8c6a46/source/512x512bb.jpg" group-title="MEXICO",Canal 4 Saltillo
+http://azplay.ddns.me:33200/derek1/derek1/30631
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 - CHIAPAS" tvg-logo="https://pbs.twimg.com/profile_images/809455978026504192/BjVzerun_400x400.jpg" group-title="MEXICO",Canal 10 - CHIAPAS
+http://azplay.ddns.me:33200/derek1/derek1/5368
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 - CANCUN" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial2.png" group-title="MEXICO",Canal 10 - CANCUN
+http://azplay.ddns.me:33200/derek1/derek1/52042
+#EXTINF:-1 tvg-id="" tvg-name="Canal 15 - Zacatecas" tvg-logo="https://i.postimg.cc/mkqfnjQN/canal15zacatecas.png" group-title="MEXICO",Canal 15 - Zacatecas
+http://azplay.ddns.me:33200/derek1/derek1/19609
+#EXTINF:-1 tvg-id="" tvg-name="Canal Mundo+" tvg-logo="" group-title="MEXICO",Canal Mundo+
+http://azplay.ddns.me:33200/derek1/derek1/19610
+#EXTINF:-1 tvg-id="" tvg-name="Canal 15 - FRESNILLO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-15-Fresnillo-en-vivo-Online.png" group-title="MEXICO",Canal 15 - FRESNILLO
+http://azplay.ddns.me:33200/derek1/derek1/2553
+#EXTINF:-1 tvg-id="" tvg-name="Imagen TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_Grupo_Imagen_Multimedia.2016.png/245px-Logo_Grupo_Imagen_Multimedia.2016.png" group-title="MEXICO",Imagen TV
+http://azplay.ddns.me:33200/derek1/derek1/2554
+#EXTINF:-1 tvg-id="LasEstrellasLatinoamerica.mx" tvg-name="Las Estrellas" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="MEXICO",Las Estrellas
+http://azplay.ddns.me:33200/derek1/derek1/50819
+#EXTINF:-1 tvg-id="I226.16461.schedulesdirect.org" tvg-name="Las Estrellas HD" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="MEXICO",Las Estrellas HD
+http://azplay.ddns.me:33200/derek1/derek1/2548
+#EXTINF:-1 tvg-id="I146.28440.schedulesdirect.org" tvg-name="Mexiquense" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Mexiquense_TV_%282012_Black_Variant%29.png/revision/latest?cb=20151111055336" group-title="MEXICO",Mexiquense
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios" tvg-logo="https://e7.pngegg.com/pngimages/797/402/png-clipart-multimedios-television-television-channel-monterrey-music-logo-television-logo.png" group-title="MEXICO",Multimedios
+http://azplay.ddns.me:33200/derek1/derek1/30634
+#EXTINF:-1 tvg-id="I167.32752.schedulesdirect.org" tvg-name="Multimedios HD" tvg-logo="https://e7.pngegg.com/pngimages/797/402/png-clipart-multimedios-television-television-channel-monterrey-music-logo-television-logo.png" group-title="MEXICO",Multimedios HD
+http://azplay.ddns.me:33200/derek1/derek1/2555
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Plus HD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/large.583340ea4d3e3_MultimediosPlus2015-299x169-556277335.png" group-title="MEXICO",Multimedios Plus HD
+http://azplay.ddns.me:33200/derek1/derek1/2556
+#EXTINF:-1 tvg-id="" tvg-name="Televisa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Televisa_logo.svg/245px-Televisa_logo.svg.png" group-title="MEXICO",Televisa HD
+http://azplay.ddns.me:33200/derek1/derek1/2559
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas SD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/tlnovelas-2.png" group-title="MEXICO",TLNovelas SD
+http://azplay.ddns.me:33200/derek1/derek1/52041
+#EXTINF:-1 tvg-id="I227.37232.schedulesdirect.org" tvg-name="TLNovelas HD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/tlnovelas-2.png" group-title="MEXICO",TLNovelas HD
+http://azplay.ddns.me:33200/derek1/derek1/2549
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://i.postimg.cc/t44v6WW9/Telemax.png" group-title="MEXICO",Telemax
+http://azplay.ddns.me:33200/derek1/derek1/19613
+#EXTINF:-1 tvg-id="" tvg-name="Teleritmo" tvg-logo="" group-title="MEXICO",Teleritmo
+http://azplay.ddns.me:33200/derek1/derek1/30632
+#EXTINF:-1 tvg-id="" tvg-name="UMTV" tvg-logo="https://i.ytimg.com/vi/MfZq9EDu-ag/maxresdefault.jpg" group-title="MEXICO",UMTV
+http://azplay.ddns.me:33200/derek1/derek1/19611
+#EXTINF:-1 tvg-id="" tvg-name="Animaniacs 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Animaniacs 24/7
+http://azplay.ddns.me:33200/derek1/derek1/30968
+#EXTINF:-1 tvg-id="" tvg-name="ALF 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",ALF 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49658
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",American Horror Story 24/7
+http://azplay.ddns.me:33200/derek1/derek1/48797
+#EXTINF:-1 tvg-id="" tvg-name="Anime Zone TV" tvg-logo="https://i.ibb.co/LRrvx8c/descarga.png" group-title="CANALES 24/7",Anime Zone TV
+http://azplay.ddns.me:33200/derek1/derek1/48304
+#EXTINF:-1 tvg-id="" tvg-name="Avatar 24/7" tvg-logo="" group-title="CANALES 24/7",Avatar 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49657
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",BEN 10 24/7
+http://azplay.ddns.me:33200/derek1/derek1/13315
+#EXTINF:-1 tvg-id="" tvg-name="Bleyblade 24/7" tvg-logo="" group-title="CANALES 24/7",Bleyblade 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49665
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24/7" tvg-logo="https://vignette.wikia.nocookie.net/bobesponja/images/b/bb/Bob_Esponja.png" group-title="CANALES 24/7",Bob Esponja 24/7
+http://azplay.ddns.me:33200/derek1/derek1/7094
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Breaking Bad 24/7
+http://azplay.ddns.me:33200/derek1/derek1/30390
+#EXTINF:-1 tvg-id="" tvg-name="Buzz Lightyear 24/7" tvg-logo="" group-title="CANALES 24/7",Buzz Lightyear 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49664
+#EXTINF:-1 tvg-id="" tvg-name="Caso Cerrado 24/7 " tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Caso Cerrado 24/7 
+http://azplay.ddns.me:33200/derek1/derek1/31712
+#EXTINF:-1 tvg-id="" tvg-name="Cat Dog 24/7" tvg-logo="" group-title="CANALES 24/7",Cat Dog 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49661
+#EXTINF:-1 tvg-id="" tvg-name="Terminator 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Terminator 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31709
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Cinema Disney Pixar 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31708
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Cinema Horror 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31710
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Rambo 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31727
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Cinema Marvel 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31706
+#EXTINF:-1 tvg-id="" tvg-name="Coraje el Perro Cobarde 24/7" tvg-logo="" group-title="CANALES 24/7",Coraje el Perro Cobarde 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49656
+#EXTINF:-1 tvg-id="" tvg-name="CSI Miami 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/CSI_Miami%2C_The_2nd_Season.jpg" group-title="CANALES 24/7",CSI Miami 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49822
+#EXTINF:-1 tvg-id="" tvg-name="Death Note 24/7" tvg-logo="" group-title="CANALES 24/7",Death Note 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49654
+#EXTINF:-1 tvg-id="" tvg-name="Des-Encanto 24/7" tvg-logo="" group-title="CANALES 24/7",Des-Encanto 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49653
+#EXTINF:-1 tvg-id="" tvg-name="Digimon 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Digimon 24/7
+http://azplay.ddns.me:33200/derek1/derek1/30969
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios 24/7" tvg-logo="" group-title="CANALES 24/7",Dinosaurios 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49651
+#EXTINF:-1 tvg-id="" tvg-name="Don Gato y Su Pandilla 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Don Gato y Su Pandilla 24/7
+http://azplay.ddns.me:33200/derek1/derek1/48796
+#EXTINF:-1 tvg-id="" tvg-name="Dora La Exploradora 24/7" tvg-logo="" group-title="CANALES 24/7",Dora La Exploradora 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49655
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dragonball_%284-Star%29.svg/220px-Dragonball_%284-Star%29.svg.png" group-title="CANALES 24/7",Dragon Ball 24/7
+http://azplay.ddns.me:33200/derek1/derek1/30917
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Dragon Ball GT 24/7
+http://azplay.ddns.me:33200/derek1/derek1/30397
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super 24/7" tvg-logo="" group-title="CANALES 24/7",Dragon Ball Super 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49640
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dragonball_%284-Star%29.svg/220px-Dragonball_%284-Star%29.svg.png" group-title="CANALES 24/7",Dragon Ball Z 24/7
+http://azplay.ddns.me:33200/derek1/derek1/5874
+#EXTINF:-1 tvg-id="" tvg-name="El Chapulín Colorado 24/7" tvg-logo="" group-title="CANALES 24/7",El Chapulín Colorado 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49647
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="https://i.postimg.cc/rFSCG5w1/chavo.png" group-title="CANALES 24/7",El Chavo del 8 24/7
+http://azplay.ddns.me:33200/derek1/derek1/14720
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo Del 8 TV 24/7" tvg-logo="https://i.postimg.cc/rFSCG5w1/chavo.png" group-title="CANALES 24/7",El Chavo Del 8 TV 24/7
+http://azplay.ddns.me:33200/derek1/derek1/48357
+#EXTINF:-1 tvg-id="" tvg-name="El Laboratorio de Dexter 24/7" tvg-logo="" group-title="CANALES 24/7",El Laboratorio de Dexter 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49652
+#EXTINF:-1 tvg-id="" tvg-name="El Príncipe del Rap 24/7" tvg-logo="" group-title="CANALES 24/7",El Príncipe del Rap 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49649
+#EXTINF:-1 tvg-id="" tvg-name="El Pájaro Loco 24/7" tvg-logo="" group-title="CANALES 24/7",El Pájaro Loco 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49648
+#EXTINF:-1 tvg-id="" tvg-name="El show de los Looney Tunes 24/7" tvg-logo="" group-title="CANALES 24/7",El show de los Looney Tunes 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49650
+#EXTINF:-1 tvg-id="" tvg-name="Extranormal 24/7" tvg-logo="" group-title="CANALES 24/7",Extranormal 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49663
+#EXTINF:-1 tvg-id="" tvg-name="ED EDD Y EDDY 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",ED EDD Y EDDY 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31724
+#EXTINF:-1 tvg-id="" tvg-name="Garfield 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Garfield 24/7
+http://azplay.ddns.me:33200/derek1/derek1/13316
+#EXTINF:-1 tvg-id="" tvg-name="Gravity Falls 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Gravity Falls 24/7
+http://azplay.ddns.me:33200/derek1/derek1/30599
+#EXTINF:-1 tvg-id="" tvg-name="Grizzy y Los Lemmings 24/7" tvg-logo="" group-title="CANALES 24/7",Grizzy y Los Lemmings 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49662
+#EXTINF:-1 tvg-id="" tvg-name="Hechizada 24/7" tvg-logo="" group-title="CANALES 24/7",Hechizada 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49646
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold! 24/7" tvg-logo="" group-title="CANALES 24/7",Hey Arnold! 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49659
+#EXTINF:-1 tvg-id="" tvg-name="Historias De Ultra Tumba 24x7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Historias De Ultra Tumba 24x7
+http://azplay.ddns.me:33200/derek1/derek1/51428
+#EXTINF:-1 tvg-id="" tvg-name="Jovenes Titanes 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Jovenes Titanes 24/7
+http://azplay.ddns.me:33200/derek1/derek1/48794
+#EXTINF:-1 tvg-id="" tvg-name="Jefe Bebe 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Jefe Bebe 24/7
+http://azplay.ddns.me:33200/derek1/derek1/13318
+#EXTINF:-1 tvg-id="" tvg-name="Jimmy Neutron 24/7" tvg-logo="" group-title="CANALES 24/7",Jimmy Neutron 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49639
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Test 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Johnny Test 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31722
+#EXTINF:-1 tvg-id="" tvg-name="Kids 1 24x7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Kids 1 24x7
+http://azplay.ddns.me:33200/derek1/derek1/51765
+#EXTINF:-1 tvg-id="" tvg-name="Kids 2 24x7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Kids 2 24x7
+http://azplay.ddns.me:33200/derek1/derek1/51766
+#EXTINF:-1 tvg-id="" tvg-name="La Casa De Mickey Mouse 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",La Casa De Mickey Mouse 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31723
+#EXTINF:-1 tvg-id="" tvg-name="La Familia Peluche 24/7" tvg-logo="" group-title="CANALES 24/7",La Familia Peluche 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49666
+#EXTINF:-1 tvg-id="" tvg-name="La Pantera Rosa 24/7" tvg-logo="" group-title="CANALES 24/7",La Pantera Rosa 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49645
+#EXTINF:-1 tvg-id="" tvg-name="La Princesa Sofia 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",La Princesa Sofia 24/7
+http://azplay.ddns.me:33200/derek1/derek1/13317
+#EXTINF:-1 tvg-id="" tvg-name="La Vaca y el Pollito 24/7" tvg-logo="" group-title="CANALES 24/7",La Vaca y el Pollito 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49642
+#EXTINF:-1 tvg-id="" tvg-name="Los  Simpsons  24/7" tvg-logo="https://img.huffingtonpost.com/asset/5df79f752500004071d3050f.jpeg" group-title="CANALES 24/7",Los  Simpsons  24/7
+http://azplay.ddns.me:33200/derek1/derek1/31721
+#EXTINF:-1 tvg-id="" tvg-name="Los Caballeros Del Zodiaco 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Los Caballeros Del Zodiaco 24/7
+http://azplay.ddns.me:33200/derek1/derek1/30401
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra 24/7" tvg-logo="https://i.ibb.co/gyhBGs3/The-Flintstones.jpg" group-title="CANALES 24/7",Los Picapiedra 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31726
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson Retro 24/7" tvg-logo="https://img.huffingtonpost.com/asset/5df79f752500004071d3050f.jpeg" group-title="CANALES 24/7",Los Simpson Retro 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49660
+#EXTINF:-1 tvg-id="" tvg-name="Malcom 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Malcom 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31725
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio 24/7" tvg-logo="" group-title="CANALES 24/7",Mi Bella Genio 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49644
+#EXTINF:-1 tvg-id="" tvg-name="Miraculous" tvg-logo="https://s1.eestatic.com/2018/05/08/elandroidelibre/el_androide_libre_305735397_179778656_1706x960.jpg" group-title="CANALES 24/7",Miraculous
+http://azplay.ddns.me:33200/derek1/derek1/50739
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="CANALES 24/7",Mix 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31698
+#EXTINF:-1 tvg-id="" tvg-name="Mix Conciertos 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="CANALES 24/7",Mix Conciertos 24/7
+http://azplay.ddns.me:33200/derek1/derek1/48305
+#EXTINF:-1 tvg-id="" tvg-name="Mix Hits 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="CANALES 24/7",Mix Hits 24/7
+http://azplay.ddns.me:33200/derek1/derek1/48306
+#EXTINF:-1 tvg-id="" tvg-name="Mix Retro 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="CANALES 24/7",Mix Retro 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31702
+#EXTINF:-1 tvg-id="" tvg-name="Mix Rock 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="CANALES 24/7",Mix Rock 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31701
+#EXTINF:-1 tvg-id="" tvg-name="Mix Top 100 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="CANALES 24/7",Mix Top 100 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31703
+#EXTINF:-1 tvg-id="" tvg-name="Mr Bean 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Mr Bean 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31711
+#EXTINF:-1 tvg-id="" tvg-name="Navidad 24/7" tvg-logo="" group-title="CANALES 24/7",Navidad 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49643
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Uno 24/7" tvg-logo="https://www.muycomputer.com/wp-content/uploads/2021/09/TUDUM.jpg" group-title="CANALES 24/7",Netflix Uno 24/7
+http://azplay.ddns.me:33200/derek1/derek1/50733
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Dos 24/7" tvg-logo="https://www.muycomputer.com/wp-content/uploads/2021/09/TUDUM.jpg" group-title="CANALES 24/7",Netflix Dos 24/7
+http://azplay.ddns.me:33200/derek1/derek1/50734
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Tres 24/7" tvg-logo="https://www.muycomputer.com/wp-content/uploads/2021/09/TUDUM.jpg" group-title="CANALES 24/7",Netflix Tres 24/7
+http://azplay.ddns.me:33200/derek1/derek1/50735
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cuatro 24/7" tvg-logo="https://www.muycomputer.com/wp-content/uploads/2021/09/TUDUM.jpg" group-title="CANALES 24/7",Netflix Cuatro 24/7
+http://azplay.ddns.me:33200/derek1/derek1/50736
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinco 24/7" tvg-logo="https://www.muycomputer.com/wp-content/uploads/2021/09/TUDUM.jpg" group-title="CANALES 24/7",Netflix Cinco 24/7
+http://azplay.ddns.me:33200/derek1/derek1/50737
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Seis 24/7" tvg-logo="https://www.muycomputer.com/wp-content/uploads/2021/09/TUDUM.jpg" group-title="CANALES 24/7",Netflix Seis 24/7
+http://azplay.ddns.me:33200/derek1/derek1/50738
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Peppa Pig 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31713
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon 24/7" tvg-logo="" group-title="CANALES 24/7",Pokemon 24/7
+http://azplay.ddns.me:33200/derek1/derek1/49641
+#EXTINF:-1 tvg-id="" tvg-name="Rugrats 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Rugrats 24/7
+http://azplay.ddns.me:33200/derek1/derek1/51429
+#EXTINF:-1 tvg-id="" tvg-name="Sailor Moon 24/7" tvg-logo="https://m.media-amazon.com/images/I/71DwGSLGjtL._SL1500_.jpg" group-title="CANALES 24/7",Sailor Moon 24/7
+http://azplay.ddns.me:33200/derek1/derek1/50740
+#EXTINF:-1 tvg-id="" tvg-name="Solo Stand Up 24/7" tvg-logo="https://i.ibb.co/N7Dv08v/113072-Solo-Stand-Up.png" group-title="CANALES 24/7",Solo Stand Up 24/7
+http://azplay.ddns.me:33200/derek1/derek1/31699
+#EXTINF:-1 tvg-id="" tvg-name="Super Campeones 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Super Campeones 24/7
+http://azplay.ddns.me:33200/derek1/derek1/48792
+#EXTINF:-1 tvg-id="" tvg-name="Super Cine  24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="CANALES 24/7",Super Cine  24/7
+http://azplay.ddns.me:33200/derek1/derek1/33182
+#EXTINF:-1 tvg-id="" tvg-name="Thundercast 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Thundercast 24/7
+http://azplay.ddns.me:33200/derek1/derek1/48793
+#EXTINF:-1 tvg-id="" tvg-name="Top Latino 24/7" tvg-logo="https://i.ibb.co/SJTnQT6/96280-TOP-Latino-TV.png" group-title="CANALES 24/7",Top Latino 24/7
+http://azplay.ddns.me:33200/derek1/derek1/33409
+#EXTINF:-1 tvg-id="" tvg-name="Top Tv 24/7" tvg-logo="https://i.ibb.co/5969hY4/109950-Top-TV.png" group-title="CANALES 24/7",Top Tv 24/7
+http://azplay.ddns.me:33200/derek1/derek1/33410
+#EXTINF:-1 tvg-id="" tvg-name="TV Clásica 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="CANALES 24/7",TV Clásica 24/7
+http://azplay.ddns.me:33200/derek1/derek1/33181
+#EXTINF:-1 tvg-id="" tvg-name="TV Éxitos 24/7" tvg-logo="https://i.ibb.co/W3zFFkr/115097-TV-Exitos.jpg" group-title="CANALES 24/7",TV Éxitos 24/7
+http://azplay.ddns.me:33200/derek1/derek1/30481
+#EXTINF:-1 tvg-id="" tvg-name="Video Tour Channel 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="CANALES 24/7",Video Tour Channel 24/7
+http://azplay.ddns.me:33200/derek1/derek1/48307
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH! 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",YU-GI-OH! 24/7
+http://azplay.ddns.me:33200/derek1/derek1/48795
+#EXTINF:-1 tvg-id="" tvg-name="Andorra Difusión " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f40e8d9331b1b4bcde803699fa46f7fd.webp" group-title="VARIEDADES",Andorra Difusión 
+http://azplay.ddns.me:33200/derek1/derek1/6897
+#EXTINF:-1 tvg-id="I704.27773.schedulesdirect.org" tvg-name="CNN en Español" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cnn_espanol.png" group-title="VARIEDADES",CNN en Español
+http://azplay.ddns.me:33200/derek1/derek1/2435
+#EXTINF:-1 tvg-id="I706.15192.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="VARIEDADES",CNN International
+http://azplay.ddns.me:33200/derek1/derek1/4889
+#EXTINF:-1 tvg-id="I1215.74906.schedulesdirect.org" tvg-name="Comedy Central" tvg-logo="https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/59a6d19fe4fcb5eb2c598014/59dbbffa9f7456d488c5a5c3/1536683776234/CC_APP_ICON.png" group-title="VARIEDADES",Comedy Central
+http://azplay.ddns.me:33200/derek1/derek1/2436
+#EXTINF:-1 tvg-id="I215.74528.schedulesdirect.org" tvg-name="Comedy Central HD" tvg-logo="https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/59a6d19fe4fcb5eb2c598014/59dbbffa9f7456d488c5a5c3/1536683776234/CC_APP_ICON.png" group-title="VARIEDADES",Comedy Central HD
+http://azplay.ddns.me:33200/derek1/derek1/2682
+#EXTINF:-1 tvg-id="I272.55980.schedulesdirect.org" tvg-name="Distrito Comedia" tvg-logo="https://i.postimg.cc/wvM1qyY4/dco.jpg" group-title="VARIEDADES",Distrito Comedia
+http://azplay.ddns.me:33200/derek1/derek1/7104
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="E!" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/E-logo.png" group-title="VARIEDADES",E!
+http://azplay.ddns.me:33200/derek1/derek1/2700
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="E! HD" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/E-logo.png" group-title="VARIEDADES",E! HD
+http://azplay.ddns.me:33200/derek1/derek1/2699
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="El Gourmet" tvg-logo="https://assets3.domestika.org/project-covers/000/150/543/150543-thumb-gourmet.png?1415314426" group-title="VARIEDADES",El Gourmet
+http://azplay.ddns.me:33200/derek1/derek1/2693
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://www.fashiontv.com/wp-content/themes/fashiontvplus/images/fashiontvlogo.png" group-title="VARIEDADES",Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="VARIEDADES",Food Network
+http://azplay.ddns.me:33200/derek1/derek1/6348
+#EXTINF:-1 tvg-id="I224.61514.schedulesdirect.org" tvg-name="Glitz*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/705px-Logo_Glitz.svg.png" group-title="VARIEDADES",Glitz
+http://azplay.ddns.me:33200/derek1/derek1/2441
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Hispan TV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hispan-tv_m.png" group-title="VARIEDADES",Hispan TV
+http://azplay.ddns.me:33200/derek1/derek1/6649
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="Hola! TV" tvg-logo="https://www.himgs.com/imagenes/hola/comunes/logo-amp-plus.png" group-title="VARIEDADES",Hola! TV
+http://azplay.ddns.me:33200/derek1/derek1/2442
+#EXTINF:-1 tvg-id="I228.89197.schedulesdirect.org" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Lifetimelogo.png" group-title="VARIEDADES",Lifetime
+http://azplay.ddns.me:33200/derek1/derek1/2443
+#EXTINF:-1 tvg-id="I521.89213.schedulesdirect.org" tvg-name="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Lifetimelogo.png" group-title="VARIEDADES",Lifetime HD
+http://azplay.ddns.me:33200/derek1/derek1/30887
+#EXTINF:-1 tvg-id="I230.17457.schedulesdirect.org" tvg-name="Mas Chic" tvg-logo="http://maschic.com/img/logo.jpg" group-title="VARIEDADES",Mas Chic
+http://azplay.ddns.me:33200/derek1/derek1/2444
+#EXTINF:-1 tvg-id="I847.91978.schedulesdirect.org" tvg-name="Pasiones HD" tvg-logo="http://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="VARIEDADES",Pasiones HD
+http://azplay.ddns.me:33200/derek1/derek1/4888
+#EXTINF:-1 tvg-id="" tvg-name="RT Español" tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="VARIEDADES",RT Español
+http://azplay.ddns.me:33200/derek1/derek1/6826
+#EXTINF:-1 tvg-id="I1.91035.schedulesdirect.org" tvg-name="Telemundo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/772px-Telemundo_logo_2012.svg.png" group-title="VARIEDADES",Telemundo HD
+http://azplay.ddns.me:33200/derek1/derek1/2445
+#EXTINF:-1 tvg-id="I220.16496.schedulesdirect.org" tvg-name="TruTV" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/nfe_square_383x383/2015/11/trutv-logo3.jpg" group-title="VARIEDADES",TruTV
+http://azplay.ddns.me:33200/derek1/derek1/2449
+#EXTINF:-1 tvg-id="I200.67687.schedulesdirect.org" tvg-name="Unicable" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/Canal-U.png" group-title="VARIEDADES",Unicable
+http://azplay.ddns.me:33200/derek1/derek1/2450
+#EXTINF:-1 tvg-id="" tvg-name="Venevision Plus" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/Ve_Plus_3D-Color_HiRes.png" group-title="VARIEDADES",Venevision Plus
+http://azplay.ddns.me:33200/derek1/derek1/2430
+#EXTINF:-1 tvg-id="" tvg-name="(GE) 1 TV (240p)" tvg-logo="" group-title="VARIEDADES",(GE) 1 TV (240p)
+http://azplay.ddns.me:33200/derek1/derek1/40026
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Albania" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b89c9ff74cbc77afd639adc552d9bb95.webp" group-title="VARIEDADES",ABC News Albania
+http://azplay.ddns.me:33200/derek1/derek1/40027
+#EXTINF:-1 tvg-id="" tvg-name="DW - German" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd20dc7ce12901f45a5f100a4cc97032.webp" group-title="VARIEDADES",DW - German
+http://azplay.ddns.me:33200/derek1/derek1/40028
+#EXTINF:-1 tvg-id="" tvg-name="DW - Latino América" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72c2e755583c084db6d912451f548194.webp" group-title="VARIEDADES",DW - Latino América
+http://azplay.ddns.me:33200/derek1/derek1/40029
+#EXTINF:-1 tvg-id="" tvg-name="-kkr" tvg-logo="" group-title="VARIEDADES",-kkr
+http://azplay.ddns.me:33200/derek1/derek1/40030
+#EXTINF:-1 tvg-id="" tvg-name="Deluxe Music Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9586bb20d5d3b912d6a1d7ee4aca0e8.webp" group-title="VARIEDADES",Deluxe Music Tv
+http://azplay.ddns.me:33200/derek1/derek1/40031
+#EXTINF:-1 tvg-id="" tvg-name="1 TV (1080p)" tvg-logo="" group-title="VARIEDADES",1 TV (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40032
+#EXTINF:-1 tvg-id="" tvg-name="1 TV" tvg-logo="" group-title="VARIEDADES",1 TV
+http://azplay.ddns.me:33200/derek1/derek1/40033
+#EXTINF:-1 tvg-id="" tvg-name="1+1" tvg-logo="" group-title="VARIEDADES",1+1
+http://azplay.ddns.me:33200/derek1/derek1/40034
+#EXTINF:-1 tvg-id="" tvg-name="1-2-3 TV (480p)" tvg-logo="" group-title="VARIEDADES",1-2-3 TV (480p)
+http://azplay.ddns.me:33200/derek1/derek1/40035
+#EXTINF:-1 tvg-id="" tvg-name="Baden TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8ea0f2c2dec00455c80a3e0d85c5534.webp" group-title="VARIEDADES",Baden TV
+http://azplay.ddns.me:33200/derek1/derek1/40036
+#EXTINF:-1 tvg-id="" tvg-name="BR FERNSEHEN SÜD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e1d9632c029c60ff6241cf6e43d20f0.webp" group-title="VARIEDADES",BR FERNSEHEN SÜD
+http://azplay.ddns.me:33200/derek1/derek1/40037
+#EXTINF:-1 tvg-id="" tvg-name="Sonus FM" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef0d267a320aa8f68f695f83a70e7e8f.webp" group-title="VARIEDADES",Sonus FM
+http://azplay.ddns.me:33200/derek1/derek1/40038
+#EXTINF:-1 tvg-id="" tvg-name="Augsburg Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c35b32cf90dc4d4ac8d9fe0bcb7c556.webp" group-title="VARIEDADES",Augsburg Tv
+http://azplay.ddns.me:33200/derek1/derek1/40039
+#EXTINF:-1 tvg-id="" tvg-name="1001 Noites (720p)" tvg-logo="" group-title="VARIEDADES",1001 Noites (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40040
+#EXTINF:-1 tvg-id="" tvg-name="101 Tele Antequera" tvg-logo="" group-title="VARIEDADES",101 Tele Antequera
+http://azplay.ddns.me:33200/derek1/derek1/40041
+#EXTINF:-1 tvg-id="" tvg-name="101TV Malaga" tvg-logo="" group-title="VARIEDADES",101TV Malaga
+http://azplay.ddns.me:33200/derek1/derek1/40042
+#EXTINF:-1 tvg-id="" tvg-name="Das Erste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e573463c3c418c2af20e2f7f28a21ab.webp" group-title="VARIEDADES",Das Erste
+http://azplay.ddns.me:33200/derek1/derek1/40043
+#EXTINF:-1 tvg-id="" tvg-name="Alex Berlin" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a06a2d3f025fe0aed440bc0abc548b9b.webp" group-title="VARIEDADES",Alex Berlin
+http://azplay.ddns.me:33200/derek1/derek1/40044
+#EXTINF:-1 tvg-id="" tvg-name="1HD (Music)" tvg-logo="" group-title="VARIEDADES",1HD (Music)
+http://azplay.ddns.me:33200/derek1/derek1/40045
+#EXTINF:-1 tvg-id="" tvg-name="1Music Channel Hungary" tvg-logo="" group-title="VARIEDADES",1Music Channel Hungary
+http://azplay.ddns.me:33200/derek1/derek1/40047
+#EXTINF:-1 tvg-id="" tvg-name="1Music Channel Hungary" tvg-logo="" group-title="VARIEDADES",1Music Channel Hungary
+http://azplay.ddns.me:33200/derek1/derek1/40048
+#EXTINF:-1 tvg-id="" tvg-name="DW - Amerika" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6aee38bc7549fe7e8258d9d49ee6a133.webp" group-title="VARIEDADES",DW - Amerika
+http://azplay.ddns.me:33200/derek1/derek1/40049
+#EXTINF:-1 tvg-id="" tvg-name="DW - Arabia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ca7e53bf124ab9996c0f10e189bf38d.webp" group-title="VARIEDADES",DW - Arabia
+http://azplay.ddns.me:33200/derek1/derek1/40050
+#EXTINF:-1 tvg-id="" tvg-name="DW - English" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d88127c9452aea8ae8dbfc143cd4132e.webp" group-title="VARIEDADES",DW - English
+http://azplay.ddns.me:33200/derek1/derek1/40051
+#EXTINF:-1 tvg-id="" tvg-name="TPA Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b91d6d5f5f614249045850c18dd06277.webp" group-title="VARIEDADES",TPA Internacional
+http://azplay.ddns.me:33200/derek1/derek1/40052
+#EXTINF:-1 tvg-id="" tvg-name="Canal Evangelica Tv1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b4188c112f8f1fa95ecf6b54adf4b56c.webp" group-title="VARIEDADES",Canal Evangelica Tv1
+http://azplay.ddns.me:33200/derek1/derek1/40053
+#EXTINF:-1 tvg-id="" tvg-name="Expo Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e900ae6c0aeaf2c283fef297b0500bea.webp" group-title="VARIEDADES",Expo Channel
+http://azplay.ddns.me:33200/derek1/derek1/40054
+#EXTINF:-1 tvg-id="" tvg-name="24 Hour Free Movies" tvg-logo="" group-title="VARIEDADES",24 Hour Free Movies
+http://azplay.ddns.me:33200/derek1/derek1/40055
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen" tvg-logo="" group-title="VARIEDADES",24 Kitchen
+http://azplay.ddns.me:33200/derek1/derek1/40056
+#EXTINF:-1 tvg-id="" tvg-name="24 TV Culturales (Peru)" tvg-logo="" group-title="VARIEDADES",24 TV Culturales (Peru)
+http://azplay.ddns.me:33200/derek1/derek1/40057
+#EXTINF:-1 tvg-id="" tvg-name="24 ?????" tvg-logo="" group-title="VARIEDADES",24 ?????
+http://azplay.ddns.me:33200/derek1/derek1/40058
+#EXTINF:-1 tvg-id="" tvg-name="24 ????? (1080p)" tvg-logo="" group-title="VARIEDADES",24 ????? (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40059
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Canal de Noticias (720p)" tvg-logo="" group-title="VARIEDADES",24/7 Canal de Noticias (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40060
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Canal de Noticias" tvg-logo="" group-title="VARIEDADES",24/7 Canal de Noticias
+http://azplay.ddns.me:33200/derek1/derek1/40061
+#EXTINF:-1 tvg-id="" tvg-name="247 Retro TV" tvg-logo="" group-title="VARIEDADES",247 Retro TV
+http://azplay.ddns.me:33200/derek1/derek1/40062
+#EXTINF:-1 tvg-id="" tvg-name="24h (576p)" tvg-logo="" group-title="VARIEDADES",24h (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40063
+#EXTINF:-1 tvg-id="" tvg-name="24h (576p)" tvg-logo="" group-title="VARIEDADES",24h (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40064
+#EXTINF:-1 tvg-id="" tvg-name="24h (1080p)" tvg-logo="" group-title="VARIEDADES",24h (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40065
+#EXTINF:-1 tvg-id="" tvg-name="25 TV" tvg-logo="" group-title="VARIEDADES",25 TV
+http://azplay.ddns.me:33200/derek1/derek1/40066
+#EXTINF:-1 tvg-id="" tvg-name="25 TV" tvg-logo="" group-title="VARIEDADES",25 TV
+http://azplay.ddns.me:33200/derek1/derek1/40067
+#EXTINF:-1 tvg-id="" tvg-name="28 Kanala (720p)" tvg-logo="" group-title="VARIEDADES",28 Kanala (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40068
+#EXTINF:-1 tvg-id="" tvg-name="28 kanala (720p)" tvg-logo="" group-title="VARIEDADES",28 kanala (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40069
+#EXTINF:-1 tvg-id="" tvg-name="2M Monde (360p)" tvg-logo="" group-title="VARIEDADES",2M Monde (360p)
+http://azplay.ddns.me:33200/derek1/derek1/40070
+#EXTINF:-1 tvg-id="" tvg-name="2TV" tvg-logo="" group-title="VARIEDADES",2TV
+http://azplay.ddns.me:33200/derek1/derek1/40071
+#EXTINF:-1 tvg-id="" tvg-name="3 Tamil TV (720p)" tvg-logo="" group-title="VARIEDADES",3 Tamil TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40072
+#EXTINF:-1 tvg-id="" tvg-name="3/24 (1080p)" tvg-logo="" group-title="VARIEDADES",3/24 (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40073
+#EXTINF:-1 tvg-id="" tvg-name="3/24" tvg-logo="" group-title="VARIEDADES",3/24
+http://azplay.ddns.me:33200/derek1/derek1/40074
+#EXTINF:-1 tvg-id="" tvg-name="30A Darcizzle Offshore (720p)" tvg-logo="" group-title="VARIEDADES",30A Darcizzle Offshore (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40075
+#EXTINF:-1 tvg-id="" tvg-name="30A Investment Pitch" tvg-logo="" group-title="VARIEDADES",30A Investment Pitch
+http://azplay.ddns.me:33200/derek1/derek1/40076
+#EXTINF:-1 tvg-id="" tvg-name="30A Music (720p)" tvg-logo="" group-title="VARIEDADES",30A Music (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40077
+#EXTINF:-1 tvg-id="" tvg-name="30A Sidewalks (720p)" tvg-logo="" group-title="VARIEDADES",30A Sidewalks (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40078
+#EXTINF:-1 tvg-id="" tvg-name="30A The Beach Show (720p)" tvg-logo="" group-title="VARIEDADES",30A The Beach Show (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40079
+#EXTINF:-1 tvg-id="" tvg-name="30A TV (720p)" tvg-logo="" group-title="VARIEDADES",30A TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40080
+#EXTINF:-1 tvg-id="" tvg-name="31 ?????" tvg-logo="" group-title="VARIEDADES",31 ?????
+http://azplay.ddns.me:33200/derek1/derek1/40081
+#EXTINF:-1 tvg-id="" tvg-name="324 (1080p)" tvg-logo="" group-title="VARIEDADES",324 (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40082
+#EXTINF:-1 tvg-id="" tvg-name="33" tvg-logo="" group-title="VARIEDADES",33
+http://azplay.ddns.me:33200/derek1/derek1/40083
+#EXTINF:-1 tvg-id="" tvg-name="34 ????? (576p)" tvg-logo="" group-title="VARIEDADES",34 ????? (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40084
+#EXTINF:-1 tvg-id="" tvg-name="360" tvg-logo="" group-title="VARIEDADES",360
+http://azplay.ddns.me:33200/derek1/derek1/40085
+#EXTINF:-1 tvg-id="" tvg-name="360 TV SD" tvg-logo="" group-title="VARIEDADES",360 TV SD
+http://azplay.ddns.me:33200/derek1/derek1/40086
+#EXTINF:-1 tvg-id="" tvg-name="360° (1080p)" tvg-logo="" group-title="VARIEDADES",360° (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40087
+#EXTINF:-1 tvg-id="" tvg-name="360° (720p)" tvg-logo="" group-title="VARIEDADES",360° (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40088
+#EXTINF:-1 tvg-id="" tvg-name="360° ??????? (1080p)" tvg-logo="" group-title="VARIEDADES",360° ??????? (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40089
+#EXTINF:-1 tvg-id="" tvg-name="38 KENT TV" tvg-logo="" group-title="VARIEDADES",38 KENT TV
+http://azplay.ddns.me:33200/derek1/derek1/40090
+#EXTINF:-1 tvg-id="" tvg-name="3ABN" tvg-logo="" group-title="VARIEDADES",3ABN
+http://azplay.ddns.me:33200/derek1/derek1/40091
+#EXTINF:-1 tvg-id="" tvg-name="3ABN" tvg-logo="" group-title="VARIEDADES",3ABN
+http://azplay.ddns.me:33200/derek1/derek1/40092
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Dare to Dream" tvg-logo="" group-title="VARIEDADES",3ABN Dare to Dream
+http://azplay.ddns.me:33200/derek1/derek1/40093
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Français" tvg-logo="" group-title="VARIEDADES",3ABN Français
+http://azplay.ddns.me:33200/derek1/derek1/40094
+#EXTINF:-1 tvg-id="" tvg-name="3ABN International" tvg-logo="" group-title="VARIEDADES",3ABN International
+http://azplay.ddns.me:33200/derek1/derek1/40095
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Kids" tvg-logo="" group-title="VARIEDADES",3ABN Kids
+http://azplay.ddns.me:33200/derek1/derek1/40096
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Latino" tvg-logo="" group-title="VARIEDADES",3ABN Latino
+http://azplay.ddns.me:33200/derek1/derek1/40097
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Latino (720p)" tvg-logo="" group-title="VARIEDADES",3ABN Latino (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40098
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Praise Him Music Channel" tvg-logo="" group-title="VARIEDADES",3ABN Praise Him Music Channel
+http://azplay.ddns.me:33200/derek1/derek1/40099
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Praise Him Music Channel" tvg-logo="" group-title="VARIEDADES",3ABN Praise Him Music Channel
+http://azplay.ddns.me:33200/derek1/derek1/40100
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Proclaim!" tvg-logo="" group-title="VARIEDADES",3ABN Proclaim!
+http://azplay.ddns.me:33200/derek1/derek1/40101
+#EXTINF:-1 tvg-id="" tvg-name="3ABN RussiaA" tvg-logo="" group-title="VARIEDADES",3ABN RussiaA
+http://azplay.ddns.me:33200/derek1/derek1/40102
+#EXTINF:-1 tvg-id="" tvg-name="3ABN USA EN" tvg-logo="" group-title="VARIEDADES",3ABN USA EN
+http://azplay.ddns.me:33200/derek1/derek1/40103
+#EXTINF:-1 tvg-id="" tvg-name="3ABN | French" tvg-logo="" group-title="VARIEDADES",3ABN | French
+http://azplay.ddns.me:33200/derek1/derek1/40104
+#EXTINF:-1 tvg-id="" tvg-name="3AW (Melburne) (574p)" tvg-logo="" group-title="VARIEDADES",3AW (Melburne) (574p)
+http://azplay.ddns.me:33200/derek1/derek1/40105
+#EXTINF:-1 tvg-id="" tvg-name="3News Now (KMTV-TV) (720p)" tvg-logo="" group-title="VARIEDADES",3News Now (KMTV-TV) (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40106
+#EXTINF:-1 tvg-id="" tvg-name="4 Kurd" tvg-logo="" group-title="VARIEDADES",4 Kurd
+http://azplay.ddns.me:33200/derek1/derek1/40107
+#EXTINF:-1 tvg-id="" tvg-name="4 Río CUARTO" tvg-logo="" group-title="VARIEDADES",4 Río CUARTO
+http://azplay.ddns.me:33200/derek1/derek1/40108
+#EXTINF:-1 tvg-id="" tvg-name="4 Turk Music" tvg-logo="" group-title="VARIEDADES",4 Turk Music
+http://azplay.ddns.me:33200/derek1/derek1/40109
+#EXTINF:-1 tvg-id="" tvg-name="4 ?????" tvg-logo="" group-title="VARIEDADES",4 ?????
+http://azplay.ddns.me:33200/derek1/derek1/40110
+#EXTINF:-1 tvg-id="" tvg-name="404 Stingray Greatest Hits (1080p)" tvg-logo="" group-title="VARIEDADES",404 Stingray Greatest Hits (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40111
+#EXTINF:-1 tvg-id="" tvg-name="405 Stingray Hit List (1080p)" tvg-logo="" group-title="VARIEDADES",405 Stingray Hit List (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40112
+#EXTINF:-1 tvg-id="" tvg-name="406 Stingray Classic Rock (1080p)" tvg-logo="" group-title="VARIEDADES",406 Stingray Classic Rock (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40113
+#EXTINF:-1 tvg-id="" tvg-name="407 Stingray Rock Alternative (1080p)" tvg-logo="" group-title="VARIEDADES",407 Stingray Rock Alternative (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40114
+#EXTINF:-1 tvg-id="" tvg-name="409 Stingray Urban Beat (1080p)" tvg-logo="" group-title="VARIEDADES",409 Stingray Urban Beat (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40116
+#EXTINF:-1 tvg-id="" tvg-name="410 Stingray Hot Country (1080p)" tvg-logo="" group-title="VARIEDADES",410 Stingray Hot Country (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40117
+#EXTINF:-1 tvg-id="" tvg-name="411 Stingray Flashback 70s (1080p)" tvg-logo="" group-title="VARIEDADES",411 Stingray Flashback 70s (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40118
+#EXTINF:-1 tvg-id="" tvg-name="412 Stingray Everything 80s (1080p)" tvg-logo="" group-title="VARIEDADES",412 Stingray Everything 80s (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40119
+#EXTINF:-1 tvg-id="" tvg-name="413 Stingray Todays Latin Pop (1080p)" tvg-logo="" group-title="VARIEDADES",413 Stingray Todays Latin Pop (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40120
+#EXTINF:-1 tvg-id="" tvg-name="43 ?????" tvg-logo="" group-title="VARIEDADES",43 ?????
+http://azplay.ddns.me:33200/derek1/derek1/40121
+#EXTINF:-1 tvg-id="" tvg-name="47 ????? (1080p)" tvg-logo="" group-title="VARIEDADES",47 ????? (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40122
+#EXTINF:-1 tvg-id="" tvg-name="4E (576p)" tvg-logo="" group-title="VARIEDADES",4E (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40123
+#EXTINF:-1 tvg-id="" tvg-name="5AAB TV" tvg-logo="" group-title="VARIEDADES",5AAB TV
+http://azplay.ddns.me:33200/derek1/derek1/40124
+#EXTINF:-1 tvg-id="" tvg-name="5AAB TV (720p)" tvg-logo="" group-title="VARIEDADES",5AAB TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40125
+#EXTINF:-1 tvg-id="" tvg-name="5TV (Corrientes) (480p)" tvg-logo="" group-title="VARIEDADES",5TV (Corrientes) (480p)
+http://azplay.ddns.me:33200/derek1/derek1/40126
+#EXTINF:-1 tvg-id="" tvg-name="5TV Corrientes" tvg-logo="" group-title="VARIEDADES",5TV Corrientes
+http://azplay.ddns.me:33200/derek1/derek1/40127
+#EXTINF:-1 tvg-id="" tvg-name="6ter (576p)" tvg-logo="" group-title="VARIEDADES",6ter (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40128
+#EXTINF:-1 tvg-id="" tvg-name="7 Murcia" tvg-logo="" group-title="VARIEDADES",7 Murcia
+http://azplay.ddns.me:33200/derek1/derek1/40129
+#EXTINF:-1 tvg-id="" tvg-name="7 TeleValencia" tvg-logo="" group-title="VARIEDADES",7 TeleValencia
+http://azplay.ddns.me:33200/derek1/derek1/40130
+#EXTINF:-1 tvg-id="" tvg-name="7 ?????" tvg-logo="" group-title="VARIEDADES",7 ?????
+http://azplay.ddns.me:33200/derek1/derek1/40131
+#EXTINF:-1 tvg-id="" tvg-name="7 ?????" tvg-logo="" group-title="VARIEDADES",7 ?????
+http://azplay.ddns.me:33200/derek1/derek1/40132
+#EXTINF:-1 tvg-id="" tvg-name="7 ????? (?????????)" tvg-logo="" group-title="VARIEDADES",7 ????? (?????????)
+http://azplay.ddns.me:33200/derek1/derek1/40133
+#EXTINF:-1 tvg-id="" tvg-name="7 ????? (??????) (720p)" tvg-logo="" group-title="VARIEDADES",7 ????? (??????) (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40134
+#EXTINF:-1 tvg-id="" tvg-name="7 ????? ??????" tvg-logo="" group-title="VARIEDADES",7 ????? ??????
+http://azplay.ddns.me:33200/derek1/derek1/40135
+#EXTINF:-1 tvg-id="" tvg-name="7 ????? ?????? HD" tvg-logo="" group-title="VARIEDADES",7 ????? ?????? HD
+http://azplay.ddns.me:33200/derek1/derek1/40136
+#EXTINF:-1 tvg-id="" tvg-name="7X Music" tvg-logo="" group-title="VARIEDADES",7X Music
+http://azplay.ddns.me:33200/derek1/derek1/40137
+#EXTINF:-1 tvg-id="" tvg-name="8 La Marina TV" tvg-logo="" group-title="VARIEDADES",8 La Marina TV
+http://azplay.ddns.me:33200/derek1/derek1/40138
+#EXTINF:-1 tvg-id="" tvg-name="8 TV Cádiz" tvg-logo="" group-title="VARIEDADES",8 TV Cádiz
+http://azplay.ddns.me:33200/derek1/derek1/40139
+#EXTINF:-1 tvg-id="" tvg-name="8 ?????" tvg-logo="" group-title="VARIEDADES",8 ?????
+http://azplay.ddns.me:33200/derek1/derek1/40140
+#EXTINF:-1 tvg-id="" tvg-name="8 ????? (???????)" tvg-logo="" group-title="VARIEDADES",8 ????? (???????)
+http://azplay.ddns.me:33200/derek1/derek1/40141
+#EXTINF:-1 tvg-id="" tvg-name="8 ????? ????" tvg-logo="" group-title="VARIEDADES",8 ????? ????
+http://azplay.ddns.me:33200/derek1/derek1/40142
+#EXTINF:-1 tvg-id="" tvg-name="80s Loop (1080p)" tvg-logo="" group-title="VARIEDADES",80s Loop (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40143
+#EXTINF:-1 tvg-id="" tvg-name="88 Stereo (486p)" tvg-logo="" group-title="VARIEDADES",88 Stereo (486p)
+http://azplay.ddns.me:33200/derek1/derek1/40144
+#EXTINF:-1 tvg-id="" tvg-name="88 Stereo" tvg-logo="" group-title="VARIEDADES",88 Stereo
+http://azplay.ddns.me:33200/derek1/derek1/40145
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="" group-title="VARIEDADES",8TV
+http://azplay.ddns.me:33200/derek1/derek1/40146
+#EXTINF:-1 tvg-id="" tvg-name="9 la Loma TV" tvg-logo="" group-title="VARIEDADES",9 la Loma TV
+http://azplay.ddns.me:33200/derek1/derek1/40147
+#EXTINF:-1 tvg-id="" tvg-name="9 ????? (576p)" tvg-logo="" group-title="VARIEDADES",9 ????? (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40148
+#EXTINF:-1 tvg-id="" tvg-name="90s Loop (1080p)" tvg-logo="" group-title="VARIEDADES",90s Loop (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40149
+#EXTINF:-1 tvg-id="" tvg-name="92 News (720p)" tvg-logo="" group-title="VARIEDADES",92 News (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40150
+#EXTINF:-1 tvg-id="" tvg-name="92 News UK" tvg-logo="" group-title="VARIEDADES",92 News UK
+http://azplay.ddns.me:33200/derek1/derek1/40151
+#EXTINF:-1 tvg-id="" tvg-name="9XM (480p)" tvg-logo="" group-title="VARIEDADES",9XM (480p)
+http://azplay.ddns.me:33200/derek1/derek1/40152
+#EXTINF:-1 tvg-id="" tvg-name="A NEWSJATT TV- Bhangra Flava (720p)" tvg-logo="" group-title="VARIEDADES",A NEWSJATT TV- Bhangra Flava (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40153
+#EXTINF:-1 tvg-id="" tvg-name="A&E (Best of) (1080p)" tvg-logo="" group-title="VARIEDADES",A&E (Best of) (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40154
+#EXTINF:-1 tvg-id="" tvg-name="A&E Crime 360 (1080p)" tvg-logo="" group-title="VARIEDADES",A&E Crime 360 (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40155
+#EXTINF:-1 tvg-id="" tvg-name="A+E | Lively Place" tvg-logo="" group-title="VARIEDADES",A+E | Lively Place
+http://azplay.ddns.me:33200/derek1/derek1/40156
+#EXTINF:-1 tvg-id="" tvg-name="A2 (576p)" tvg-logo="" group-title="VARIEDADES",A2 (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40157
+#EXTINF:-1 tvg-id="" tvg-name="A2 (432p)" tvg-logo="" group-title="VARIEDADES",A2 (432p)
+http://azplay.ddns.me:33200/derek1/derek1/40158
+#EXTINF:-1 tvg-id="" tvg-name="A2i Music" tvg-logo="" group-title="VARIEDADES",A2i Music
+http://azplay.ddns.me:33200/derek1/derek1/40159
+#EXTINF:-1 tvg-id="" tvg-name="A2i Naja" tvg-logo="" group-title="VARIEDADES",A2i Naja
+http://azplay.ddns.me:33200/derek1/derek1/40160
+#EXTINF:-1 tvg-id="" tvg-name="A2i Religion" tvg-logo="" group-title="VARIEDADES",A2i Religion
+http://azplay.ddns.me:33200/derek1/derek1/40161
+#EXTINF:-1 tvg-id="" tvg-name="A2i TV" tvg-logo="" group-title="VARIEDADES",A2i TV
+http://azplay.ddns.me:33200/derek1/derek1/40162
+#EXTINF:-1 tvg-id="" tvg-name="A2itv (1080p)" tvg-logo="" group-title="VARIEDADES",A2itv (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40163
+#EXTINF:-1 tvg-id="" tvg-name="A3 Bikini (18+)" tvg-logo="" group-title="VARIEDADES",A3 Bikini (18+)
+http://azplay.ddns.me:33200/derek1/derek1/40164
+#EXTINF:-1 tvg-id="" tvg-name="A3BIKINI TV (720p)" tvg-logo="" group-title="VARIEDADES",A3BIKINI TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40165
+#EXTINF:-1 tvg-id="" tvg-name="A7TV (720p)" tvg-logo="" group-title="VARIEDADES",A7TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40166
+#EXTINF:-1 tvg-id="" tvg-name="AA Live" tvg-logo="" group-title="VARIEDADES",AA Live
+http://azplay.ddns.me:33200/derek1/derek1/40167
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Tak (720p)" tvg-logo="" group-title="VARIEDADES",Aaj Tak (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40168
+#EXTINF:-1 tvg-id="" tvg-name="Aathavan TV (720p)" tvg-logo="" group-title="VARIEDADES",Aathavan TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40169
+#EXTINF:-1 tvg-id="" tvg-name="AB Channel (768p)" tvg-logo="" group-title="VARIEDADES",AB Channel (768p)
+http://azplay.ddns.me:33200/derek1/derek1/40170
+#EXTINF:-1 tvg-id="" tvg-name="ABC 15 (720p)" tvg-logo="" group-title="VARIEDADES",ABC 15 (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40171
+#EXTINF:-1 tvg-id="" tvg-name="ABC 2 Baton Rouge LA (WBRZ-HD) (720p)" tvg-logo="" group-title="VARIEDADES",ABC 2 Baton Rouge LA (WBRZ-HD) (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40172
+#EXTINF:-1 tvg-id="" tvg-name="ABC 7 Denver (KMGH) (720p)" tvg-logo="" group-title="VARIEDADES",ABC 7 Denver (KMGH) (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40173
+#EXTINF:-1 tvg-id="" tvg-name="ABC 7 Detroit (WXYZ-TV) (720p)" tvg-logo="" group-title="VARIEDADES",ABC 7 Detroit (WXYZ-TV) (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40174
+#EXTINF:-1 tvg-id="" tvg-name="ABC ME (720p)" tvg-logo="" group-title="VARIEDADES",ABC ME (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40175
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="VARIEDADES",ABC News
+http://azplay.ddns.me:33200/derek1/derek1/40176
+#EXTINF:-1 tvg-id="" tvg-name="ABC News (720p)" tvg-logo="" group-title="VARIEDADES",ABC News (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40177
+#EXTINF:-1 tvg-id="" tvg-name="ABC News (720p) [Geo-blocked]" tvg-logo="" group-title="VARIEDADES",ABC News (720p) [Geo-blocked]
+http://azplay.ddns.me:33200/derek1/derek1/40178
+#EXTINF:-1 tvg-id="" tvg-name="ABC News (720p)" tvg-logo="" group-title="VARIEDADES",ABC News (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40179
+#EXTINF:-1 tvg-id="" tvg-name="ABC News (540p)" tvg-logo="" group-title="VARIEDADES",ABC News (540p)
+http://azplay.ddns.me:33200/derek1/derek1/40180
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Australia" tvg-logo="" group-title="VARIEDADES",ABC News Australia
+http://azplay.ddns.me:33200/derek1/derek1/40181
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Live" tvg-logo="" group-title="VARIEDADES",ABC News Live
+http://azplay.ddns.me:33200/derek1/derek1/40182
+#EXTINF:-1 tvg-id="" tvg-name="ABC News | 1" tvg-logo="" group-title="VARIEDADES",ABC News | 1
+http://azplay.ddns.me:33200/derek1/derek1/40183
+#EXTINF:-1 tvg-id="" tvg-name="ABC News | 10" tvg-logo="" group-title="VARIEDADES",ABC News | 10
+http://azplay.ddns.me:33200/derek1/derek1/40184
+#EXTINF:-1 tvg-id="" tvg-name="ABC News | 2" tvg-logo="" group-title="VARIEDADES",ABC News | 2
+http://azplay.ddns.me:33200/derek1/derek1/40185
+#EXTINF:-1 tvg-id="" tvg-name="ABC News | 3" tvg-logo="" group-title="VARIEDADES",ABC News | 3
+http://azplay.ddns.me:33200/derek1/derek1/40186
+#EXTINF:-1 tvg-id="" tvg-name="ABC News | 4" tvg-logo="" group-title="VARIEDADES",ABC News | 4
+http://azplay.ddns.me:33200/derek1/derek1/40187
+#EXTINF:-1 tvg-id="" tvg-name="ABC News | 5" tvg-logo="" group-title="VARIEDADES",ABC News | 5
+http://azplay.ddns.me:33200/derek1/derek1/40188
+#EXTINF:-1 tvg-id="" tvg-name="ABC News | 6" tvg-logo="" group-title="VARIEDADES",ABC News | 6
+http://azplay.ddns.me:33200/derek1/derek1/40189
+#EXTINF:-1 tvg-id="" tvg-name="ABC News | 7" tvg-logo="" group-title="VARIEDADES",ABC News | 7
+http://azplay.ddns.me:33200/derek1/derek1/40190
+#EXTINF:-1 tvg-id="" tvg-name="ABC News | 8" tvg-logo="" group-title="VARIEDADES",ABC News | 8
+http://azplay.ddns.me:33200/derek1/derek1/40191
+#EXTINF:-1 tvg-id="" tvg-name="ABC News | 9" tvg-logo="" group-title="VARIEDADES",ABC News | 9
+http://azplay.ddns.me:33200/derek1/derek1/40192
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV" tvg-logo="" group-title="VARIEDADES",ABC TV
+http://azplay.ddns.me:33200/derek1/derek1/40193
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV (720p)" tvg-logo="" group-title="VARIEDADES",ABC TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40194
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV (720p)" tvg-logo="" group-title="VARIEDADES",ABC TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40195
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV (720p)" tvg-logo="" group-title="VARIEDADES",ABC TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40196
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV (720p)" tvg-logo="" group-title="VARIEDADES",ABC TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40197
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV Plus (720p)" tvg-logo="" group-title="VARIEDADES",ABC TV Plus (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40198
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV Plus / ABC Kids (720p)" tvg-logo="" group-title="VARIEDADES",ABC TV Plus / ABC Kids (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40199
+#EXTINF:-1 tvg-id="" tvg-name="ABNsat" tvg-logo="" group-title="VARIEDADES",ABNsat
+http://azplay.ddns.me:33200/derek1/derek1/40200
+#EXTINF:-1 tvg-id="" tvg-name="ABP Ananda (720p)" tvg-logo="" group-title="VARIEDADES",ABP Ananda (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40201
+#EXTINF:-1 tvg-id="" tvg-name="ABP Ananda (720p)" tvg-logo="" group-title="VARIEDADES",ABP Ananda (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40202
+#EXTINF:-1 tvg-id="" tvg-name="ABP Asmita (324p)" tvg-logo="" group-title="VARIEDADES",ABP Asmita (324p)
+http://azplay.ddns.me:33200/derek1/derek1/40203
+#EXTINF:-1 tvg-id="" tvg-name="ABP Asmita (720p)" tvg-logo="" group-title="VARIEDADES",ABP Asmita (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40204
+#EXTINF:-1 tvg-id="" tvg-name="ABP Asmita (324p)" tvg-logo="" group-title="VARIEDADES",ABP Asmita (324p)
+http://azplay.ddns.me:33200/derek1/derek1/40205
+#EXTINF:-1 tvg-id="" tvg-name="ABP Majha (720p)" tvg-logo="" group-title="VARIEDADES",ABP Majha (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40206
+#EXTINF:-1 tvg-id="" tvg-name="ABP News (324p)" tvg-logo="" group-title="VARIEDADES",ABP News (324p)
+http://azplay.ddns.me:33200/derek1/derek1/40207
+#EXTINF:-1 tvg-id="" tvg-name="ABP News (720p)" tvg-logo="" group-title="VARIEDADES",ABP News (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40208
+#EXTINF:-1 tvg-id="" tvg-name="Absolute Reality by WEtv" tvg-logo="" group-title="VARIEDADES",Absolute Reality by WEtv
+http://azplay.ddns.me:33200/derek1/derek1/40209
+#EXTINF:-1 tvg-id="" tvg-name="Absolute Reality HD" tvg-logo="" group-title="VARIEDADES",Absolute Reality HD
+http://azplay.ddns.me:33200/derek1/derek1/40210
+#EXTINF:-1 tvg-id="" tvg-name="Absolute Reality WETV" tvg-logo="" group-title="VARIEDADES",Absolute Reality WETV
+http://azplay.ddns.me:33200/derek1/derek1/40211
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Aloula" tvg-logo="" group-title="VARIEDADES",Abu Dabi Aloula
+http://azplay.ddns.me:33200/derek1/derek1/40212
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Drama" tvg-logo="" group-title="VARIEDADES",Abu Dabi Drama
+http://azplay.ddns.me:33200/derek1/derek1/40213
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Emirates" tvg-logo="" group-title="VARIEDADES",Abu Dabi Emirates
+http://azplay.ddns.me:33200/derek1/derek1/40214
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports 2" tvg-logo="" group-title="VARIEDADES",Abu Dabi Sports 2
+http://azplay.ddns.me:33200/derek1/derek1/40215
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports 3" tvg-logo="" group-title="VARIEDADES",Abu Dabi Sports 3
+http://azplay.ddns.me:33200/derek1/derek1/40216
+#EXTINF:-1 tvg-id="" tvg-name="Acasa TV" tvg-logo="" group-title="VARIEDADES",Acasa TV
+http://azplay.ddns.me:33200/derek1/derek1/40217
+#EXTINF:-1 tvg-id="" tvg-name="ACC Network (720p)" tvg-logo="" group-title="VARIEDADES",ACC Network (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40218
+#EXTINF:-1 tvg-id="" tvg-name="ACCDN" tvg-logo="" group-title="VARIEDADES",ACCDN
+http://azplay.ddns.me:33200/derek1/derek1/40219
+#EXTINF:-1 tvg-id="" tvg-name="ACCDN" tvg-logo="" group-title="VARIEDADES",ACCDN
+http://azplay.ddns.me:33200/derek1/derek1/40220
+#EXTINF:-1 tvg-id="" tvg-name="ACCDN" tvg-logo="" group-title="VARIEDADES",ACCDN
+http://azplay.ddns.me:33200/derek1/derek1/40221
+#EXTINF:-1 tvg-id="" tvg-name="Acheloos TV (576p)" tvg-logo="" group-title="VARIEDADES",Acheloos TV (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40222
+#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="" group-title="VARIEDADES",Action
+http://azplay.ddns.me:33200/derek1/derek1/40223
+#EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies (1080p)" tvg-logo="" group-title="VARIEDADES",Action Hollywood Movies (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40224
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies (720p)" tvg-logo="" group-title="VARIEDADES",Action Movies (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40225
+#EXTINF:-1 tvg-id="" tvg-name="ACV" tvg-logo="" group-title="VARIEDADES",ACV
+http://azplay.ddns.me:33200/derek1/derek1/40226
+#EXTINF:-1 tvg-id="" tvg-name="ACV Jukebox (404p)" tvg-logo="" group-title="VARIEDADES",ACV Jukebox (404p)
+http://azplay.ddns.me:33200/derek1/derek1/40227
+#EXTINF:-1 tvg-id="" tvg-name="ACV News" tvg-logo="" group-title="VARIEDADES",ACV News
+http://azplay.ddns.me:33200/derek1/derek1/40228
+#EXTINF:-1 tvg-id="" tvg-name="ACV Utsav" tvg-logo="" group-title="VARIEDADES",ACV Utsav
+http://azplay.ddns.me:33200/derek1/derek1/40229
+#EXTINF:-1 tvg-id="" tvg-name="ACV Utsav Plus" tvg-logo="" group-title="VARIEDADES",ACV Utsav Plus
+http://azplay.ddns.me:33200/derek1/derek1/40230
+#EXTINF:-1 tvg-id="" tvg-name="AD | Architectural Digest" tvg-logo="" group-title="VARIEDADES",AD | Architectural Digest
+http://azplay.ddns.me:33200/derek1/derek1/40231
+#EXTINF:-1 tvg-id="" tvg-name="Ada TV" tvg-logo="" group-title="VARIEDADES",Ada TV
+http://azplay.ddns.me:33200/derek1/derek1/40232
+#EXTINF:-1 tvg-id="" tvg-name="Ada TV" tvg-logo="" group-title="VARIEDADES",Ada TV
+http://azplay.ddns.me:33200/derek1/derek1/40233
+#EXTINF:-1 tvg-id="" tvg-name="Ada TV" tvg-logo="" group-title="VARIEDADES",Ada TV
+http://azplay.ddns.me:33200/derek1/derek1/40234
+#EXTINF:-1 tvg-id="" tvg-name="Ada TV (1080p)" tvg-logo="" group-title="VARIEDADES",Ada TV (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40235
+#EXTINF:-1 tvg-id="" tvg-name="Addis TV" tvg-logo="" group-title="VARIEDADES",Addis TV
+http://azplay.ddns.me:33200/derek1/derek1/40236
+#EXTINF:-1 tvg-id="" tvg-name="Addis TV" tvg-logo="" group-title="VARIEDADES",Addis TV
+http://azplay.ddns.me:33200/derek1/derek1/40237
+#EXTINF:-1 tvg-id="" tvg-name="Aden TV" tvg-logo="" group-title="VARIEDADES",Aden TV
+http://azplay.ddns.me:33200/derek1/derek1/40238
+#EXTINF:-1 tvg-id="" tvg-name="Aden TV" tvg-logo="" group-title="VARIEDADES",Aden TV
+http://azplay.ddns.me:33200/derek1/derek1/40239
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 (XHTVM-TDT) (480p)" tvg-logo="" group-title="VARIEDADES",ADN 40 (XHTVM-TDT) (480p)
+http://azplay.ddns.me:33200/derek1/derek1/40240
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 (XHTVM-TDT)" tvg-logo="" group-title="VARIEDADES",ADN 40 (XHTVM-TDT)
+http://azplay.ddns.me:33200/derek1/derek1/40241
+#EXTINF:-1 tvg-id="" tvg-name="Adrenaline Rush" tvg-logo="" group-title="VARIEDADES",Adrenaline Rush
+http://azplay.ddns.me:33200/derek1/derek1/40242
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Sports Network" tvg-logo="" group-title="VARIEDADES",Adventure Sports Network
+http://azplay.ddns.me:33200/derek1/derek1/40247
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Sports Network" tvg-logo="" group-title="VARIEDADES",Adventure Sports Network
+http://azplay.ddns.me:33200/derek1/derek1/40248
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Sports Network (XUMO)" tvg-logo="" group-title="VARIEDADES",Adventure Sports Network (XUMO)
+http://azplay.ddns.me:33200/derek1/derek1/40249
+#EXTINF:-1 tvg-id="" tvg-name="AE Radio TV (720p)" tvg-logo="" group-title="VARIEDADES",AE Radio TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40250
+#EXTINF:-1 tvg-id="" tvg-name="AE | Hawas TV" tvg-logo="" group-title="VARIEDADES",AE | Hawas TV
+http://azplay.ddns.me:33200/derek1/derek1/40251
+#EXTINF:-1 tvg-id="" tvg-name="AF | Ariana News" tvg-logo="" group-title="VARIEDADES",AF | Ariana News
+http://azplay.ddns.me:33200/derek1/derek1/40252
+#EXTINF:-1 tvg-id="" tvg-name="AF | Ariana TV" tvg-logo="" group-title="VARIEDADES",AF | Ariana TV
+http://azplay.ddns.me:33200/derek1/derek1/40253
+#EXTINF:-1 tvg-id="" tvg-name="AF | Ariana TV US" tvg-logo="" group-title="VARIEDADES",AF | Ariana TV US
+http://azplay.ddns.me:33200/derek1/derek1/40254
+#EXTINF:-1 tvg-id="" tvg-name="AFC" tvg-logo="" group-title="VARIEDADES",AFC
+http://azplay.ddns.me:33200/derek1/derek1/40255
+#EXTINF:-1 tvg-id="" tvg-name="AfghanistAriana News TV" tvg-logo="" group-title="VARIEDADES",AfghanistAriana News TV
+http://azplay.ddns.me:33200/derek1/derek1/40256
+#EXTINF:-1 tvg-id="" tvg-name="AfghanistAriana TV" tvg-logo="" group-title="VARIEDADES",AfghanistAriana TV
+http://azplay.ddns.me:33200/derek1/derek1/40257
+#EXTINF:-1 tvg-id="" tvg-name="Africa TV1" tvg-logo="" group-title="VARIEDADES",Africa TV1
+http://azplay.ddns.me:33200/derek1/derek1/40258
+#EXTINF:-1 tvg-id="" tvg-name="Africa TV1 (720p)" tvg-logo="" group-title="VARIEDADES",Africa TV1 (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40259
+#EXTINF:-1 tvg-id="" tvg-name="Africa TV2" tvg-logo="" group-title="VARIEDADES",Africa TV2
+http://azplay.ddns.me:33200/derek1/derek1/40260
+#EXTINF:-1 tvg-id="" tvg-name="Africa TV2 (720p)" tvg-logo="" group-title="VARIEDADES",Africa TV2 (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40261
+#EXTINF:-1 tvg-id="" tvg-name="Africa TV2 (720p)" tvg-logo="" group-title="VARIEDADES",Africa TV2 (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40262
+#EXTINF:-1 tvg-id="" tvg-name="Africa TV3" tvg-logo="" group-title="VARIEDADES",Africa TV3
+http://azplay.ddns.me:33200/derek1/derek1/40263
+#EXTINF:-1 tvg-id="" tvg-name="Africa TV3 (720p)" tvg-logo="" group-title="VARIEDADES",Africa TV3 (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40264
+#EXTINF:-1 tvg-id="" tvg-name="Africa TV3 (720p)" tvg-logo="" group-title="VARIEDADES",Africa TV3 (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40265
+#EXTINF:-1 tvg-id="" tvg-name="Africable (396p)" tvg-logo="" group-title="VARIEDADES",Africable (396p)
+http://azplay.ddns.me:33200/derek1/derek1/40266
+#EXTINF:-1 tvg-id="" tvg-name="AfricaNews" tvg-logo="" group-title="VARIEDADES",AfricaNews
+http://azplay.ddns.me:33200/derek1/derek1/40267
+#EXTINF:-1 tvg-id="" tvg-name="Africanews (Denmark)" tvg-logo="" group-title="VARIEDADES",Africanews (Denmark)
+http://azplay.ddns.me:33200/derek1/derek1/40268
+#EXTINF:-1 tvg-id="" tvg-name="AfricaNews (Finland)" tvg-logo="" group-title="VARIEDADES",AfricaNews (Finland)
+http://azplay.ddns.me:33200/derek1/derek1/40269
+#EXTINF:-1 tvg-id="" tvg-name="AfricaNews (Ireland)" tvg-logo="" group-title="VARIEDADES",AfricaNews (Ireland)
+http://azplay.ddns.me:33200/derek1/derek1/40270
+#EXTINF:-1 tvg-id="" tvg-name="AfricaNews (Norway)" tvg-logo="" group-title="VARIEDADES",AfricaNews (Norway)
+http://azplay.ddns.me:33200/derek1/derek1/40271
+#EXTINF:-1 tvg-id="" tvg-name="Afrobeats (AFR)" tvg-logo="" group-title="VARIEDADES",Afrobeats (AFR)
+http://azplay.ddns.me:33200/derek1/derek1/40272
+#EXTINF:-1 tvg-id="" tvg-name="Afrobeats 247" tvg-logo="" group-title="VARIEDADES",Afrobeats 247
+http://azplay.ddns.me:33200/derek1/derek1/40273
+#EXTINF:-1 tvg-id="" tvg-name="Aftonbladet TV (720p)" tvg-logo="" group-title="VARIEDADES",Aftonbladet TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40274
+#EXTINF:-1 tvg-id="" tvg-name="AFV (STIRR) (720p)" tvg-logo="" group-title="VARIEDADES",AFV (STIRR) (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40275
+#EXTINF:-1 tvg-id="" tvg-name="AFV Espanol" tvg-logo="" group-title="VARIEDADES",AFV Espanol
+http://azplay.ddns.me:33200/derek1/derek1/40276
+#EXTINF:-1 tvg-id="" tvg-name="AFV Español" tvg-logo="" group-title="VARIEDADES",AFV Español
+http://azplay.ddns.me:33200/derek1/derek1/40277
+#EXTINF:-1 tvg-id="" tvg-name="AFV Family" tvg-logo="" group-title="VARIEDADES",AFV Family
+http://azplay.ddns.me:33200/derek1/derek1/40278
+#EXTINF:-1 tvg-id="" tvg-name="AFV Family" tvg-logo="" group-title="VARIEDADES",AFV Family
+http://azplay.ddns.me:33200/derek1/derek1/40279
+#EXTINF:-1 tvg-id="" tvg-name="AFV Family" tvg-logo="" group-title="VARIEDADES",AFV Family
+http://azplay.ddns.me:33200/derek1/derek1/40280
+#EXTINF:-1 tvg-id="" tvg-name="AFV Family En Espanol" tvg-logo="" group-title="VARIEDADES",AFV Family En Espanol
+http://azplay.ddns.me:33200/derek1/derek1/40281
+#EXTINF:-1 tvg-id="" tvg-name="AFV! (720p)" tvg-logo="" group-title="VARIEDADES",AFV! (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40282
+#EXTINF:-1 tvg-id="" tvg-name="AFYON TÜRK TV" tvg-logo="" group-title="VARIEDADES",AFYON TÜRK TV
+http://azplay.ddns.me:33200/derek1/derek1/40283
+#EXTINF:-1 tvg-id="" tvg-name="Afyon Türk TV (720p)" tvg-logo="" group-title="VARIEDADES",Afyon Türk TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40284
+#EXTINF:-1 tvg-id="" tvg-name="Aghapy TV live ???? ?????" tvg-logo="" group-title="VARIEDADES",Aghapy TV live ???? ?????
+http://azplay.ddns.me:33200/derek1/derek1/40285
+#EXTINF:-1 tvg-id="" tvg-name="Aguiar BTV (480p)" tvg-logo="" group-title="VARIEDADES",Aguiar BTV (480p)
+http://azplay.ddns.me:33200/derek1/derek1/40286
+#EXTINF:-1 tvg-id="" tvg-name="Ahi Televizyonu Kirsehir" tvg-logo="" group-title="VARIEDADES",Ahi Televizyonu Kirsehir
+http://azplay.ddns.me:33200/derek1/derek1/40287
+#EXTINF:-1 tvg-id="" tvg-name="Ahlu Al Quran TV (720p)" tvg-logo="" group-title="VARIEDADES",Ahlu Al Quran TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40288
+#EXTINF:-1 tvg-id="" tvg-name="Ahlulbayt TV" tvg-logo="" group-title="VARIEDADES",Ahlulbayt TV
+http://azplay.ddns.me:33200/derek1/derek1/40289
+#EXTINF:-1 tvg-id="" tvg-name="ajyal (720p)" tvg-logo="" group-title="VARIEDADES",ajyal (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40290
+#EXTINF:-1 tvg-id="" tvg-name="Ajyal (720p)" tvg-logo="" group-title="VARIEDADES",Ajyal (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40291
+#EXTINF:-1 tvg-id="" tvg-name="Ajyal TV" tvg-logo="" group-title="VARIEDADES",Ajyal TV
+http://azplay.ddns.me:33200/derek1/derek1/40292
+#EXTINF:-1 tvg-id="" tvg-name="Akaal Channel (396p)" tvg-logo="" group-title="VARIEDADES",Akaal Channel (396p)
+http://azplay.ddns.me:33200/derek1/derek1/40293
+#EXTINF:-1 tvg-id="" tvg-name="Akaal TV (480p)" tvg-logo="" group-title="VARIEDADES",Akaal TV (480p)
+http://azplay.ddns.me:33200/derek1/derek1/40294
+#EXTINF:-1 tvg-id="" tvg-name="Akaram Kidz (460p)" tvg-logo="" group-title="VARIEDADES",Akaram Kidz (460p)
+http://azplay.ddns.me:33200/derek1/derek1/40295
+#EXTINF:-1 tvg-id="" tvg-name="AKC TV" tvg-logo="" group-title="VARIEDADES",AKC TV
+http://azplay.ddns.me:33200/derek1/derek1/40296
+#EXTINF:-1 tvg-id="" tvg-name="AKC TV (1080p)" tvg-logo="" group-title="VARIEDADES",AKC TV (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40297
+#EXTINF:-1 tvg-id="" tvg-name="AKC Tv" tvg-logo="" group-title="VARIEDADES",AKC Tv
+http://azplay.ddns.me:33200/derek1/derek1/40298
+#EXTINF:-1 tvg-id="" tvg-name="AKC TV" tvg-logo="" group-title="VARIEDADES",AKC TV
+http://azplay.ddns.me:33200/derek1/derek1/40299
+#EXTINF:-1 tvg-id="" tvg-name="AKC TV" tvg-logo="" group-title="VARIEDADES",AKC TV
+http://azplay.ddns.me:33200/derek1/derek1/40300
+#EXTINF:-1 tvg-id="" tvg-name="AKC TV - Meet the Breeds" tvg-logo="" group-title="VARIEDADES",AKC TV - Meet the Breeds
+http://azplay.ddns.me:33200/derek1/derek1/40301
+#EXTINF:-1 tvg-id="" tvg-name="AKC TV - Puppies" tvg-logo="" group-title="VARIEDADES",AKC TV - Puppies
+http://azplay.ddns.me:33200/derek1/derek1/40302
+#EXTINF:-1 tvg-id="" tvg-name="AKC TV Dogs EN" tvg-logo="" group-title="VARIEDADES",AKC TV Dogs EN
+http://azplay.ddns.me:33200/derek1/derek1/40303
+#EXTINF:-1 tvg-id="" tvg-name="AKD Calcutta News (540p)" tvg-logo="" group-title="VARIEDADES",AKD Calcutta News (540p)
+http://azplay.ddns.me:33200/derek1/derek1/40304
+#EXTINF:-1 tvg-id="" tvg-name="Akit TV (720p)" tvg-logo="" group-title="VARIEDADES",Akit TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40305
+#EXTINF:-1 tvg-id="" tvg-name="Akit TV" tvg-logo="" group-title="VARIEDADES",Akit TV
+http://azplay.ddns.me:33200/derek1/derek1/40306
+#EXTINF:-1 tvg-id="" tvg-name="AKRITAS TV HD (1080p)" tvg-logo="" group-title="VARIEDADES",AKRITAS TV HD (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40307
+#EXTINF:-1 tvg-id="" tvg-name="AKSU TV" tvg-logo="" group-title="VARIEDADES",AKSU TV
+http://azplay.ddns.me:33200/derek1/derek1/40308
+#EXTINF:-1 tvg-id="" tvg-name="Aktif TV" tvg-logo="" group-title="VARIEDADES",Aktif TV
+http://azplay.ddns.me:33200/derek1/derek1/40309
+#EXTINF:-1 tvg-id="" tvg-name="Akudji TV" tvg-logo="" group-title="VARIEDADES",Akudji TV
+http://azplay.ddns.me:33200/derek1/derek1/40310
+#EXTINF:-1 tvg-id="" tvg-name="Al Alam (576p)" tvg-logo="" group-title="VARIEDADES",Al Alam (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40311
+#EXTINF:-1 tvg-id="" tvg-name="Al Alam" tvg-logo="" group-title="VARIEDADES",Al Alam
+http://azplay.ddns.me:33200/derek1/derek1/40312
+#EXTINF:-1 tvg-id="" tvg-name="Al Alamiya 2" tvg-logo="" group-title="VARIEDADES",Al Alamiya 2
+http://azplay.ddns.me:33200/derek1/derek1/40313
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula (360p)" tvg-logo="" group-title="VARIEDADES",Al Aoula (360p)
+http://azplay.ddns.me:33200/derek1/derek1/40314
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula Laayoune (360p)" tvg-logo="" group-title="VARIEDADES",Al Aoula Laayoune (360p)
+http://azplay.ddns.me:33200/derek1/derek1/40315
+#EXTINF:-1 tvg-id="" tvg-name="Al Aqsa Channel (480p)" tvg-logo="" group-title="VARIEDADES",Al Aqsa Channel (480p)
+http://azplay.ddns.me:33200/derek1/derek1/40316
+#EXTINF:-1 tvg-id="" tvg-name="Al Dafrah TV (1080p)" tvg-logo="" group-title="VARIEDADES",Al Dafrah TV (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40317
+#EXTINF:-1 tvg-id="" tvg-name="Al Hayat TV (720p)" tvg-logo="" group-title="VARIEDADES",Al Hayat TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40318
+#EXTINF:-1 tvg-id="" tvg-name="Al Hayat TV (360p)" tvg-logo="" group-title="VARIEDADES",Al Hayat TV (360p)
+http://azplay.ddns.me:33200/derek1/derek1/40319
+#EXTINF:-1 tvg-id="" tvg-name="AL HOKAIR Group TV" tvg-logo="" group-title="VARIEDADES",AL HOKAIR Group TV
+http://azplay.ddns.me:33200/derek1/derek1/40320
+#EXTINF:-1 tvg-id="" tvg-name="Al Horreya TV (1080p)" tvg-logo="" group-title="VARIEDADES",Al Horreya TV (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40321
+#EXTINF:-1 tvg-id="" tvg-name="Al Horreya TV" tvg-logo="" group-title="VARIEDADES",Al Horreya TV
+http://azplay.ddns.me:33200/derek1/derek1/40322
+#EXTINF:-1 tvg-id="" tvg-name="Al Hurra (486p)" tvg-logo="" group-title="VARIEDADES",Al Hurra (486p)
+http://azplay.ddns.me:33200/derek1/derek1/40323
+#EXTINF:-1 tvg-id="" tvg-name="Al Hurra (486p)" tvg-logo="" group-title="VARIEDADES",Al Hurra (486p)
+http://azplay.ddns.me:33200/derek1/derek1/40324
+#EXTINF:-1 tvg-id="" tvg-name="Al Hurra (720p)" tvg-logo="" group-title="VARIEDADES",Al Hurra (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40325
+#EXTINF:-1 tvg-id="" tvg-name="Al Hurra Iraq (720p)" tvg-logo="" group-title="VARIEDADES",Al Hurra Iraq (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40326
+#EXTINF:-1 tvg-id="" tvg-name="#EXTVLCOPT:http-referrer=http://imn.iq" tvg-logo="" group-title="VARIEDADES",#EXTINF:-1 tvg-id= tvg-
+http://imn.iq" tvg-logo="" group-title="VARIEDADES",#EXTVLCOPT:http-referrer=http://imn.iq
+#EXTINF:-1 tvg-id="" tvg-name="#EXTVLCOPT:http-referrer=http://imn.iq" tvg-logo="" group-title="VARIEDADES",#EXTINF:-1 tvg-id= tvg-
+http://imn.iq" tvg-logo="" group-title="VARIEDADES",#EXTVLCOPT:http-referrer=http://imn.iq
+#EXTINF:-1 tvg-id="" tvg-name="Al Istiqama TV (576p)" tvg-logo="" group-title="VARIEDADES",Al Istiqama TV (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40329
+#EXTINF:-1 tvg-id="" tvg-name="Al Ittihad (552p)" tvg-logo="" group-title="VARIEDADES",Al Ittihad (552p)
+http://azplay.ddns.me:33200/derek1/derek1/40330
+#EXTINF:-1 tvg-id="" tvg-name="AL KARMA TV" tvg-logo="" group-title="VARIEDADES",AL KARMA TV
+http://azplay.ddns.me:33200/derek1/derek1/40331
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports" tvg-logo="" group-title="VARIEDADES",Al Kass Sports
+http://azplay.ddns.me:33200/derek1/derek1/40332
+#EXTINF:-1 tvg-id="" tvg-name="Al Kawthar TV" tvg-logo="" group-title="VARIEDADES",Al Kawthar TV
+http://azplay.ddns.me:33200/derek1/derek1/40333
+#EXTINF:-1 tvg-id="" tvg-name="Al Khalij TV" tvg-logo="" group-title="VARIEDADES",Al Khalij TV
+http://azplay.ddns.me:33200/derek1/derek1/40334
+#EXTINF:-1 tvg-id="" tvg-name="Al Maaref TV (350p)" tvg-logo="" group-title="VARIEDADES",Al Maaref TV (350p)
+http://azplay.ddns.me:33200/derek1/derek1/40335
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia (360p)" tvg-logo="" group-title="VARIEDADES",Al Maghribia (360p)
+http://azplay.ddns.me:33200/derek1/derek1/40336
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia (360p)" tvg-logo="" group-title="VARIEDADES",Al Maghribia (360p)
+http://azplay.ddns.me:33200/derek1/derek1/40337
+#EXTINF:-1 tvg-id="" tvg-name="Al Mahrah" tvg-logo="" group-title="VARIEDADES",Al Mahrah
+http://azplay.ddns.me:33200/derek1/derek1/40338
+#EXTINF:-1 tvg-id="" tvg-name="Al Manar (576p)" tvg-logo="" group-title="VARIEDADES",Al Manar (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40339
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem TV (Mecca) (720p)" tvg-logo="" group-title="VARIEDADES",Al Quran Al Kareem TV (Mecca) (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40340
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem TV (Mecca) (360p)" tvg-logo="" group-title="VARIEDADES",Al Quran Al Kareem TV (Mecca) (360p)
+http://azplay.ddns.me:33200/derek1/derek1/40341
+#EXTINF:-1 tvg-id="" tvg-name="AL Rafidain" tvg-logo="" group-title="VARIEDADES",AL Rafidain
+http://azplay.ddns.me:33200/derek1/derek1/40342
+#EXTINF:-1 tvg-id="" tvg-name="Al Rafidain (1024p)" tvg-logo="" group-title="VARIEDADES",Al Rafidain (1024p)
+http://azplay.ddns.me:33200/derek1/derek1/40343
+#EXTINF:-1 tvg-id="" tvg-name="Al Rafidain HQ (1024p)" tvg-logo="" group-title="VARIEDADES",Al Rafidain HQ (1024p)
+http://azplay.ddns.me:33200/derek1/derek1/40344
+#EXTINF:-1 tvg-id="" tvg-name="AL RAI" tvg-logo="" group-title="VARIEDADES",AL RAI
+http://azplay.ddns.me:33200/derek1/derek1/40345
+#EXTINF:-1 tvg-id="" tvg-name="Al Rai HD" tvg-logo="" group-title="VARIEDADES",Al Rai HD
+http://azplay.ddns.me:33200/derek1/derek1/40346
+#EXTINF:-1 tvg-id="" tvg-name="Al Rasheed (408p)" tvg-logo="" group-title="VARIEDADES",Al Rasheed (408p)
+http://azplay.ddns.me:33200/derek1/derek1/40347
+#EXTINF:-1 tvg-id="" tvg-name="Al Saudiya (360p)" tvg-logo="" group-title="VARIEDADES",Al Saudiya (360p)
+http://azplay.ddns.me:33200/derek1/derek1/40348
+#EXTINF:-1 tvg-id="" tvg-name="Al Sharqiya (450p)" tvg-logo="" group-title="VARIEDADES",Al Sharqiya (450p)
+http://azplay.ddns.me:33200/derek1/derek1/40349
+#EXTINF:-1 tvg-id="" tvg-name="Al Sharqiya News (450p)" tvg-logo="" group-title="VARIEDADES",Al Sharqiya News (450p)
+http://azplay.ddns.me:33200/derek1/derek1/40350
+#EXTINF:-1 tvg-id="" tvg-name="AL Sharqiya TV" tvg-logo="" group-title="VARIEDADES",AL Sharqiya TV
+http://azplay.ddns.me:33200/derek1/derek1/40351
+#EXTINF:-1 tvg-id="" tvg-name="Al Sunnah Al Nabawiyah TV (Medina) (720p)" tvg-logo="" group-title="VARIEDADES",Al Sunnah Al Nabawiyah TV (Medina) (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40352
+#EXTINF:-1 tvg-id="" tvg-name="Al Sunnah Al Nabawiyah TV (Medina) (360p)" tvg-logo="" group-title="VARIEDADES",Al Sunnah Al Nabawiyah TV (Medina) (360p)
+http://azplay.ddns.me:33200/derek1/derek1/40353
+#EXTINF:-1 tvg-id="" tvg-name="Al Wesal TV (720p)" tvg-logo="" group-title="VARIEDADES",Al Wesal TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40354
+#EXTINF:-1 tvg-id="" tvg-name="Al Yaum" tvg-logo="" group-title="VARIEDADES",Al Yaum
+http://azplay.ddns.me:33200/derek1/derek1/40355
+#EXTINF:-1 tvg-id="" tvg-name="Al Zahra TV" tvg-logo="" group-title="VARIEDADES",Al Zahra TV
+http://azplay.ddns.me:33200/derek1/derek1/40356
+#EXTINF:-1 tvg-id="" tvg-name="Al-Aqsa" tvg-logo="" group-title="VARIEDADES",Al-Aqsa
+http://azplay.ddns.me:33200/derek1/derek1/40357
+#EXTINF:-1 tvg-id="" tvg-name="Al-Istiqama" tvg-logo="" group-title="VARIEDADES",Al-Istiqama
+http://azplay.ddns.me:33200/derek1/derek1/40358
+#EXTINF:-1 tvg-id="" tvg-name="Al-Rafidain TV" tvg-logo="" group-title="VARIEDADES",Al-Rafidain TV
+http://azplay.ddns.me:33200/derek1/derek1/40359
+#EXTINF:-1 tvg-id="" tvg-name="Al-Shahed" tvg-logo="" group-title="VARIEDADES",Al-Shahed
+http://azplay.ddns.me:33200/derek1/derek1/40360
+#EXTINF:-1 tvg-id="" tvg-name="Al-Zahra TV Turkic (1080p)" tvg-logo="" group-title="VARIEDADES",Al-Zahra TV Turkic (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40361
+#EXTINF:-1 tvg-id="" tvg-name="Al-Zahra TV Turkic" tvg-logo="" group-title="VARIEDADES",Al-Zahra TV Turkic
+http://azplay.ddns.me:33200/derek1/derek1/40362
+#EXTINF:-1 tvg-id="" tvg-name="Alabama: Birmingham (STIRR) (720p)" tvg-logo="" group-title="VARIEDADES",Alabama: Birmingham (STIRR) (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40363
+#EXTINF:-1 tvg-id="" tvg-name="Alabama: Mobile (STIRR) (720p)" tvg-logo="" group-title="VARIEDADES",Alabama: Mobile (STIRR) (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40364
+#EXTINF:-1 tvg-id="" tvg-name="Alacantí TV" tvg-logo="" group-title="VARIEDADES",Alacantí TV
+http://azplay.ddns.me:33200/derek1/derek1/40365
+#EXTINF:-1 tvg-id="" tvg-name="Alanya Posta TV" tvg-logo="" group-title="VARIEDADES",Alanya Posta TV
+http://azplay.ddns.me:33200/derek1/derek1/40366
+#EXTINF:-1 tvg-id="" tvg-name="Alaraby TV" tvg-logo="" group-title="VARIEDADES",Alaraby TV
+http://azplay.ddns.me:33200/derek1/derek1/40367
+#EXTINF:-1 tvg-id="" tvg-name="Alaraby TV (1080p)" tvg-logo="" group-title="VARIEDADES",Alaraby TV (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40368
+#EXTINF:-1 tvg-id="" tvg-name="Albahrain international" tvg-logo="" group-title="VARIEDADES",Albahrain international
+http://azplay.ddns.me:33200/derek1/derek1/40369
+#EXTINF:-1 tvg-id="" tvg-name="Albahrain Quran" tvg-logo="" group-title="VARIEDADES",Albahrain Quran
+http://azplay.ddns.me:33200/derek1/derek1/40370
+#EXTINF:-1 tvg-id="" tvg-name="Albahrain TV" tvg-logo="" group-title="VARIEDADES",Albahrain TV
+http://azplay.ddns.me:33200/derek1/derek1/40371
+#EXTINF:-1 tvg-id="" tvg-name="Albany | CBS 6 WRGB (720p)" tvg-logo="" group-title="VARIEDADES",Albany | CBS 6 WRGB (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40372
+#EXTINF:-1 tvg-id="" tvg-name="ALBDREAMS TV" tvg-logo="" group-title="VARIEDADES",ALBDREAMS TV
+http://azplay.ddns.me:33200/derek1/derek1/40373
+#EXTINF:-1 tvg-id="" tvg-name="AlbUK TV (1080p)" tvg-logo="" group-title="VARIEDADES",AlbUK TV (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40374
+#EXTINF:-1 tvg-id="" tvg-name="ALBUK TV HD" tvg-logo="" group-title="VARIEDADES",ALBUK TV HD
+http://azplay.ddns.me:33200/derek1/derek1/40375
+#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV (576p)" tvg-logo="" group-title="VARIEDADES",Alcarria TV (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40376
+#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="" group-title="VARIEDADES",Alcarria TV
+http://azplay.ddns.me:33200/derek1/derek1/40377
+#EXTINF:-1 tvg-id="" tvg-name="Aleph News (720p)" tvg-logo="" group-title="VARIEDADES",Aleph News (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40378
+#EXTINF:-1 tvg-id="" tvg-name="ALERT (576p)" tvg-logo="" group-title="VARIEDADES",ALERT (576p)
+http://azplay.ddns.me:33200/derek1/derek1/40379
+#EXTINF:-1 tvg-id="" tvg-name="Alerth Alnabawi" tvg-logo="" group-title="VARIEDADES",Alerth Alnabawi
+http://azplay.ddns.me:33200/derek1/derek1/40380
+#EXTINF:-1 tvg-id="" tvg-name="Alex Berlin (1080p)" tvg-logo="" group-title="VARIEDADES",Alex Berlin (1080p)
+http://azplay.ddns.me:33200/derek1/derek1/40381
+#EXTINF:-1 tvg-id="" tvg-name="Alfa Omega TV (540p)" tvg-logo="" group-title="VARIEDADES",Alfa Omega TV (540p)
+http://azplay.ddns.me:33200/derek1/derek1/40382
+#EXTINF:-1 tvg-id="" tvg-name="Alfa Omega TV (540p)" tvg-logo="" group-title="VARIEDADES",Alfa Omega TV (540p)
+http://azplay.ddns.me:33200/derek1/derek1/40383
+#EXTINF:-1 tvg-id="" tvg-name="Alfa Omega TV" tvg-logo="" group-title="VARIEDADES",Alfa Omega TV
+http://azplay.ddns.me:33200/derek1/derek1/40384
+#EXTINF:-1 tvg-id="" tvg-name="Alfajer Tv HD 2 (720p)" tvg-logo="" group-title="VARIEDADES",Alfajer Tv HD 2 (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40385
+#EXTINF:-1 tvg-id="" tvg-name="Alghad Almushreq" tvg-logo="" group-title="VARIEDADES",Alghad Almushreq
+http://azplay.ddns.me:33200/derek1/derek1/40386
+#EXTINF:-1 tvg-id="" tvg-name="Alhadath" tvg-logo="" group-title="VARIEDADES",Alhadath
+http://azplay.ddns.me:33200/derek1/derek1/40387
+#EXTINF:-1 tvg-id="" tvg-name="Alhayat TV (720p)" tvg-logo="" group-title="VARIEDADES",Alhayat TV (720p)
+http://azplay.ddns.me:33200/derek1/derek1/40388
+#EXTINF:-1 tvg-id="" tvg-name="Alhurra" tvg-logo="" group-title="VARIEDADES",Alhurra
+http://azplay.ddns.me:33200/derek1/derek1/40389
+#EXTINF:-1 tvg-id="" tvg-name="Avivamiento TV " tvg-logo="https://i.postimg.cc/1Rc5rN22/Avivamiento.png" group-title="COLOMBIA",Avivamiento TV 
+http://azplay.ddns.me:33200/derek1/derek1/19631
+#EXTINF:-1 tvg-id="" tvg-name="Cali Tv" tvg-logo="https://i.postimg.cc/7L2qGCSB/CaliTV2.png" group-title="COLOMBIA",Cali Tv
+http://azplay.ddns.me:33200/derek1/derek1/19632
+#EXTINF:-1 tvg-id="" tvg-name="Canal Insitucional" tvg-logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png" group-title="COLOMBIA",Canal Insitucional
+http://azplay.ddns.me:33200/derek1/derek1/13321
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-logo="https://i.ibb.co/7pMZ9gg/1.png" group-title="COLOMBIA",Canal 1
+http://azplay.ddns.me:33200/derek1/derek1/36067
+#EXTINF:-1 tvg-id="" tvg-name="Canal TDI" tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="COLOMBIA",Canal TDI
+http://azplay.ddns.me:33200/derek1/derek1/19633
+#EXTINF:-1 tvg-id="" tvg-name="Canal Doce Sincelejo" tvg-logo="https://i.postimg.cc/rp6vHftJ/canal-doce.png" group-title="COLOMBIA",Canal Doce Sincelejo
+http://azplay.ddns.me:33200/derek1/derek1/19634
+#EXTINF:-1 tvg-id="" tvg-name="Canal Vision Dorada" tvg-logo="https://cdn.colombia.com/canales/canal-vision-dorada-2371.jpg" group-title="COLOMBIA",Canal Vision Dorada
+http://azplay.ddns.me:33200/derek1/derek1/2616
+#EXTINF:-1 tvg-id="" tvg-name="Canal Trece" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2012-2016-logo-286AB7AB77-seeklogo.com.png" group-title="COLOMBIA",Canal Trece
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/chunklist_b2250000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png" group-title="COLOMBIA",Caracol Noticias
+http://azplay.ddns.me:33200/derek1/derek1/13322
+#EXTINF:-1 tvg-id="I132.18567.schedulesdirect.org" tvg-name="Caracol  1" tvg-logo="https://i.postimg.cc/52gv3ynd/caracol.png" group-title="COLOMBIA",Caracol  1
+http://azplay.ddns.me:33200/derek1/derek1/2369
+#EXTINF:-1 tvg-id="I132.18567.schedulesdirect.org" tvg-name="Caracol 2" tvg-logo="https://i.postimg.cc/52gv3ynd/caracol.png" group-title="COLOMBIA",Caracol 2
+http://azplay.ddns.me:33200/derek1/derek1/30606
+#EXTINF:-1 tvg-id="I132.18567.schedulesdirect.org" tvg-name="Caracol 3" tvg-logo="https://i.postimg.cc/52gv3ynd/caracol.png" group-title="COLOMBIA",Caracol 3
+http://azplay.ddns.me:33200/derek1/derek1/38210
+#EXTINF:-1 tvg-id="I132.18567.schedulesdirect.org" tvg-name="Caracol HD" tvg-logo="https://i.postimg.cc/52gv3ynd/caracol.png" group-title="COLOMBIA",Caracol HD
+http://azplay.ddns.me:33200/derek1/derek1/38211
+#EXTINF:-1 tvg-id="I132.18567.schedulesdirect.org" tvg-name="Caracol FHD" tvg-logo="https://i.postimg.cc/52gv3ynd/caracol.png" group-title="COLOMBIA",Caracol FHD
+http://azplay.ddns.me:33200/derek1/derek1/2370
+#EXTINF:-1 tvg-id="I134.39719.schedulesdirect.org" tvg-name="Caracol Internacional" tvg-logo="https://i.ibb.co/jTPvRbf/int.jpg" group-title="COLOMBIA",Caracol Internacional
+http://azplay.ddns.me:33200/derek1/derek1/30720
+#EXTINF:-1 tvg-id="CityTV.co" tvg-name="City TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/Citytv-bogota-special-logo-1.png/revision/latest/scale-to-width-down/640?cb=20170906220357" group-title="COLOMBIA",City TV
+http://azplay.ddns.me:33200/derek1/derek1/2373
+#EXTINF:-1 tvg-id="I133.58323.schedulesdirect.org" tvg-name="City TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/Citytv-bogota-special-logo-1.png/revision/latest/scale-to-width-down/640?cb=20170906220357" group-title="COLOMBIA",City TV HD
+http://azplay.ddns.me:33200/derek1/derek1/37335
+#EXTINF:-1 tvg-id="" tvg-name="CNC Medellín" tvg-logo="http://canalcncmedellin.com/recursos/images/logo_cnc.png" group-title="COLOMBIA",CNC Medellín
+http://azplay.ddns.me:33200/derek1/derek1/13328
+#EXTINF:-1 tvg-id="" tvg-name="CNC Pasto" tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="COLOMBIA",CNC Pasto
+http://azplay.ddns.me:33200/derek1/derek1/13330
+#EXTINF:-1 tvg-id="" tvg-name="Cosmovisión" tvg-logo="https://www.cosmovision.tv/dayparting-assets/undefined-show.jpg" group-title="COLOMBIA",Cosmovisión
+http://azplay.ddns.me:33200/derek1/derek1/13326
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/203px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA",Canal Capital
+http://azplay.ddns.me:33200/derek1/derek1/30363
+#EXTINF:-1 tvg-id="" tvg-name="Noticieo 90 Minutos" tvg-logo="https://www.miptv.co/wp-content/uploads/2018/02/logo-Miptv.png" group-title="COLOMBIA",Noticieo 90 Minutos
+http://azplay.ddns.me:33200/derek1/derek1/13327
+#EXTINF:-1 tvg-id="" tvg-name="Mundo+" tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP.jpg" group-title="COLOMBIA",Mundo+
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1427329690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nación TV" tvg-logo="http://www.ntv.com.co/wp-content/uploads/2018/02/ntv-blanco.png" group-title="COLOMBIA",Nación TV
+http://azplay.ddns.me:33200/derek1/derek1/13324
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24" tvg-logo="http://i.imgur.com/fzsER.png" group-title="COLOMBIA",NTN24
+http://azplay.ddns.me:33200/derek1/derek1/2374
+#EXTINF:-1 tvg-id="I130.18568.schedulesdirect.org" tvg-name="RCN " tvg-logo="https://i.postimg.cc/264Sq3GW/rcn.png" group-title="COLOMBIA",RCN 
+http://azplay.ddns.me:33200/derek1/derek1/7112
+#EXTINF:-1 tvg-id="I130.18568.schedulesdirect.org" tvg-name="RCN HD" tvg-logo="https://i.postimg.cc/264Sq3GW/rcn.png" group-title="COLOMBIA",RCN HD
+http://azplay.ddns.me:33200/derek1/derek1/30679
+#EXTINF:-1 tvg-id="I130.18568.schedulesdirect.org" tvg-name="RCN FHD" tvg-logo="https://i.postimg.cc/264Sq3GW/rcn.png" group-title="COLOMBIA",RCN FHD
+http://azplay.ddns.me:33200/derek1/derek1/2375
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-logo="https://i.ibb.co/Kx2HwGP/rc.png" group-title="COLOMBIA",RCN Novelas
+http://azplay.ddns.me:33200/derek1/derek1/30612
+#EXTINF:-1 tvg-id="I130.18568.schedulesdirect.org" tvg-name="RCN HD 2" tvg-logo="https://i.postimg.cc/264Sq3GW/rcn.png" group-title="COLOMBIA",RCN HD 2
+http://azplay.ddns.me:33200/derek1/derek1/44540
+#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia HD" tvg-logo="https://cr00.epimg.net/radio/imagenes/2020/04/05/nacional/1586118577_974673_1586118902_noticia_normal.jpg" group-title="COLOMBIA",Señal Colombia HD
+http://azplay.ddns.me:33200/derek1/derek1/51027
+#EXTINF:-1 tvg-id="" tvg-name="Suram TV HD" tvg-logo="https://i.postimg.cc/bv8mbWtK/LOGO-SURAM.png" group-title="COLOMBIA",Suram TV HD
+http://azplay.ddns.me:33200/derek1/derek1/19635
+#EXTINF:-1 tvg-id="I151.60278.schedulesdirect.org" tvg-name="Tele Medellin" tvg-logo="https://i.postimg.cc/QCRbMyDY/telemedellin.png" group-title="COLOMBIA",Tele Medellin
+http://azplay.ddns.me:33200/derek1/derek1/19636
+#EXTINF:-1 tvg-id="I140.30402.schedulesdirect.org" tvg-name="Teleantioquia " tvg-logo="https://1.bp.blogspot.com/-1tWrFwjBSfI/WIYTBL-JGnI/AAAAAAAAkbU/7OnJUIEkW247d5amflFaGh86fBRAkq4ggCLcB/w1200-h630-p-k-no-nu/large.Teleantioquia.png.5e54041611d5b156482d93ff8c2f0bd2.png" group-title="COLOMBIA",Teleantioquia 
+http://azplay.ddns.me:33200/derek1/derek1/31854
+#EXTINF:-1 tvg-id="" tvg-name="Telecafé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Telecafe2017.png" group-title="COLOMBIA",Telecafé
+http://azplay.ddns.me:33200/derek1/derek1/2377
+#EXTINF:-1 tvg-id="I130.18568.schedulesdirect.org" tvg-name="Telecaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="COLOMBIA",Telecaribe
+http://azplay.ddns.me:33200/derek1/derek1/2378
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="COLOMBIA",Telecaribe2
+http://azplay.ddns.me:33200/derek1/derek1/48451
+#EXTINF:-1 tvg-id="" tvg-name="Teleislas" tvg-logo="https://i.postimg.cc/XNTmq2s0/Teleislas.png" group-title="COLOMBIA",Teleislas
+http://azplay.ddns.me:33200/derek1/derek1/13323
+#EXTINF:-1 tvg-id="" tvg-name="Tele Familia" tvg-logo="" group-title="COLOMBIA",Tele Familia
+http://azplay.ddns.me:33200/derek1/derek1/48452
+#EXTINF:-1 tvg-id="" tvg-name="Telemusica HD" tvg-logo="https://i.postimg.cc/3rDfsXYf/telenusica.png" group-title="COLOMBIA",Telemusica HD
+http://azplay.ddns.me:33200/derek1/derek1/19637
+#EXTINF:-1 tvg-id="I141.18099.schedulesdirect.org" tvg-name="Telepacifico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA",Telepacifico
+http://azplay.ddns.me:33200/derek1/derek1/2617
+#EXTINF:-1 tvg-id="" tvg-name="Tele Pasto" tvg-logo="https://pbs.twimg.com/profile_images/1188460550403035137/cvXAt2Me_400x400.jpg" group-title="COLOMBIA",Tele Pasto
+http://azplay.ddns.me:33200/derek1/derek1/51030
+#EXTINF:-1 tvg-id="" tvg-name="TV Agro" tvg-logo="https://cdn.mitvstatic.com/channels/24c3fcd6-b74a-4b71-a23b-58b36d0a93f6_m.jpg" group-title="COLOMBIA",TV Agro
+http://azplay.ddns.me:33200/derek1/derek1/30364
+#EXTINF:-1 tvg-id="" tvg-name="UAO Play" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/UAOPlay-TV-en-vivo-Online.png" group-title="COLOMBIA",UAO Play
+http://azplay.ddns.me:33200/derek1/derek1/51029
+#EXTINF:-1 tvg-id="" tvg-name="Tu Universo Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739a50b1dceef6584293d88b88d1ec92.webp" group-title="COLOMBIA",Tu Universo Tv
+http://azplay.ddns.me:33200/derek1/derek1/52926
