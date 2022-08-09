@@ -21,8 +21,6 @@ http://magmas5.com:8000/malotv/gratis/2572
 http://magmas5.com:8000/malotv/gratis/3591
 #EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="11 | CANAL UNO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/1200px-Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR ",11 | CANAL UNO HD
 http://magmas5.com:8000/malotv/gratis/3592
-#EXTINF:-1 tvg-id="" tvg-name="12 | TOP LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="ECUADOR ",12 | TOP LATINO
-http://magmas5.com:8000/malotv/gratis/34
 #EXTINF:-1 tvg-id="" tvg-name="13 | OROMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR ",13 | OROMAR TV
 http://magmas5.com:8000/malotv/gratis/3593
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="14 | ECUADOR TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="ECUADOR ",14 | ECUADOR TV
@@ -293,56 +291,6 @@ http://magmas5.com:8000/malotv/gratis/135709
 http://magmas5.com:8000/malotv/gratis/140823
 #EXTINF:-1 tvg-id="CDOPremium.cl" tvg-name=" CDO PREMIUM CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CDO_Premium.png/768px-CDO_Premium.png" group-title="LATINO STD", CDO PREMIUM CHILE
 http://magmas5.com:8000/malotv/gratis/144859
-#EXTINF:-1 tvg-id="" tvg-name="01 | ANT TV SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/1200px-Antenna_TV_logo.svg.png" group-title="LATINO HD",01 | ANT TV SUR
-http://magmas5.com:8000/malotv/gratis/4833
-#EXTINF:-1 tvg-id="" tvg-name="02 | PERU MAGICO SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Per%C3%BA_M%C3%A1gico_%28Logo_2014%29.png" group-title="LATINO HD",02 | PERU MAGICO SUR
-http://magmas5.com:8000/malotv/gratis/4839
-#EXTINF:-1 tvg-id="" tvg-name="03 | C9N SUR" tvg-logo="https://www.television.com.py/wp-content/uploads/2017/04/C9N-logo1-620x350.png" group-title="LATINO HD",03 | C9N SUR
-http://magmas5.com:8000/malotv/gratis/4846
-#EXTINF:-1 tvg-id="Paravision.py" tvg-name="04 | PARAVISION SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="LATINO HD",04 | PARAVISION SUR
-http://magmas5.com:8000/malotv/gratis/4860
-#EXTINF:-1 tvg-id="" tvg-name="05 | AMERICA NEXT SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/AmericaNext_%28Per%C3%BA%29.png/200px-AmericaNext_%28Per%C3%BA%29.png" group-title="LATINO HD",05 | AMERICA NEXT SUR
-http://magmas5.com:8000/malotv/gratis/4861
-#EXTINF:-1 tvg-id="VenevisionPlus.ve" tvg-name="06 | VENEVISION PLUS SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Venevision_Plus_Logo_2016.png/1271px-Venevision_Plus_Logo_2016.png" group-title="LATINO HD",06 | VENEVISION PLUS SUR
-http://magmas5.com:8000/malotv/gratis/4871
-#EXTINF:-1 tvg-id="" tvg-name="07 | VE_MERIDIANO SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png" group-title="LATINO HD",07 | VE_MERIDIANO SUR
-http://magmas5.com:8000/malotv/gratis/4873
-#EXTINF:-1 tvg-id="" tvg-name="08 | CONCIENCIA SUR" tvg-logo="https://4.bp.blogspot.com/-OweZRswFIVw/VFKlpeZifGI/AAAAAAAACwA/SxLjk9osVlw/s1600/logo%2Bde%2BTV%2BConCiencia%2B2013-actual.png" group-title="LATINO HD",08 | CONCIENCIA SUR
-http://magmas5.com:8000/malotv/gratis/4878
-#EXTINF:-1 tvg-id="" tvg-name="09 | VALE TV SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" group-title="LATINO HD",09 | VALE TV SUR
-http://magmas5.com:8000/malotv/gratis/4879
-#EXTINF:-1 tvg-id="" tvg-name="10 | SNT SUR" tvg-logo="https://appnew.megainfoapp.com/files/1/SNT.png" group-title="LATINO HD",10 | SNT SUR
-http://magmas5.com:8000/malotv/gratis/4882
-#EXTINF:-1 tvg-id="" tvg-name="11 | LA TELE SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="LATINO HD",11 | LA TELE SUR
-http://magmas5.com:8000/malotv/gratis/4883
-#EXTINF:-1 tvg-id="" tvg-name="12 | FARRA PLAY HD SUR" tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="LATINO HD",12 | FARRA PLAY HD SUR
-http://magmas5.com:8000/malotv/gratis/4884
-#EXTINF:-1 tvg-id="" tvg-name="13 | GEN TV SUR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png" group-title="LATINO HD",13 | GEN TV SUR
-http://magmas5.com:8000/malotv/gratis/4885
-#EXTINF:-1 tvg-id="" tvg-name="14 | LA TELE SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="LATINO HD",14 | LA TELE SUR
-http://magmas5.com:8000/malotv/gratis/4887
-#EXTINF:-1 tvg-id="" tvg-name="15 | NOTICIAS PY SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Noticias_PY.png" group-title="LATINO HD",15 | NOTICIAS PY SUR
-http://magmas5.com:8000/malotv/gratis/4888
-#EXTINF:-1 tvg-id="Paravision.py" tvg-name="16 | PARAVISION SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="LATINO HD",16 | PARAVISION SUR
-http://magmas5.com:8000/malotv/gratis/4890
-#EXTINF:-1 tvg-id="Trece.py" tvg-name="17 | RPC SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" group-title="LATINO HD",17 | RPC SUR
-http://magmas5.com:8000/malotv/gratis/4891
-#EXTINF:-1 tvg-id="" tvg-name="18 | SNT SUR" tvg-logo="https://appnew.megainfoapp.com/files/1/SNT.png" group-title="LATINO HD",18 | SNT SUR
-http://magmas5.com:8000/malotv/gratis/4892
-#EXTINF:-1 tvg-id="CanaldelSur.cl" tvg-name="19 | SUR TV SUR" tvg-logo="https://surtv.mx/wp-content/uploads/2018/05/cropped-avatar.png" group-title="LATINO HD",19 | SUR TV SUR
-http://magmas5.com:8000/malotv/gratis/4893
-#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="20 | TELEFUTURO SUR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telefuturo-en-vivo-Online.png" group-title="LATINO HD",20 | TELEFUTURO SUR
-http://magmas5.com:8000/malotv/gratis/4894
-#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="21 | UNICANAL SUR" tvg-logo="https://esacademic.com/pictures/eswiki/85/Unicanal-logo.png" group-title="LATINO HD",21 | UNICANAL SUR
-http://magmas5.com:8000/malotv/gratis/4895
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="22 | TV PERU SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="LATINO HD",22 | TV PERU SUR
-http://magmas5.com:8000/malotv/gratis/4900
-#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="26 | EL GOURMET SUR" tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="LATINO HD",26 | EL GOURMET SUR
-http://magmas5.com:8000/malotv/gratis/135879
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="27 | TV5 MONDE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="LATINO HD",27 | TV5 MONDE HD
-http://magmas5.com:8000/malotv/gratis/135880
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="29 | EUROCHANNEL HD" tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" group-title="LATINO HD",29 | EUROCHANNEL HD
-http://magmas5.com:8000/malotv/gratis/146594
 #EXTINF:-1 tvg-id="AEPanregional.us" tvg-name="32 | A&E (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="PREMIUM STD",32 | A&E (Low)
 http://magmas5.com:8000/malotv/gratis/3839
 #EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="42 | AXN SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/05/axn-1-logo-png-transparent.png" group-title="PREMIUM STD",42 | AXN SD
@@ -473,6 +421,56 @@ http://magmas5.com:8000/malotv/gratis/141554
 http://magmas5.com:8000/malotv/gratis/144827
 #EXTINF:-1 tvg-id="" tvg-name="83 | STARZ KIDS AND FAMILY (Esp)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0DIivW4_eVJuxhu3-RFvXuXEE6edRPjJkfOOd8JNy1IYA81fwH72QpFbtCPBtKDb-Q5M&usqp=CAU&ved=0CAsQjRxqFwoTCPj81ZzR3vMCFQAAAAAdAAAAABAD" group-title="PREMIUM STD",83 | STARZ KIDS AND FAMILY (Esp)
 http://magmas5.com:8000/malotv/gratis/148541
+#EXTINF:-1 tvg-id="" tvg-name="01 | ANT TV SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/1200px-Antenna_TV_logo.svg.png" group-title="LATINO HD",01 | ANT TV SUR
+http://magmas5.com:8000/malotv/gratis/4833
+#EXTINF:-1 tvg-id="" tvg-name="02 | PERU MAGICO SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Per%C3%BA_M%C3%A1gico_%28Logo_2014%29.png" group-title="LATINO HD",02 | PERU MAGICO SUR
+http://magmas5.com:8000/malotv/gratis/4839
+#EXTINF:-1 tvg-id="" tvg-name="03 | C9N SUR" tvg-logo="https://www.television.com.py/wp-content/uploads/2017/04/C9N-logo1-620x350.png" group-title="LATINO HD",03 | C9N SUR
+http://magmas5.com:8000/malotv/gratis/4846
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="04 | PARAVISION SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="LATINO HD",04 | PARAVISION SUR
+http://magmas5.com:8000/malotv/gratis/4860
+#EXTINF:-1 tvg-id="" tvg-name="05 | AMERICA NEXT SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/AmericaNext_%28Per%C3%BA%29.png/200px-AmericaNext_%28Per%C3%BA%29.png" group-title="LATINO HD",05 | AMERICA NEXT SUR
+http://magmas5.com:8000/malotv/gratis/4861
+#EXTINF:-1 tvg-id="VenevisionPlus.ve" tvg-name="06 | VENEVISION PLUS SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Venevision_Plus_Logo_2016.png/1271px-Venevision_Plus_Logo_2016.png" group-title="LATINO HD",06 | VENEVISION PLUS SUR
+http://magmas5.com:8000/malotv/gratis/4871
+#EXTINF:-1 tvg-id="" tvg-name="07 | VE_MERIDIANO SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png" group-title="LATINO HD",07 | VE_MERIDIANO SUR
+http://magmas5.com:8000/malotv/gratis/4873
+#EXTINF:-1 tvg-id="" tvg-name="08 | CONCIENCIA SUR" tvg-logo="https://4.bp.blogspot.com/-OweZRswFIVw/VFKlpeZifGI/AAAAAAAACwA/SxLjk9osVlw/s1600/logo%2Bde%2BTV%2BConCiencia%2B2013-actual.png" group-title="LATINO HD",08 | CONCIENCIA SUR
+http://magmas5.com:8000/malotv/gratis/4878
+#EXTINF:-1 tvg-id="" tvg-name="09 | VALE TV SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" group-title="LATINO HD",09 | VALE TV SUR
+http://magmas5.com:8000/malotv/gratis/4879
+#EXTINF:-1 tvg-id="" tvg-name="10 | SNT SUR" tvg-logo="https://appnew.megainfoapp.com/files/1/SNT.png" group-title="LATINO HD",10 | SNT SUR
+http://magmas5.com:8000/malotv/gratis/4882
+#EXTINF:-1 tvg-id="" tvg-name="11 | LA TELE SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="LATINO HD",11 | LA TELE SUR
+http://magmas5.com:8000/malotv/gratis/4883
+#EXTINF:-1 tvg-id="" tvg-name="12 | FARRA PLAY HD SUR" tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="LATINO HD",12 | FARRA PLAY HD SUR
+http://magmas5.com:8000/malotv/gratis/4884
+#EXTINF:-1 tvg-id="" tvg-name="13 | GEN TV SUR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png" group-title="LATINO HD",13 | GEN TV SUR
+http://magmas5.com:8000/malotv/gratis/4885
+#EXTINF:-1 tvg-id="" tvg-name="14 | LA TELE SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="LATINO HD",14 | LA TELE SUR
+http://magmas5.com:8000/malotv/gratis/4887
+#EXTINF:-1 tvg-id="" tvg-name="15 | NOTICIAS PY SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Noticias_PY.png" group-title="LATINO HD",15 | NOTICIAS PY SUR
+http://magmas5.com:8000/malotv/gratis/4888
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="16 | PARAVISION SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="LATINO HD",16 | PARAVISION SUR
+http://magmas5.com:8000/malotv/gratis/4890
+#EXTINF:-1 tvg-id="Trece.py" tvg-name="17 | RPC SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" group-title="LATINO HD",17 | RPC SUR
+http://magmas5.com:8000/malotv/gratis/4891
+#EXTINF:-1 tvg-id="" tvg-name="18 | SNT SUR" tvg-logo="https://appnew.megainfoapp.com/files/1/SNT.png" group-title="LATINO HD",18 | SNT SUR
+http://magmas5.com:8000/malotv/gratis/4892
+#EXTINF:-1 tvg-id="CanaldelSur.cl" tvg-name="19 | SUR TV SUR" tvg-logo="https://surtv.mx/wp-content/uploads/2018/05/cropped-avatar.png" group-title="LATINO HD",19 | SUR TV SUR
+http://magmas5.com:8000/malotv/gratis/4893
+#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="20 | TELEFUTURO SUR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telefuturo-en-vivo-Online.png" group-title="LATINO HD",20 | TELEFUTURO SUR
+http://magmas5.com:8000/malotv/gratis/4894
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="21 | UNICANAL SUR" tvg-logo="https://esacademic.com/pictures/eswiki/85/Unicanal-logo.png" group-title="LATINO HD",21 | UNICANAL SUR
+http://magmas5.com:8000/malotv/gratis/4895
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="22 | TV PERU SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="LATINO HD",22 | TV PERU SUR
+http://magmas5.com:8000/malotv/gratis/4900
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="26 | EL GOURMET SUR" tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="LATINO HD",26 | EL GOURMET SUR
+http://magmas5.com:8000/malotv/gratis/135879
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="27 | TV5 MONDE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="LATINO HD",27 | TV5 MONDE HD
+http://magmas5.com:8000/malotv/gratis/135880
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="29 | EUROCHANNEL HD" tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" group-title="LATINO HD",29 | EUROCHANNEL HD
+http://magmas5.com:8000/malotv/gratis/146594
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="ANIMAL PLANET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="PREMIUM AR.",ANIMAL PLANET SD
 http://magmas5.com:8000/malotv/gratis/4910
 #EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="PREMIUM AR.",AXN SD
@@ -935,6 +933,8 @@ http://magmas5.com:8000/malotv/gratis/126386
 http://magmas5.com:8000/malotv/gratis/126387
 #EXTINF:-1 tvg-id="I10.87056.schedulesdirect.org" tvg-name="FOX" tvg-logo="" group-title="ESPAÑA",FOX
 http://magmas5.com:8000/malotv/gratis/126359
+#EXTINF:-1 tvg-id="" tvg-name="12 | TOP LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA",12 | TOP LATINO
+http://magmas5.com:8000/malotv/gratis/34
 #EXTINF:-1 tvg-id="" tvg-name=" DJ Fer Palacio - Live Concerts FHD" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb300868ffcd048a9db0a27f84" group-title="MUSICA", DJ Fer Palacio - Live Concerts FHD
 http://magmas5.com:8000/malotv/gratis/145913
 #EXTINF:-1 tvg-id="" tvg-name=" Marc Anthony - Live Concerts" tvg-logo="https://www.attcenter.com/assets/img/MA-Updated-320x320-30d87ae537.jpg" group-title="MUSICA",Marc Anthony - Live Concerts
